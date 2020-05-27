@@ -11,3 +11,13 @@
 ▲ Machine Learning Model - **Kate** <br/>
 ● Database Mockup - **Bharat** <br/>
 x Dashboard/Technologies Used - **Helen** <br/>
+
+### Topic
+<Topic and reasons why we chose this topic>
+
+### Data Source
+<Description of data source>
+
+
+### Research Questions
+<Questions we hope to answer and our hypotheses>
