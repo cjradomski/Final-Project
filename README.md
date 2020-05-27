@@ -3,9 +3,10 @@
 
 ### Communication
 * Messaging through Slack to discuss meeting times and share ideas
-* Zoom Meeting on Tuesday, May 26 @ 7 pm to discuss role division and intial topic exploration
+* Zoom Meeting on Tuesday, May 26 @ 7 pm to discuss role division and initial topic exploration
+* Zoom Meeting on Wednesday, May 27 @ 7 pm to discuss datasets we have found and finalize topic
 
-### Roles
+### Roles - Segment 1
 ■ Git Hub Repository Set Up - **Christian** <br/>
 ▲ Machine Learning Model - **Kate** <br/>
 ● Database Mockup - **Bharat** <br/>
