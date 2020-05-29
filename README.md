@@ -13,13 +13,14 @@
 ● Database Mockup - **Helen** <br/>
 x Dashboard/Technologies Used - **Bharat** <br/>
 
-### Topic
-
-
+### Topic: High School Graduation Rates Based on District Funding Patterns
+We will be analyzing California school district data to determine if there is a relation between district funding patterns and student success. Our goal is that our findings will help school districts in determining what programs to invest funds into.
 
 ### Data Source
-<Description of data source>
+The data that is being used in this analysis will be attained from the California Department of Education. 
+http://www.ed-data.org/district/Alameda/Berkeley-Unified/ps_Mzc5NjU%5E
 
 
 ### Research Questions
-<Questions we hope to answer and our hypotheses>
+* Does school funding directly correlate to school performance? 
+* What program areas should be funded to create the greatest impact?
