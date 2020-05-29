@@ -10,11 +10,11 @@
 ### Roles - Segment 1
 ■ Git Hub Repository Set Up - **Christian** <br/>
 ▲ Machine Learning Model - **Kate** <br/>
-● Database Mockup - **Bharat** <br/>
-x Dashboard/Technologies Used - **Helen** <br/>
+● Database Mockup - **Helen** <br/>
+x Dashboard/Technologies Used - **Bharat** <br/>
 
 ### Topic
-<Topic and reasons why we chose this topic>
+
 
 
 ### Data Source
