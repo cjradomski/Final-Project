@@ -18,8 +18,9 @@ We will be analyzing California school district data to determine if there is a 
 
 ### Data Source
 The data that is being used in this analysis will be attained from the California Department of Education. 
-http://www.ed-data.org/district/Alameda/Berkeley-Unified/ps_Mzc5NjU%5E
-
+* Datasets for CA Enrollment https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
+* Datasets for CA Graduation by Race and Gender https://www.cde.ca.gov/ds/sd/sd/filesgrads.asp
+* Datasets for CA Annual Financial Data https://www.cde.ca.gov/ds/fd/fd/
 
 ### Research Questions
 * Does school funding directly correlate to school performance? 
