@@ -1,8 +1,6 @@
 # UCB Extension Data Analytics Bootcamp Final Project  
 ## *Presented by Bharat Aggarwal, Kate Beliankova, Helen Nguyen-Quach, & Christian Radomski*
 
-<<<<<<< HEAD
-=======
 ### Communication
 * Messaging through Slack to discuss meeting times and share ideas
 * Zoom Meeting on Tuesday, May 26 @ 7 pm to discuss role division and initial topic exploration
@@ -27,4 +25,4 @@ The data that is being used in this analysis will be attained from the Californi
 ### Research Questions
 * Does school funding directly correlate to school performance? 
 * What program areas should be funded to create the greatest impact?
->>>>>>> Christian
+
