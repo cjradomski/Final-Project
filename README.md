@@ -24,7 +24,7 @@ The data that is being used in this analysis will be attained from the Californi
 * Datasets for CA Annual Financial Data https://www.cde.ca.gov/ds/fd/fd/
   
 ### Technologies Used
-We have used quite a few technologies. Below is a list of the same: 
+We have used quite a few technologies in this project so far. Below is a list of the same: 
 * Slack and Zoom for Communication within the team
 * Google Search Engine was used to explore data options
 * Github to consolidate each member's work and merge to the master repository.
