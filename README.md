@@ -22,6 +22,17 @@ The data that is being used in this analysis will be attained from the Californi
 * Datasets for CA Enrollment https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
 * Datasets for CA Graduation by Race and Gender https://www.cde.ca.gov/ds/sd/sd/filesgrads.asp
 * Datasets for CA Annual Financial Data https://www.cde.ca.gov/ds/fd/fd/
+  
+### Technologies Used
+We have used quite a few technologies in this project so far. Below is a list of the same: 
+* Slack and Zoom for Communication within the team
+* Google Search Engine was used to explore data options
+* Github to consolidate each member's work and merge to the master repository.
+* Quickdatabasediagrams.com to create the schema.
+* Python with Jupyter Notebook to draft the code and analyse the collected School data.
+* Within python following modules were imported - Pandas, sklearn - Kmeans,sklearn - StandardScaler, sklearn - PCA, hvplot and plotlyexpress to conduct cluster analysis.
+* For Prediction modelling, python modules were imported in jupyter notebook such as pandas, sklearn - StandardScaler,sklearn - OneHotEncoder, sklearn - train_test_split and tensorflow.
+* We have also used ANOVA, where in we imported pandas, numpy, scipy stats and within stats we imported statsmodels.formula.api and statsmodels.api.
 
 ### Research Questions
 * Does school funding directly correlate to school performance? 
