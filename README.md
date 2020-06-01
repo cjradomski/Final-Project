@@ -28,7 +28,8 @@ We have used quite a few technologies in this project so far. Below is a list of
 * Slack and Zoom for Communication within the team
 * Google Search Engine was used to explore data options
 * Github to consolidate each member's work and merge to the master repository.
-* Quickdatabasediagrams.com to create the schema.
+* Quickdatabasediagrams(https://www.quickdatabasediagrams.com/) to create the schema.
+* Postgresql to load the data into the tables as per the schema defined.
 * Python with Jupyter Notebook to draft the code and analyse the collected School data.
 * Within python following modules were imported - Pandas, sklearn - Kmeans,sklearn - StandardScaler, sklearn - PCA, hvplot and plotlyexpress to conduct cluster analysis.
 * For Prediction modelling, python modules were imported in jupyter notebook such as pandas, sklearn - StandardScaler,sklearn - OneHotEncoder, sklearn - train_test_split and tensorflow.
