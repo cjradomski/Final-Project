@@ -8,6 +8,10 @@
 * Zoom Meeting on Thursday, May 27 @ 6:45 pm to finalize data set before class. During class we presented a pitch of our project.
 * Zoom Meeting on Saturday, May 30 @ 7:00 pm to give update on deliverables
 * Zoom Meeting on Sunday, May 31 @ 7:00 pm to go over requirements for deliverable and goals for next week
+* Zoom Meeting on Wednesday, June 3 @ 7:00 pm to discuss roles for the next two weeks. Decided to hold the same roles from previous week.
+* Class Meeting on Thursday June 4 @ 7:00 pm discussed during class plan to go forward with finalizing dataset, starting presentation, and discussing what visulizations to create.
+* Zoom Meeting on Monday June 8 @ 9:00 pm to finalize features that will be used on predictive modeling. Decided on "Function" column.
+* Class Meeting on Thursday June 11 @ 7:00 pm to share progress for deliverables due this week. Half of visualizations are complete and final dataset has been cleaned and should be ready for modeling. Received feedback on segment 1 deliverables and we need to connect machine learning model to a database.
 
 ### Roles - Segment 1
 ■ Git Hub Repository Set Up - **Christian** <br/>
