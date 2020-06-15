@@ -23,6 +23,9 @@ x Dashboard - **Bharat** <br/>
 ### Topic: High School Graduation Rates Based on District Funding Patterns
 We will be analyzing California school district data for the school years 2012 through 2017 to determine if there is a relation between district funding patterns and student success. We will measure student success by taking student enrollment and graduation amounts to determine graduation rate. Our steps for this project include attaining data from various years of school district data from a reliable source, cleaning the data to fit the parameters of our model, testing our model, and making a conclusion of our analysis on whether our hypothesis can be supported. Our goal is that our findings will help school districts in determining what programs to invest funds into.
 
+![](Visualizations/Outline_Flowchart.png)
+
+
 ### Data Source
 The data that is being used in this analysis will be attained from the California Department of Education. 
 * Datasets for CA Enrollment https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
