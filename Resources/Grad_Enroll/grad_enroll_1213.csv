@@ -1,0 +1,3725 @@
+CDS_CODE,DISTRICT,ETHNIC,GR_12,ENR_TOTAL,GRADS,UC_GRADS
+1100170000000,Alameda County Office of Education,0,2,35,6,2
+1100170000000,Alameda County Office of Education,1,2,24,2,2
+1100170000000,Alameda County Office of Education,2,13,369,30,22
+1100170000000,Alameda County Office of Education,3,5,44,6,2
+1100170000000,Alameda County Office of Education,4,1,54,14,2
+1100170000000,Alameda County Office of Education,5,116,916,186,82
+1100170000000,Alameda County Office of Education,6,102,707,154,90
+1100170000000,Alameda County Office of Education,7,51,898,100,36
+1100170000000,Alameda County Office of Education,9,12,128,12,6
+1316170000000,California School for the Deaf-Fremont (State Spec,2,2,26,2,0
+1316170000000,California School for the Deaf-Fremont (State Spec,4,4,14,2,0
+1316170000000,California School for the Deaf-Fremont (State Spec,5,22,179,32,0
+1316170000000,California School for the Deaf-Fremont (State Spec,6,4,35,2,0
+1316170000000,California School for the Deaf-Fremont (State Spec,7,19,137,26,0
+1611190000000,Alameda Unified,1,3,21,6,4
+1611190000000,Alameda Unified,2,325,1506,602,392
+1611190000000,Alameda Unified,3,7,69,10,4
+1611190000000,Alameda Unified,4,84,479,154,60
+1611190000000,Alameda Unified,5,144,952,224,84
+1611190000000,Alameda Unified,6,114,862,164,30
+1611190000000,Alameda Unified,7,264,1480,478,270
+1611190000000,Alameda Unified,9,11,223,16,8
+1611270000000,Albany City Unified,2,108,388,214,114
+1611270000000,Albany City Unified,3,1,3,1,0
+1611270000000,Albany City Unified,4,3,15,6,2
+1611270000000,Albany City Unified,5,47,218,92,14
+1611270000000,Albany City Unified,6,22,78,38,12
+1611270000000,Albany City Unified,7,96,389,196,74
+1611270000000,Albany City Unified,9,29,116,58,26
+1611430000000,Berkeley Unified,2,87,294,164,82
+1611430000000,Berkeley Unified,4,6,24,16,2
+1611430000000,Berkeley Unified,5,178,948,322,114
+1611430000000,Berkeley Unified,6,227,845,380,70
+1611430000000,Berkeley Unified,7,296,1212,572,426
+1611430000000,Berkeley Unified,9,72,320,118,72
+1611500000000,Castro Valley Unified,0,7,23,6,4
+1611500000000,Castro Valley Unified,1,2,9,4,2
+1611500000000,Castro Valley Unified,2,171,727,334,264
+1611500000000,Castro Valley Unified,3,4,18,6,4
+1611500000000,Castro Valley Unified,4,27,88,56,36
+1611500000000,Castro Valley Unified,5,186,736,340,134
+1611500000000,Castro Valley Unified,6,54,241,100,30
+1611500000000,Castro Valley Unified,7,255,1001,480,258
+1611500000000,Castro Valley Unified,9,78,305,156,80
+1611680000000,Emery Unified,2,7,23,14,6
+1611680000000,Emery Unified,5,10,49,14,8
+1611680000000,Emery Unified,6,29,139,42,6
+1611680000000,Emery Unified,9,1,1,1,1
+1611760000000,Fremont Unified,1,13,50,20,6
+1611760000000,Fremont Unified,2,1243,5121,2402,1936
+1611760000000,Fremont Unified,3,20,75,38,18
+1611760000000,Fremont Unified,4,145,646,268,124
+1611760000000,Fremont Unified,5,376,1609,674,200
+1611760000000,Fremont Unified,6,96,457,154,34
+1611760000000,Fremont Unified,7,526,2090,984,496
+1611760000000,Fremont Unified,9,49,196,90,44
+1611920000000,Hayward Unified,1,11,41,18,8
+1611920000000,Hayward Unified,2,123,623,212,152
+1611920000000,Hayward Unified,3,85,288,148,70
+1611920000000,Hayward Unified,4,121,587,226,146
+1611920000000,Hayward Unified,5,767,3605,1234,516
+1611920000000,Hayward Unified,6,244,1042,390,114
+1611920000000,Hayward Unified,7,135,585,216,116
+1611920000000,Hayward Unified,9,28,165,46,26
+1612000000000,Livermore Valley Joint Unified,0,1,6,2,0
+1612000000000,Livermore Valley Joint Unified,1,7,21,14,8
+1612000000000,Livermore Valley Joint Unified,2,58,215,108,72
+1612000000000,Livermore Valley Joint Unified,3,4,13,8,4
+1612000000000,Livermore Valley Joint Unified,4,28,120,54,36
+1612000000000,Livermore Valley Joint Unified,5,257,1052,434,158
+1612000000000,Livermore Valley Joint Unified,6,13,71,28,10
+1612000000000,Livermore Valley Joint Unified,7,682,2390,1326,752
+1612000000000,Livermore Valley Joint Unified,9,65,283,122,70
+1612340000000,Newark Unified,0,1,4,2,0
+1612340000000,Newark Unified,1,2,6,4,2
+1612340000000,Newark Unified,2,56,241,108,50
+1612340000000,Newark Unified,3,11,47,18,2
+1612340000000,Newark Unified,4,46,211,88,42
+1612340000000,Newark Unified,5,252,984,424,70
+1612340000000,Newark Unified,6,32,157,46,8
+1612340000000,Newark Unified,7,109,396,204,54
+1612340000000,Newark Unified,9,34,69,62,20
+1612420000000,New Haven Unified,1,2,5,2,1
+1612420000000,New Haven Unified,2,258,904,450,310
+1612420000000,New Haven Unified,3,40,169,60,40
+1612420000000,New Haven Unified,4,234,912,412,222
+1612420000000,New Haven Unified,5,444,1476,594,202
+1612420000000,New Haven Unified,6,127,409,168,62
+1612420000000,New Haven Unified,7,118,355,194,94
+1612420000000,New Haven Unified,9,21,129,38,20
+1612590000000,Oakland Unified,0,25,271,26,20
+1612590000000,Oakland Unified,1,14,78,14,2
+1612590000000,Oakland Unified,2,541,2720,880,556
+1612590000000,Oakland Unified,3,35,263,56,22
+1612590000000,Oakland Unified,4,30,162,56,34
+1612590000000,Oakland Unified,5,1065,11631,1792,1012
+1612590000000,Oakland Unified,6,1005,6953,1492,500
+1612590000000,Oakland Unified,7,170,1191,300,220
+1612590000000,Oakland Unified,9,26,335,50,28
+1612600000000,Oakland Unified,0,1,545,2,0
+1612600000000,Oakland Unified,2,2,3579,2,0
+1612600000000,Oakland Unified,5,24,7833,18,2
+1612600000000,Oakland Unified,6,35,6553,28,2
+1612600000000,Oakland Unified,7,5,3106,10,2
+1612600000000,Oakland Unified,9,1,736,2,2
+1612750000000,Piedmont City Unified,2,38,147,78,72
+1612750000000,Piedmont City Unified,4,2,13,4,2
+1612750000000,Piedmont City Unified,5,10,28,20,14
+1612750000000,Piedmont City Unified,6,5,22,10,4
+1612750000000,Piedmont City Unified,7,141,583,282,258
+1612750000000,Piedmont City Unified,9,9,21,18,16
+1612910000000,San Leandro Unified,0,0,2,2,0
+1612910000000,San Leandro Unified,1,5,12,8,0
+1612910000000,San Leandro Unified,2,116,414,204,120
+1612910000000,San Leandro Unified,3,14,45,22,6
+1612910000000,San Leandro Unified,4,63,256,118,52
+1612910000000,San Leandro Unified,5,281,1194,424,76
+1612910000000,San Leandro Unified,6,161,564,264,64
+1612910000000,San Leandro Unified,7,78,298,118,30
+1612910000000,San Leandro Unified,9,6,36,10,2
+1613090000000,San Lorenzo Unified,1,6,18,10,2
+1613090000000,San Lorenzo Unified,2,147,705,280,206
+1613090000000,San Lorenzo Unified,3,25,76,40,14
+1613090000000,San Lorenzo Unified,4,101,355,194,108
+1613090000000,San Lorenzo Unified,5,473,2215,820,240
+1613090000000,San Lorenzo Unified,6,163,656,264,60
+1613090000000,San Lorenzo Unified,7,127,544,230,72
+1613090000000,San Lorenzo Unified,9,2,41,6,6
+1750930000000,Dublin Unified,1,1,15,2,2
+1750930000000,Dublin Unified,2,85,1645,168,154
+1750930000000,Dublin Unified,3,2,21,2,0
+1750930000000,Dublin Unified,4,28,349,56,40
+1750930000000,Dublin Unified,5,67,501,110,46
+1750930000000,Dublin Unified,6,38,267,70,38
+1750930000000,Dublin Unified,7,202,1354,392,226
+1750930000000,Dublin Unified,9,12,63,24,16
+1751010000000,Pleasanton Unified,1,11,41,18,14
+1751010000000,Pleasanton Unified,2,337,1389,666,554
+1751010000000,Pleasanton Unified,3,4,25,10,4
+1751010000000,Pleasanton Unified,4,37,132,68,54
+1751010000000,Pleasanton Unified,5,124,465,226,104
+1751010000000,Pleasanton Unified,6,25,109,42,16
+1751010000000,Pleasanton Unified,7,749,2763,1382,934
+1751010000000,Pleasanton Unified,9,15,96,30,12
+2100250000000,Alpine County Office of Education,1,0,2,2,0
+2613330000000,Alpine County Unified,1,0,2,2,0
+3100330000000,Amador County Office of Education,2,1,1,1,0
+3100330000000,Amador County Office of Education,5,3,72,4,0
+3100330000000,Amador County Office of Education,7,23,190,12,0
+3739810000000,Amador County Unified,0,3,28,2,0
+3739810000000,Amador County Unified,1,5,39,6,2
+3739810000000,Amador County Unified,3,0,3,2,0
+3739810000000,Amador County Unified,4,4,11,8,4
+3739810000000,Amador County Unified,5,67,215,110,16
+3739810000000,Amador County Unified,6,2,6,4,0
+3739810000000,Amador County Unified,7,259,990,438,106
+3739810000000,Amador County Unified,9,11,57,16,6
+4100410000000,Butte County Office of Education,1,5,55,8,0
+4100410000000,Butte County Office of Education,2,1,15,4,0
+4100410000000,Butte County Office of Education,4,1,2,1,0
+4100410000000,Butte County Office of Education,5,23,217,26,0
+4100410000000,Butte County Office of Education,6,1,11,2,0
+4100410000000,Butte County Office of Education,7,103,669,182,22
+4100410000000,Butte County Office of Education,9,3,28,6,0
+4614080000000,Biggs Unified,1,1,4,2,0
+4614080000000,Biggs Unified,2,1,1,1,1
+4614080000000,Biggs Unified,5,13,66,26,4
+4614080000000,Biggs Unified,7,25,90,42,6
+4614080000000,Biggs Unified,9,1,2,1,0
+4614240000000,Chico Unified,0,1,23,2,0
+4614240000000,Chico Unified,1,21,86,32,12
+4614240000000,Chico Unified,2,98,295,172,80
+4614240000000,Chico Unified,3,6,16,14,6
+4614240000000,Chico Unified,4,8,34,16,14
+4614240000000,Chico Unified,5,215,945,374,102
+4614240000000,Chico Unified,6,31,156,54,8
+4614240000000,Chico Unified,7,815,3428,1506,652
+4614240000000,Chico Unified,9,15,72,20,4
+4614320000000,Durham Unified,2,1,2,2,0
+4614320000000,Durham Unified,5,21,76,38,8
+4614320000000,Durham Unified,6,1,2,1,0
+4614320000000,Durham Unified,7,66,237,132,40
+4614320000000,Durham Unified,9,2,5,2,2
+4614400000000,Feather Falls Union Elementary,1,7,20,10,0
+4614400000000,Feather Falls Union Elementary,5,4,11,10,0
+4614400000000,Feather Falls Union Elementary,7,3,11,12,0
+4614400000000,Feather Falls Union Elementary,9,2,4,4,0
+4614570000000,Golden Feather Union Elementary,7,6,38,4,0
+4615150000000,Oroville Union High,1,14,86,30,0
+4615150000000,Oroville Union High,2,124,435,236,74
+4615150000000,Oroville Union High,3,0,4,1,1
+4615150000000,Oroville Union High,4,2,3,2,1
+4615150000000,Oroville Union High,5,113,510,176,22
+4615150000000,Oroville Union High,6,13,50,22,0
+4615150000000,Oroville Union High,7,289,1136,496,52
+4615150000000,Oroville Union High,9,52,228,86,6
+4615310000000,Paradise Unified,1,4,20,6,0
+4615310000000,Paradise Unified,2,2,10,4,2
+4615310000000,Paradise Unified,5,34,150,48,12
+4615310000000,Paradise Unified,6,1,15,2,0
+4615310000000,Paradise Unified,7,286,1205,510,110
+4615310000000,Paradise Unified,9,20,84,24,6
+4615320000000,Paradise Unified,7,10,2130,20,0
+4615320000000,Paradise Unified,9,4,228,2,0
+4755070000000,Gridley Unified,0,6,40,12,0
+4755070000000,Gridley Unified,2,7,22,12,6
+4755070000000,Gridley Unified,5,93,382,168,46
+4755070000000,Gridley Unified,6,2,5,4,0
+4755070000000,Gridley Unified,7,65,259,114,30
+4755070000000,Gridley Unified,9,1,2,1,1
+5100580000000,Calaveras County Office of Education,1,1,10,4,0
+5100580000000,Calaveras County Office of Education,3,1,3,2,0
+5100580000000,Calaveras County Office of Education,5,10,70,18,0
+5100580000000,Calaveras County Office of Education,7,50,370,106,0
+5100580000000,Calaveras County Office of Education,9,7,37,16,0
+5100590000000,Calaveras County Office of Education,5,1,15,4,0
+5100590000000,Calaveras County Office of Education,6,2,3,2,0
+5100590000000,Calaveras County Office of Education,7,5,74,10,0
+5615560000000,Bret Harte Union High,1,1,14,4,0
+5615560000000,Bret Harte Union High,2,5,8,10,4
+5615560000000,Bret Harte Union High,5,37,117,72,20
+5615560000000,Bret Harte Union High,6,2,4,4,0
+5615560000000,Bret Harte Union High,7,144,560,288,104
+5615560000000,Bret Harte Union High,9,8,50,20,10
+5615640000000,Calaveras Unified,1,4,20,6,0
+5615640000000,Calaveras Unified,2,4,9,6,4
+5615640000000,Calaveras Unified,4,1,9,2,2
+5615640000000,Calaveras Unified,5,23,140,38,10
+5615640000000,Calaveras Unified,6,5,19,8,4
+5615640000000,Calaveras Unified,7,228,926,428,104
+5615640000000,Calaveras Unified,9,3,10,8,0
+6100660000000,Colusa County Office of Education,5,1,24,2,0
+6100660000000,Colusa County Office of Education,7,0,3,1,0
+6615980000000,Colusa Unified,1,2,11,2,0
+6615980000000,Colusa Unified,3,1,2,1,0
+6615980000000,Colusa Unified,5,64,265,94,22
+6615980000000,Colusa Unified,6,2,6,4,0
+6615980000000,Colusa Unified,7,44,165,66,26
+6616060000000,Maxwell Unified,1,1,3,2,0
+6616060000000,Maxwell Unified,5,11,51,20,4
+6616060000000,Maxwell Unified,7,18,58,32,4
+6616140000000,Pierce Joint Unified,1,3,6,6,0
+6616140000000,Pierce Joint Unified,2,0,1,2,0
+6616140000000,Pierce Joint Unified,5,59,273,112,30
+6616140000000,Pierce Joint Unified,6,4,8,8,0
+6616140000000,Pierce Joint Unified,7,25,96,52,18
+6616220000000,Williams Unified,1,2,6,2,0
+6616220000000,Williams Unified,2,3,16,6,6
+6616220000000,Williams Unified,5,87,754,132,34
+6616220000000,Williams Unified,7,7,69,16,8
+7100740000000,Contra Costa County Office of Education,2,29,171,52,48
+7100740000000,Contra Costa County Office of Education,3,4,26,8,8
+7100740000000,Contra Costa County Office of Education,4,16,108,30,30
+7100740000000,Contra Costa County Office of Education,5,95,1110,156,120
+7100740000000,Contra Costa County Office of Education,6,52,380,54,26
+7100740000000,Contra Costa County Office of Education,7,286,1258,522,506
+7100740000000,Contra Costa County Office of Education,9,6,45,10,10
+7616300000000,Acalanes Union High,0,3,76,2,2
+7616300000000,Acalanes Union High,1,1,6,2,2
+7616300000000,Acalanes Union High,2,172,647,334,276
+7616300000000,Acalanes Union High,3,5,14,10,4
+7616300000000,Acalanes Union High,4,21,88,40,26
+7616300000000,Acalanes Union High,5,114,411,222,110
+7616300000000,Acalanes Union High,6,13,72,26,18
+7616300000000,Acalanes Union High,7,973,3682,1930,1476
+7616300000000,Acalanes Union High,9,90,353,180,104
+7616480000000,Antioch Unified,0,4,11,4,2
+7616480000000,Antioch Unified,1,13,77,24,10
+7616480000000,Antioch Unified,2,84,567,144,86
+7616480000000,Antioch Unified,3,18,92,22,0
+7616480000000,Antioch Unified,4,76,539,128,60
+7616480000000,Antioch Unified,5,558,3234,850,246
+7616480000000,Antioch Unified,6,437,2687,560,80
+7616480000000,Antioch Unified,7,408,2162,616,254
+7616480000000,Antioch Unified,9,72,532,122,42
+7616970000000,John Swett Unified,2,17,53,32,16
+7616970000000,John Swett Unified,4,12,51,20,10
+7616970000000,John Swett Unified,5,35,170,58,10
+7616970000000,John Swett Unified,6,23,91,42,0
+7616970000000,John Swett Unified,7,41,131,68,8
+7616970000000,John Swett Unified,9,7,40,14,4
+7617210000000,Liberty Union High,0,2,4,4,0
+7617210000000,Liberty Union High,1,16,48,22,4
+7617210000000,Liberty Union High,2,45,203,86,54
+7617210000000,Liberty Union High,3,14,50,20,6
+7617210000000,Liberty Union High,4,99,336,172,98
+7617210000000,Liberty Union High,5,641,2521,1030,288
+7617210000000,Liberty Union High,6,180,666,236,60
+7617210000000,Liberty Union High,7,1001,3617,1756,768
+7617210000000,Liberty Union High,9,28,259,50,18
+7617390000000,Martinez Unified,1,1,7,2,0
+7617390000000,Martinez Unified,2,8,41,18,14
+7617390000000,Martinez Unified,3,1,5,2,0
+7617390000000,Martinez Unified,4,7,31,14,8
+7617390000000,Martinez Unified,5,96,352,172,58
+7617390000000,Martinez Unified,6,12,40,20,4
+7617390000000,Martinez Unified,7,218,791,384,168
+7617390000000,Martinez Unified,9,39,148,72,30
+7617540000000,Mt. Diablo Unified,0,15,203,2,0
+7617540000000,Mt. Diablo Unified,1,12,51,22,2
+7617540000000,Mt. Diablo Unified,2,166,742,322,172
+7617540000000,Mt. Diablo Unified,3,35,122,62,14
+7617540000000,Mt. Diablo Unified,4,103,513,184,68
+7617540000000,Mt. Diablo Unified,5,787,3487,1276,200
+7617540000000,Mt. Diablo Unified,6,136,517,208,34
+7617540000000,Mt. Diablo Unified,7,970,3646,1798,672
+7617540000000,Mt. Diablo Unified,9,27,139,46,12
+7617880000000,Pittsburg Unified,0,1,14,6,0
+7617880000000,Pittsburg Unified,2,26,155,50,24
+7617880000000,Pittsburg Unified,3,9,61,18,8
+7617880000000,Pittsburg Unified,4,39,260,76,38
+7617880000000,Pittsburg Unified,5,341,2538,608,146
+7617880000000,Pittsburg Unified,6,153,1092,270,50
+7617880000000,Pittsburg Unified,7,51,296,82,26
+7617880000000,Pittsburg Unified,9,6,45,12,2
+7617960000000,West Contra Costa Unified,0,2,14,8,2
+7617960000000,West Contra Costa Unified,1,8,22,10,2
+7617960000000,West Contra Costa Unified,2,261,932,484,278
+7617960000000,West Contra Costa Unified,3,16,76,24,8
+7617960000000,West Contra Costa Unified,4,137,574,250,146
+7617960000000,West Contra Costa Unified,5,1009,4418,1556,552
+7617960000000,West Contra Costa Unified,6,487,2025,718,198
+7617960000000,West Contra Costa Unified,7,225,854,398,182
+7617960000000,West Contra Costa Unified,9,1,29,6,0
+7618040000000,San Ramon Valley Unified,0,0,5,2,0
+7618040000000,San Ramon Valley Unified,1,5,21,8,4
+7618040000000,San Ramon Valley Unified,2,510,5932,1030,854
+7618040000000,San Ramon Valley Unified,3,7,37,12,6
+7618040000000,San Ramon Valley Unified,4,60,585,120,74
+7618040000000,San Ramon Valley Unified,5,191,1148,384,186
+7618040000000,San Ramon Valley Unified,6,60,362,110,44
+7618040000000,San Ramon Valley Unified,7,1290,6372,2552,1656
+7618040000000,San Ramon Valley Unified,9,141,1015,288,204
+8100820000000,Del Norte County Office of Education,1,26,126,30,2
+8100820000000,Del Norte County Office of Education,2,3,9,4,0
+8100820000000,Del Norte County Office of Education,5,12,64,10,0
+8100820000000,Del Norte County Office of Education,6,3,5,4,0
+8100820000000,Del Norte County Office of Education,7,59,388,82,0
+8618200000000,Del Norte County Unified,1,34,126,44,4
+8618200000000,Del Norte County Unified,2,30,98,54,16
+8618200000000,Del Norte County Unified,4,4,9,8,2
+8618200000000,Del Norte County Unified,5,49,201,88,16
+8618200000000,Del Norte County Unified,6,3,8,4,0
+8618200000000,Del Norte County Unified,7,161,611,268,50
+9100900000000,El Dorado County Office of Education,0,1,3,10,0
+9100900000000,El Dorado County Office of Education,1,7,23,6,0
+9100900000000,El Dorado County Office of Education,2,2,7,4,0
+9100900000000,El Dorado County Office of Education,3,1,3,4,0
+9100900000000,El Dorado County Office of Education,5,35,207,90,2
+9100900000000,El Dorado County Office of Education,6,10,57,40,0
+9100900000000,El Dorado County Office of Education,7,81,532,120,10
+9100900000000,El Dorado County Office of Education,9,5,33,6,0
+9618530000000,El Dorado Union High,0,4,33,8,4
+9618530000000,El Dorado Union High,1,16,67,34,8
+9618530000000,El Dorado Union High,2,72,248,140,98
+9618530000000,El Dorado Union High,3,8,27,14,4
+9618530000000,El Dorado Union High,4,27,60,50,32
+9618530000000,El Dorado Union High,5,173,817,312,122
+9618530000000,El Dorado Union High,6,21,80,44,26
+9618530000000,El Dorado Union High,7,1363,5101,2586,1298
+9618530000000,El Dorado Union High,9,27,440,54,14
+9619030000000,Lake Tahoe Unified,1,3,15,6,6
+9619030000000,Lake Tahoe Unified,2,4,24,6,4
+9619030000000,Lake Tahoe Unified,4,18,59,32,14
+9619030000000,Lake Tahoe Unified,5,103,460,166,32
+9619030000000,Lake Tahoe Unified,6,6,19,10,2
+9619030000000,Lake Tahoe Unified,7,159,904,292,120
+9619030000000,Lake Tahoe Unified,9,1,17,2,0
+9737830000000,Black Oak Mine Unified,1,8,21,14,4
+9737830000000,Black Oak Mine Unified,2,2,7,2,0
+9737830000000,Black Oak Mine Unified,3,1,1,1,0
+9737830000000,Black Oak Mine Unified,5,6,54,12,6
+9737830000000,Black Oak Mine Unified,7,115,724,224,44
+9765960000000,SBC - Pacific Technology,7,0,135,2,0
+10101100000000,Fresno County Office of Education,2,17,104,10,0
+10101100000000,Fresno County Office of Education,3,0,2,1,0
+10101100000000,Fresno County Office of Education,5,198,1265,116,2
+10101100000000,Fresno County Office of Education,6,50,341,26,0
+10101100000000,Fresno County Office of Education,7,69,336,58,0
+10621200000000,Clovis Unified,1,31,318,44,8
+10621200000000,Clovis Unified,2,449,5080,814,584
+10621200000000,Clovis Unified,3,12,99,22,14
+10621200000000,Clovis Unified,4,49,722,98,68
+10621200000000,Clovis Unified,5,910,13025,1444,620
+10621200000000,Clovis Unified,6,108,1324,176,108
+10621200000000,Clovis Unified,7,1487,18072,2528,1492
+10621200000000,Clovis Unified,9,57,1185,94,66
+10621300000000,Coalinga-Huron Joint Unified,0,1,33,2,0
+10621300000000,Coalinga-Huron Joint Unified,2,7,80,12,4
+10621300000000,Coalinga-Huron Joint Unified,4,2,20,2,2
+10621300000000,Coalinga-Huron Joint Unified,5,190,3599,284,62
+10621300000000,Coalinga-Huron Joint Unified,6,3,44,6,2
+10621300000000,Coalinga-Huron Joint Unified,7,41,515,68,18
+10621600000000,Fowler Unified,2,14,226,28,22
+10621600000000,Fowler Unified,5,130,1905,256,106
+10621600000000,Fowler Unified,6,2,17,6,0
+10621600000000,Fowler Unified,7,15,230,32,20
+10621700000000,Fresno Unified,0,4,12,20,0
+10621700000000,Fresno Unified,1,42,458,56,8
+10621700000000,Fresno Unified,2,847,8644,1438,828
+10621700000000,Fresno Unified,3,20,241,30,18
+10621700000000,Fresno Unified,4,21,283,38,20
+10621700000000,Fresno Unified,5,3185,47653,4632,1522
+10621700000000,Fresno Unified,6,561,6904,814,272
+10621700000000,Fresno Unified,7,799,8823,1336,622
+10621700000000,Fresno Unified,9,33,671,46,14
+10622600000000,Kingsburg Joint Union High,2,11,38,20,14
+10622600000000,Kingsburg Joint Union High,5,162,668,272,90
+10622600000000,Kingsburg Joint Union High,7,110,391,206,98
+10622600000000,Kingsburg Joint Union High,9,5,33,8,6
+10622700000000,Kings Canyon Joint Unified,0,3,34,4,0
+10622700000000,Kings Canyon Joint Unified,1,4,38,4,0
+10622700000000,Kings Canyon Joint Unified,2,9,114,18,10
+10622700000000,Kings Canyon Joint Unified,3,1,4,2,2
+10622700000000,Kings Canyon Joint Unified,4,6,52,12,4
+10622700000000,Kings Canyon Joint Unified,5,662,8507,944,286
+10622700000000,Kings Canyon Joint Unified,6,5,40,6,0
+10622700000000,Kings Canyon Joint Unified,7,129,1072,198,72
+10622700000000,Kings Canyon Joint Unified,9,6,93,6,0
+10622800000000,Laton Joint Unified,5,26,590,52,18
+10622800000000,Laton Joint Unified,7,1,73,20,4
+10623300000000,Orange Center,5,7,386,2,0
+10623600000000,Pacific Union Elementary,5,0,316,386,118
+10623600000000,Parlier Unified,5,218,3281,386,118
+10623800000000,Raisin City Elementary,5,64,496,2,0
+10624100000000,Sanger Unified,1,4,48,6,4
+10624100000000,Sanger Unified,2,66,1083,132,86
+10624100000000,Sanger Unified,4,2,60,4,4
+10624100000000,Sanger Unified,5,547,7657,1006,428
+10624100000000,Sanger Unified,6,10,157,20,12
+10624100000000,Sanger Unified,7,130,1733,250,134
+10624100000000,Sanger Unified,9,3,124,6,0
+10624300000000,Selma Unified,2,20,273,34,22
+10624300000000,Selma Unified,4,1,13,2,2
+10624300000000,Selma Unified,5,355,5657,658,224
+10624300000000,Selma Unified,6,5,30,4,2
+10624300000000,Selma Unified,7,40,446,74,30
+10625400000000,West Park Elementary,0,2,3,1,1
+10625400000000,West Park Elementary,1,1,2,1,1
+10625400000000,West Park Elementary,2,0,34,2,2
+10625400000000,West Park Elementary,3,0,1,1,1
+10625400000000,West Park Elementary,5,98,531,118,118
+10625400000000,West Park Elementary,6,7,24,12,12
+10625400000000,West Park Elementary,7,25,77,38,38
+10625500000000,Westside Elementary,1,3,10,4,0
+10625500000000,Westside Elementary,2,7,13,4,0
+10625500000000,Westside Elementary,5,116,468,164,0
+10625500000000,Westside Elementary,6,17,22,24,0
+10625500000000,Westside Elementary,7,53,95,62,0
+10738100000000,Firebaugh-Las Deltas Unified,2,1,4,2,0
+10738100000000,Firebaugh-Las Deltas Unified,5,160,2135,290,114
+10738100000000,Firebaugh-Las Deltas Unified,7,7,136,10,2
+10739700000000,Central Unified,0,6,89,12,2
+10739700000000,Central Unified,1,7,106,10,4
+10739700000000,Central Unified,2,166,1966,292,180
+10739700000000,Central Unified,3,2,33,4,2
+10739700000000,Central Unified,4,13,180,26,12
+10739700000000,Central Unified,5,545,8293,842,230
+10739700000000,Central Unified,6,109,1540,174,60
+10739700000000,Central Unified,7,220,2867,388,152
+10739700000000,Central Unified,9,12,188,12,6
+10740000000000,Kerman Unified,1,1,23,2,2
+10740000000000,Kerman Unified,2,24,261,44,28
+10740000000000,Kerman Unified,3,1,1,1,0
+10740000000000,Kerman Unified,5,229,3939,428,90
+10740000000000,Kerman Unified,6,2,23,4,0
+10740000000000,Kerman Unified,7,33,521,70,14
+10751300000000,Mendota Unified,5,165,2815,276,110
+10752300000000,Golden Plains Unified,5,90,1821,142,50
+10752800000000,Sierra Unified,1,21,225,34,4
+10752800000000,Sierra Unified,4,1,13,2,2
+10752800000000,Sierra Unified,5,23,190,36,8
+10752800000000,Sierra Unified,7,106,928,210,74
+10754100000000,Riverdale Joint Unified,2,3,9,6,2
+10754100000000,Riverdale Joint Unified,3,1,2,1,1
+10754100000000,Riverdale Joint Unified,5,92,1273,174,94
+10754100000000,Riverdale Joint Unified,6,3,19,6,4
+10754100000000,Riverdale Joint Unified,7,17,248,34,18
+10756000000000,Caruthers Unified,2,8,93,16,16
+10756000000000,Caruthers Unified,5,97,1042,164,62
+10756000000000,Caruthers Unified,6,4,7,8,0
+10756000000000,Caruthers Unified,7,24,188,44,12
+10767800000000,Washington Unified,1,1,15,2,0
+10767800000000,Washington Unified,2,38,293,64,46
+10767800000000,Washington Unified,3,1,3,2,0
+10767800000000,Washington Unified,4,3,6,6,2
+10767800000000,Washington Unified,5,211,2111,348,106
+10767800000000,Washington Unified,6,34,434,60,4
+10767800000000,Washington Unified,7,32,230,58,30
+11101200000000,Glenn County Office of Education,5,20,128,14,0
+11101200000000,Glenn County Office of Education,6,2,2,1,0
+11101200000000,Glenn County Office of Education,7,18,204,20,0
+11101200000000,Glenn County Office of Education,9,5,16,10,2
+11626500000000,Princeton Joint Unified,1,1,9,8,0
+11626500000000,Princeton Joint Unified,5,13,126,22,12
+11626500000000,Princeton Joint Unified,7,4,67,12,4
+11626500000000,Stony Creek Joint Unified,1,3,42,8,0
+11626500000000,Stony Creek Joint Unified,5,0,13,22,12
+11626500000000,Stony Creek Joint Unified,7,3,47,12,4
+11626500000000,Stony Creek Joint Unified,9,2,8,2,0
+11626600000000,Willows Unified,1,3,41,4,0
+11626600000000,Willows Unified,2,5,82,6,2
+11626600000000,Willows Unified,3,1,8,2,0
+11626600000000,Willows Unified,4,1,4,2,0
+11626600000000,Willows Unified,5,56,695,98,6
+11626600000000,Willows Unified,7,67,611,108,10
+11754800000000,Orland Joint Unified,2,4,58,8,4
+11754800000000,Orland Joint Unified,5,81,1301,154,20
+11754800000000,Orland Joint Unified,6,3,11,6,2
+11754800000000,Orland Joint Unified,7,65,756,114,30
+11765600000000,Hamilton Unified,5,66,619,122,42
+11765600000000,Hamilton Unified,7,23,84,48,22
+11765600000000,Hamilton Unified,9,1,3,2,2
+12101200000000,Humboldt County Office of Education,1,0,29,2,0
+12101200000000,Humboldt County Office of Education,2,1,9,2,2
+12101200000000,Humboldt County Office of Education,4,1,2,2,2
+12101200000000,Humboldt County Office of Education,5,1,61,2,2
+12101200000000,Humboldt County Office of Education,7,23,312,62,32
+12101200000000,Humboldt County Office of Education,9,5,42,6,4
+12626900000000,Northern Humboldt Union High,0,12,277,30,16
+12626900000000,Northern Humboldt Union High,1,25,85,46,16
+12626900000000,Northern Humboldt Union High,2,6,27,10,4
+12626900000000,Northern Humboldt Union High,3,3,7,6,0
+12626900000000,Northern Humboldt Union High,5,38,152,68,38
+12626900000000,Northern Humboldt Union High,6,8,20,12,8
+12626900000000,Northern Humboldt Union High,7,287,1054,532,288
+12626900000000,Northern Humboldt Union High,9,8,100,18,6
+12628100000000,Fortuna Union High,1,17,62,26,4
+12628100000000,Fortuna Union High,2,3,18,6,4
+12628100000000,Fortuna Union High,3,1,2,2,2
+12628100000000,Fortuna Union High,4,2,10,2,2
+12628100000000,Fortuna Union High,5,46,202,84,18
+12628100000000,Fortuna Union High,6,2,5,4,0
+12628100000000,Fortuna Union High,7,182,761,344,100
+12629000000000,Klamath-Trinity Joint Unified,1,54,852,94,4
+12629000000000,Klamath-Trinity Joint Unified,5,1,46,2,0
+12629000000000,Klamath-Trinity Joint Unified,7,9,108,12,2
+12629300000000,Loleta Union Elementary,2,1,1,1,0
+12629300000000,Loleta Union Elementary,5,7,61,12,0
+12629300000000,Loleta Union Elementary,7,24,120,30,0
+12630300000000,South Bay Union Elementary,5,4,148,6,2
+12630300000000,South Bay Union Elementary,7,23,525,42,12
+12630300000000,South Bay Union Elementary,9,4,90,6,0
+12630400000000,Southern Humboldt Joint Unified,0,0,3,2,0
+12630400000000,Southern Humboldt Joint Unified,1,4,26,8,0
+12630400000000,Southern Humboldt Joint Unified,2,1,11,2,0
+12630400000000,Southern Humboldt Joint Unified,5,6,87,10,0
+12630400000000,Southern Humboldt Joint Unified,7,51,571,88,0
+12753700000000,Ferndale Unified,1,1,26,2,0
+12753700000000,Ferndale Unified,5,4,92,10,2
+12753700000000,Ferndale Unified,7,31,392,56,10
+12753800000000,Mattole Unified,1,13,51,28,0
+12753800000000,Mattole Unified,2,1,12,2,0
+12753800000000,Mattole Unified,5,5,65,10,0
+12753800000000,Mattole Unified,7,59,600,116,0
+12753800000000,Mattole Unified,9,8,49,20,0
+12755200000000,Eureka City Schools,0,4,33,8,0
+12755200000000,Eureka City Schools,1,17,211,40,2
+12755200000000,Eureka City Schools,2,42,385,84,30
+12755200000000,Eureka City Schools,3,3,59,6,0
+12755200000000,Eureka City Schools,4,2,29,2,2
+12755200000000,Eureka City Schools,5,41,642,72,10
+12755200000000,Eureka City Schools,6,5,99,8,4
+12755200000000,Eureka City Schools,7,226,2035,428,112
+12755200000000,Eureka City Schools,9,9,176,16,0
+13101300000000,Imperial County Office of Education,0,0,0,1,0
+13101300000000,Imperial County Office of Education,5,51,510,8,0
+13101300000000,Imperial County Office of Education,7,2,16,4,0
+13630800000000,Brawley Union High,2,1,13,2,0
+13630800000000,Brawley Union High,4,4,6,8,4
+13630800000000,Brawley Union High,5,403,1561,710,134
+13630800000000,Brawley Union High,6,5,16,12,0
+13630800000000,Brawley Union High,7,43,221,88,40
+13630800000000,Brawley Union High,9,3,12,8,4
+13631000000000,Calexico Unified,2,3,46,8,6
+13631000000000,Calexico Unified,5,676,9109,1182,266
+13631000000000,Calexico Unified,7,3,42,6,0
+13631100000000,Calipatria Unified,5,80,1041,150,46
+13631100000000,Calipatria Unified,6,3,28,6,2
+13631100000000,Calipatria Unified,7,8,98,16,6
+13631200000000,Central Union High,1,2,14,2,0
+13631200000000,Central Union High,2,15,55,32,26
+13631200000000,Central Union High,3,3,6,6,2
+13631200000000,Central Union High,5,809,3733,1566,442
+13631200000000,Central Union High,6,14,53,28,0
+13631200000000,Central Union High,7,59,231,110,62
+13631200000000,Central Union High,9,5,10,10,2
+13631200000000,El Centro Elementary,1,0,12,2,0
+13631200000000,El Centro Elementary,2,0,32,32,26
+13631200000000,El Centro Elementary,3,0,4,6,2
+13631200000000,El Centro Elementary,5,0,5511,1566,442
+13631200000000,El Centro Elementary,6,0,75,28,0
+13631200000000,El Centro Elementary,7,0,235,110,62
+13631200000000,El Centro Elementary,9,0,18,10,2
+13631500000000,Holtville Unified,5,119,1376,222,82
+13631500000000,Holtville Unified,7,12,183,20,14
+13631500000000,Holtville Unified,9,2,17,2,0
+13631600000000,Imperial Unified,2,2,39,6,2
+13631600000000,Imperial Unified,4,2,32,4,0
+13631600000000,Imperial Unified,5,138,2911,310,74
+13631600000000,Imperial Unified,6,7,69,14,4
+13631600000000,Imperial Unified,7,37,628,88,28
+13631600000000,Imperial Unified,9,2,21,2,0
+13632100000000,Mulberry Elementary,5,0,46,28,0
+13632100000000,Mulberry Elementary,7,0,32,2,0
+13632100000000,San Pasqual Valley Unified,1,11,350,22,0
+13632100000000,San Pasqual Valley Unified,5,15,345,28,0
+13632100000000,San Pasqual Valley Unified,7,0,21,2,0
+14101400000000,Inyo County Office of Education,0,1,3,2,0
+14101400000000,Inyo County Office of Education,1,2,19,6,0
+14101400000000,Inyo County Office of Education,2,2,11,8,0
+14101400000000,Inyo County Office of Education,3,2,6,4,0
+14101400000000,Inyo County Office of Education,4,2,4,2,0
+14101400000000,Inyo County Office of Education,5,343,1174,620,0
+14101400000000,Inyo County Office of Education,6,103,386,222,0
+14101400000000,Inyo County Office of Education,7,16,54,36,0
+14632500000000,Big Pine Unified,1,4,90,10,2
+14632500000000,Big Pine Unified,5,1,28,2,0
+14632500000000,Big Pine Unified,7,4,58,8,4
+14632700000000,Death Valley Unified,7,2,23,8,0
+14632900000000,Lone Pine Unified,1,3,52,6,4
+14632900000000,Lone Pine Unified,2,2,7,2,2
+14632900000000,Lone Pine Unified,5,16,189,26,8
+14632900000000,Lone Pine Unified,7,8,124,16,8
+14633000000000,Owens Valley Unified,5,1,24,2,0
+14633000000000,Owens Valley Unified,7,0,26,2,0
+14766900000000,Bishop Unified,0,1,66,8,4
+14766900000000,Bishop Unified,1,24,262,44,6
+14766900000000,Bishop Unified,2,4,29,6,0
+14766900000000,Bishop Unified,5,59,675,110,28
+14766900000000,Bishop Unified,6,3,6,4,2
+14766900000000,Bishop Unified,7,90,852,166,78
+14766900000000,Bishop Unified,9,9,91,20,10
+15101600000000,Kern County Office of Education,1,6,40,10,2
+15101600000000,Kern County Office of Education,2,4,52,2,0
+15101600000000,Kern County Office of Education,4,10,44,6,4
+15101600000000,Kern County Office of Education,5,521,2580,416,62
+15101600000000,Kern County Office of Education,6,104,345,72,2
+15101600000000,Kern County Office of Education,7,192,1451,238,26
+15101600000000,Kern County Office of Education,9,6,28,6,2
+15634100000000,Delano Joint Union High,1,2,5,2,0
+15634100000000,Delano Joint Union High,2,9,40,20,6
+15634100000000,Delano Joint Union High,3,0,1,1,0
+15634100000000,Delano Joint Union High,4,118,490,228,134
+15634100000000,Delano Joint Union High,5,845,3671,1504,492
+15634100000000,Delano Joint Union High,6,12,37,22,4
+15634100000000,Delano Joint Union High,7,17,79,32,14
+15635300000000,Kern Union High,0,3,102,6,2
+15635300000000,Kern Union High,1,83,284,128,36
+15635300000000,Kern Union High,2,208,930,380,228
+15635300000000,Kern Union High,3,16,60,26,10
+15635300000000,Kern Union High,4,95,398,174,100
+15635300000000,Kern Union High,5,5736,23004,9432,2644
+15635300000000,Kern Union High,6,591,2347,892,230
+15635300000000,Kern Union High,7,2395,9379,4088,1618
+15635300000000,Kern Union High,9,165,566,268,110
+15636300000000,Maricopa Unified,0,3,67,2,0
+15636300000000,Maricopa Unified,2,2,54,4,0
+15636300000000,Maricopa Unified,3,1,12,2,0
+15636300000000,Maricopa Unified,5,31,527,46,0
+15636300000000,Maricopa Unified,6,7,218,8,0
+15636300000000,Maricopa Unified,7,71,1408,120,2
+15636800000000,Mojave Unified,2,1,18,2,0
+15636800000000,Mojave Unified,4,1,22,2,0
+15636800000000,Mojave Unified,5,69,1084,152,20
+15636800000000,Mojave Unified,6,44,742,66,2
+15636800000000,Mojave Unified,7,48,712,86,14
+15636800000000,Mojave Unified,9,10,73,18,2
+15636900000000,Muroc Joint Unified,2,2,29,4,4
+15636900000000,Muroc Joint Unified,3,2,11,2,2
+15636900000000,Muroc Joint Unified,4,4,59,6,4
+15636900000000,Muroc Joint Unified,5,25,458,52,16
+15636900000000,Muroc Joint Unified,6,12,154,18,8
+15636900000000,Muroc Joint Unified,7,77,1089,142,56
+15636900000000,Muroc Joint Unified,9,14,261,30,10
+15636900000000,Norris Elementary,2,0,97,4,4
+15636900000000,Norris Elementary,3,0,12,2,2
+15636900000000,Norris Elementary,4,0,140,6,4
+15636900000000,Norris Elementary,5,0,1031,52,16
+15636900000000,Norris Elementary,6,0,36,18,8
+15636900000000,Norris Elementary,7,0,2127,142,56
+15636900000000,Norris Elementary,9,0,190,30,10
+15637700000000,Semitropic Elementary,0,11,25,6,0
+15637700000000,Semitropic Elementary,1,1,5,4,0
+15637700000000,Semitropic Elementary,3,1,3,2,0
+15637700000000,Semitropic Elementary,4,4,7,6,0
+15637700000000,Semitropic Elementary,5,40,368,32,0
+15637700000000,Semitropic Elementary,6,9,28,6,0
+15637700000000,Semitropic Elementary,7,46,125,36,0
+15637800000000,South Fork Union,1,0,12,6,0
+15637800000000,South Fork Union,5,0,44,178,16
+15637800000000,South Fork Union,6,0,1,19,2
+15637800000000,South Fork Union,7,0,205,152,16
+15637800000000,Southern Kern Unified,0,10,181,12,0
+15637800000000,Southern Kern Unified,1,1,26,6,0
+15637800000000,Southern Kern Unified,2,1,17,4,0
+15637800000000,Southern Kern Unified,5,79,1555,178,16
+15637800000000,Southern Kern Unified,6,14,299,38,4
+15637800000000,Southern Kern Unified,7,69,888,152,16
+15638200000000,Taft Union High,1,3,23,4,0
+15638200000000,Taft Union High,3,4,12,8,2
+15638200000000,Taft Union High,5,91,413,162,24
+15638200000000,Taft Union High,6,2,10,4,0
+15638200000000,Taft Union High,7,142,549,248,52
+15638200000000,Taft Union High,9,7,19,14,4
+15638300000000,Tehachapi Unified,1,3,34,6,2
+15638300000000,Tehachapi Unified,2,5,51,10,2
+15638300000000,Tehachapi Unified,3,1,7,2,0
+15638300000000,Tehachapi Unified,4,1,23,2,0
+15638300000000,Tehachapi Unified,5,109,1312,180,34
+15638300000000,Tehachapi Unified,6,4,75,6,0
+15638300000000,Tehachapi Unified,7,248,2895,432,134
+15638300000000,Tehachapi Unified,9,2,49,4,0
+15638300000000,Vineland Elementary,5,0,744,180,34
+15638300000000,Vineland Elementary,7,0,18,432,134
+15638600000000,Wasco Union High,1,1,3,2,2
+15638600000000,Wasco Union High,2,2,3,2,0
+15638600000000,Wasco Union High,5,413,1618,718,172
+15638600000000,Wasco Union High,6,6,40,8,0
+15638600000000,Wasco Union High,7,20,90,36,4
+15638600000000,Wasco Union High,9,3,6,8,4
+15737400000000,Sierra Sands Unified,1,1,63,2,0
+15737400000000,Sierra Sands Unified,2,13,137,26,16
+15737400000000,Sierra Sands Unified,3,5,54,8,0
+15737400000000,Sierra Sands Unified,4,7,103,14,8
+15737400000000,Sierra Sands Unified,5,82,1238,128,14
+15737400000000,Sierra Sands Unified,6,17,250,30,2
+15737400000000,Sierra Sands Unified,7,234,3101,420,74
+15737400000000,Sierra Sands Unified,9,4,62,10,2
+15739100000000,McFarland Unified,5,169,3238,338,126
+15739100000000,McFarland Unified,6,1,12,2,2
+15739100000000,McFarland Unified,7,4,43,8,2
+15751700000000,El Tejon Unified,2,1,10,4,0
+15751700000000,El Tejon Unified,3,1,3,2,0
+15751700000000,El Tejon Unified,5,22,259,34,4
+15751700000000,El Tejon Unified,7,57,572,108,32
+15751700000000,El Tejon Unified,9,7,40,14,2
+16101700000000,Kings County Office of Education,5,34,270,10,0
+16101700000000,Kings County Office of Education,6,8,39,6,0
+16101700000000,Kings County Office of Education,7,11,63,10,0
+16638800000000,Armona Union Elementary,0,2,13,2,0
+16638800000000,Armona Union Elementary,1,2,29,2,0
+16638800000000,Armona Union Elementary,2,23,37,8,0
+16638800000000,Armona Union Elementary,3,7,10,4,0
+16638800000000,Armona Union Elementary,5,184,1240,200,0
+16638800000000,Armona Union Elementary,6,23,82,22,0
+16638800000000,Armona Union Elementary,7,92,614,138,0
+16638800000000,Armona Union Elementary,9,6,20,8,0
+16638800000000,Central Union Elementary,0,0,69,2,0
+16638800000000,Central Union Elementary,1,0,215,2,0
+16638800000000,Central Union Elementary,2,0,35,8,0
+16638800000000,Central Union Elementary,3,0,13,4,0
+16638800000000,Central Union Elementary,5,0,576,200,0
+16638800000000,Central Union Elementary,6,0,127,22,0
+16638800000000,Central Union Elementary,7,0,661,138,0
+16638800000000,Central Union Elementary,9,0,41,8,0
+16638900000000,Corcoran Joint Unified,0,6,52,4,0
+16638900000000,Corcoran Joint Unified,4,2,9,4,2
+16638900000000,Corcoran Joint Unified,5,201,2865,250,10
+16638900000000,Corcoran Joint Unified,6,10,111,14,2
+16638900000000,Corcoran Joint Unified,7,28,284,36,0
+16639300000000,Hanford Joint Union High,1,7,24,10,0
+16639300000000,Hanford Joint Union High,2,26,87,52,24
+16639300000000,Hanford Joint Union High,4,30,87,56,38
+16639300000000,Hanford Joint Union High,5,519,2223,858,188
+16639300000000,Hanford Joint Union High,6,52,230,90,14
+16639300000000,Hanford Joint Union High,7,323,1218,562,230
+16639300000000,Hanford Joint Union High,9,4,16,8,4
+16639300000000,Island Union Elementary,2,0,1,26,12
+16639300000000,Island Union Elementary,4,0,2,28,19
+16639300000000,Island Union Elementary,5,0,127,858,188
+16639300000000,Island Union Elementary,6,0,2,45,7
+16639300000000,Island Union Elementary,7,0,168,562,230
+16639300000000,Island Union Elementary,9,0,13,8,4
+16639800000000,Lemoore Union High,1,17,70,26,6
+16639800000000,Lemoore Union High,2,8,35,10,8
+16639800000000,Lemoore Union High,4,57,146,102,46
+16639800000000,Lemoore Union High,5,240,1120,442,112
+16639800000000,Lemoore Union High,6,30,150,50,12
+16639800000000,Lemoore Union High,7,170,745,308,132
+16739300000000,Reef-Sunset Unified,5,137,2556,232,0
+16739300000000,Reef-Sunset Unified,7,7,48,10,0
+17101700000000,Lake County Office of Education,1,3,12,2,0
+17101700000000,Lake County Office of Education,5,3,13,6,0
+17101700000000,Lake County Office of Education,7,10,35,10,0
+17640100000000,Kelseyville Unified,1,2,56,4,0
+17640100000000,Kelseyville Unified,2,1,16,2,0
+17640100000000,Kelseyville Unified,5,45,640,84,10
+17640100000000,Kelseyville Unified,6,2,26,4,0
+17640100000000,Kelseyville Unified,7,94,827,184,28
+17640100000000,Kelseyville Unified,9,3,32,6,0
+17640200000000,Konocti Unified,1,8,106,16,6
+17640200000000,Konocti Unified,2,3,19,6,4
+17640200000000,Konocti Unified,3,1,4,2,0
+17640200000000,Konocti Unified,5,62,985,102,34
+17640200000000,Konocti Unified,6,9,105,16,0
+17640200000000,Konocti Unified,7,115,1600,192,50
+17640200000000,Konocti Unified,9,6,227,10,4
+17640300000000,Lakeport Unified,1,6,150,4,0
+17640300000000,Lakeport Unified,2,1,14,2,2
+17640300000000,Lakeport Unified,5,25,417,44,10
+17640300000000,Lakeport Unified,7,74,870,136,50
+17640300000000,Lakeport Unified,9,11,44,22,10
+17640600000000,Middletown Unified,0,1,4,2,0
+17640600000000,Middletown Unified,1,3,18,6,2
+17640600000000,Middletown Unified,2,1,8,2,0
+17640600000000,Middletown Unified,3,1,10,2,0
+17640600000000,Middletown Unified,5,20,344,42,14
+17640600000000,Middletown Unified,7,96,1187,192,62
+17640600000000,Middletown Unified,9,1,50,2,2
+17640600000000,Upper Lake Union Elementary,1,0,77,6,2
+17640600000000,Upper Lake Union Elementary,2,0,6,2,0
+17640600000000,Upper Lake Union Elementary,3,0,2,1,0
+17640600000000,Upper Lake Union Elementary,5,0,143,42,14
+17640600000000,Upper Lake Union Elementary,7,0,298,192,62
+17640600000000,Upper Lake Union Elementary,9,0,1,1,1
+17640700000000,Upper Lake Union High,1,9,38,16,2
+17640700000000,Upper Lake Union High,2,3,7,4,2
+17640700000000,Upper Lake Union High,5,18,88,26,10
+17640700000000,Upper Lake Union High,7,54,198,90,10
+17640700000000,Upper Lake Union High,9,3,18,6,2
+18101800000000,Lassen County Office of Education,5,1,5,2,0
+18101800000000,Lassen County Office of Education,7,6,30,2,0
+18640900000000,Big Valley Joint Unified,5,2,33,4,2
+18640900000000,Big Valley Joint Unified,7,15,155,26,20
+18641400000000,Lassen Union High,1,8,57,12,0
+18641400000000,Lassen Union High,3,1,8,2,2
+18641400000000,Lassen Union High,4,3,9,6,2
+18641400000000,Lassen Union High,5,23,147,44,8
+18641400000000,Lassen Union High,6,4,18,8,0
+18641400000000,Lassen Union High,7,175,729,320,72
+18641600000000,Ravendale-Termo Elementary,1,1,16,2,0
+18641600000000,Ravendale-Termo Elementary,5,3,33,6,0
+18641600000000,Ravendale-Termo Elementary,7,23,259,40,0
+18642000000000,Susanville Elementary,1,0,71,8,0
+18642000000000,Susanville Elementary,2,0,15,2,0
+18642000000000,Susanville Elementary,5,0,189,22,0
+18642000000000,Susanville Elementary,6,0,15,4,0
+18642000000000,Susanville Elementary,7,0,626,88,0
+18642000000000,Westwood Unified,1,4,16,8,0
+18642000000000,Westwood Unified,2,1,1,1,0
+18642000000000,Westwood Unified,5,13,49,22,0
+18642000000000,Westwood Unified,6,4,10,4,0
+18642000000000,Westwood Unified,7,45,290,88,0
+18750400000000,Fort Sage Unified,1,2,12,2,0
+18750400000000,Fort Sage Unified,5,3,32,8,0
+18750400000000,Fort Sage Unified,7,24,241,42,0
+18767300000000,SBE - Long Valley Charter,0,1,1,1,0
+18767300000000,SBE - Long Valley Charter,1,1,22,2,0
+18767300000000,SBE - Long Valley Charter,5,6,46,16,0
+18767300000000,SBE - Long Valley Charter,6,1,11,2,0
+18767300000000,SBE - Long Valley Charter,7,46,296,66,0
+19102000000000,Los Angeles County Office of Education,0,4,53,2,2
+19102000000000,Los Angeles County Office of Education,1,4,38,12,0
+19102000000000,Los Angeles County Office of Education,2,31,148,66,32
+19102000000000,Los Angeles County Office of Education,3,2,17,2,2
+19102000000000,Los Angeles County Office of Education,4,9,67,20,4
+19102000000000,Los Angeles County Office of Education,5,861,6364,1268,256
+19102000000000,Los Angeles County Office of Education,6,175,1644,242,54
+19102000000000,Los Angeles County Office of Education,7,132,711,248,138
+19102000000000,Los Angeles County Office of Education,9,6,94,8,0
+19642100000000,ABC Unified,0,5,77,12,8
+19642100000000,ABC Unified,1,7,56,14,0
+19642100000000,ABC Unified,2,512,5230,990,714
+19642100000000,ABC Unified,3,19,163,36,14
+19642100000000,ABC Unified,4,182,2230,356,184
+19642100000000,ABC Unified,5,753,9165,1294,330
+19642100000000,ABC Unified,6,174,1946,320,120
+19642100000000,ABC Unified,7,125,1497,224,78
+19642100000000,ABC Unified,9,34,481,68,30
+19642500000000,Antelope Valley Union High,0,182,622,380,68
+19642500000000,Antelope Valley Union High,1,88,237,64,2
+19642500000000,Antelope Valley Union High,2,95,370,172,100
+19642500000000,Antelope Valley Union High,3,13,59,18,6
+19642500000000,Antelope Valley Union High,4,116,386,210,102
+19642500000000,Antelope Valley Union High,5,3493,13158,4878,1466
+19642500000000,Antelope Valley Union High,6,1318,4636,1688,368
+19642500000000,Antelope Valley Union High,7,1412,4934,2178,730
+19642500000000,Antelope Valley Union High,9,72,414,96,16
+19642600000000,Arcadia Unified,1,1,15,2,2
+19642600000000,Arcadia Unified,2,610,6268,1198,918
+19642600000000,Arcadia Unified,4,25,279,46,26
+19642600000000,Arcadia Unified,5,123,1312,218,72
+19642600000000,Arcadia Unified,6,15,189,26,6
+19642600000000,Arcadia Unified,7,118,1570,232,146
+19642600000000,Arcadia Unified,9,2,11,4,2
+19642800000000,Azusa Unified,2,7,75,10,8
+19642800000000,Azusa Unified,3,2,8,4,0
+19642800000000,Azusa Unified,4,11,111,16,8
+19642800000000,Azusa Unified,5,683,8991,1218,316
+19642800000000,Azusa Unified,6,10,120,8,0
+19642800000000,Azusa Unified,7,36,373,64,22
+19642800000000,Azusa Unified,9,8,56,16,6
+19642900000000,Baldwin Park Unified,1,5,48,12,6
+19642900000000,Baldwin Park Unified,2,82,738,144,88
+19642900000000,Baldwin Park Unified,3,6,31,8,2
+19642900000000,Baldwin Park Unified,4,27,310,42,26
+19642900000000,Baldwin Park Unified,5,1742,16354,3060,998
+19642900000000,Baldwin Park Unified,6,132,622,288,128
+19642900000000,Baldwin Park Unified,7,111,633,234,98
+19642900000000,Baldwin Park Unified,9,20,103,48,26
+19643000000000,Bassett Unified,1,0,6,2,2
+19643000000000,Bassett Unified,2,4,82,106,64
+19643000000000,Bassett Unified,3,0,3,10,1
+19643000000000,Bassett Unified,4,1,31,136,68
+19643000000000,Bassett Unified,5,294,3963,1660,480
+19643000000000,Bassett Unified,6,5,32,306,82
+19643000000000,Bassett Unified,7,6,73,332,92
+19643000000000,Bassett Unified,9,0,4,36,6
+19643000000000,Bellflower Unified,1,1,45,2,2
+19643000000000,Bellflower Unified,2,50,523,106,64
+19643000000000,Bellflower Unified,3,13,154,20,2
+19643000000000,Bellflower Unified,4,68,627,136,68
+19643000000000,Bellflower Unified,5,684,8540,1660,480
+19643000000000,Bellflower Unified,6,182,1880,306,82
+19643000000000,Bellflower Unified,7,177,1581,332,92
+19643000000000,Bellflower Unified,9,18,370,36,6
+19643100000000,Beverly Hills Unified,1,3,14,4,2
+19643100000000,Beverly Hills Unified,2,82,612,154,124
+19643100000000,Beverly Hills Unified,3,3,9,6,4
+19643100000000,Beverly Hills Unified,4,7,48,14,8
+19643100000000,Beverly Hills Unified,5,31,315,56,30
+19643100000000,Beverly Hills Unified,6,37,191,72,26
+19643100000000,Beverly Hills Unified,7,389,3289,700,476
+19643100000000,Beverly Hills Unified,9,1,37,2,0
+19643300000000,Bonita Unified,0,19,220,34,10
+19643300000000,Bonita Unified,1,1,23,2,2
+19643300000000,Bonita Unified,2,30,469,58,36
+19643300000000,Bonita Unified,3,1,18,2,0
+19643300000000,Bonita Unified,4,18,181,36,22
+19643300000000,Bonita Unified,5,392,4634,720,286
+19643300000000,Bonita Unified,6,40,362,72,18
+19643300000000,Bonita Unified,7,306,3500,576,270
+19643300000000,Bonita Unified,9,41,463,80,46
+19643400000000,Burbank Unified,0,7,124,14,2
+19643400000000,Burbank Unified,1,1,33,2,0
+19643400000000,Burbank Unified,2,117,961,222,150
+19643400000000,Burbank Unified,3,3,24,6,0
+19643400000000,Burbank Unified,4,84,665,150,80
+19643400000000,Burbank Unified,5,711,6492,1284,240
+19643400000000,Burbank Unified,6,37,427,64,20
+19643400000000,Burbank Unified,7,700,7363,1382,486
+19643400000000,Burbank Unified,9,38,457,86,32
+19643500000000,Castaic Union,2,0,113,88,64
+19643500000000,Castaic Union,3,0,8,36,8
+19643500000000,Castaic Union,4,0,100,38,24
+19643500000000,Castaic Union,5,0,1061,1760,570
+19643500000000,Castaic Union,6,0,77,432,136
+19643500000000,Castaic Union,7,0,1392,68,34
+19643500000000,Castaic Union,9,0,111,16,8
+19643500000000,Centinela Valley Union High,0,6,70,14,2
+19643500000000,Centinela Valley Union High,2,54,165,88,64
+19643500000000,Centinela Valley Union High,3,18,63,36,8
+19643500000000,Centinela Valley Union High,4,26,75,38,24
+19643500000000,Centinela Valley Union High,5,1258,4870,1760,570
+19643500000000,Centinela Valley Union High,6,304,1112,432,136
+19643500000000,Centinela Valley Union High,7,56,168,68,34
+19643500000000,Centinela Valley Union High,9,9,104,16,8
+19643800000000,Charter Oak Unified,1,3,39,6,4
+19643800000000,Charter Oak Unified,2,17,241,34,30
+19643800000000,Charter Oak Unified,3,1,28,2,0
+19643800000000,Charter Oak Unified,4,11,118,22,18
+19643800000000,Charter Oak Unified,5,309,3360,594,234
+19643800000000,Charter Oak Unified,6,16,183,30,18
+19643800000000,Charter Oak Unified,7,141,1386,270,118
+19643800000000,Charter Oak Unified,9,13,189,26,14
+19643900000000,Claremont Unified,0,11,228,22,16
+19643900000000,Claremont Unified,1,3,22,6,6
+19643900000000,Claremont Unified,2,67,637,130,118
+19643900000000,Claremont Unified,3,3,15,6,6
+19643900000000,Claremont Unified,4,14,91,26,26
+19643900000000,Claremont Unified,5,227,2631,436,222
+19643900000000,Claremont Unified,6,52,454,94,46
+19643900000000,Claremont Unified,7,260,2616,510,396
+19643900000000,Claremont Unified,9,15,324,28,26
+19644400000000,Covina-Valley Unified,1,7,43,28,10
+19644400000000,Covina-Valley Unified,2,84,688,286,224
+19644400000000,Covina-Valley Unified,3,13,46,32,16
+19644400000000,Covina-Valley Unified,4,55,378,136,90
+19644400000000,Covina-Valley Unified,5,1003,9822,2236,884
+19644400000000,Covina-Valley Unified,6,57,452,374,132
+19644400000000,Covina-Valley Unified,7,173,1465,540,288
+19644400000000,Covina-Valley Unified,9,3,76,16,6
+19644400000000,Culver City Unified,1,8,29,28,10
+19644400000000,Culver City Unified,2,68,753,286,224
+19644400000000,Culver City Unified,3,6,30,32,16
+19644400000000,Culver City Unified,4,18,114,136,90
+19644400000000,Culver City Unified,5,225,2651,2236,884
+19644400000000,Culver City Unified,6,152,1167,374,132
+19644400000000,Culver City Unified,7,132,1744,540,288
+19644400000000,Culver City Unified,9,7,252,16,6
+19644500000000,Downey Unified,1,9,75,18,8
+19644500000000,Downey Unified,2,54,474,104,88
+19644500000000,Downey Unified,3,3,53,6,4
+19644500000000,Downey Unified,4,22,224,42,28
+19644500000000,Downey Unified,5,1748,19842,3284,1092
+19644500000000,Downey Unified,6,56,679,104,24
+19644500000000,Downey Unified,7,168,1434,314,110
+19644500000000,Downey Unified,9,1,66,2,0
+19644700000000,Duarte Unified,2,11,128,22,14
+19644700000000,Duarte Unified,4,12,168,22,14
+19644700000000,Duarte Unified,5,231,2825,428,134
+19644700000000,Duarte Unified,6,25,217,46,12
+19644700000000,Duarte Unified,7,25,318,48,28
+19644700000000,Duarte Unified,9,4,79,8,4
+19645200000000,El Monte Union High,1,3,16,2,2
+19645200000000,El Monte Union High,2,524,1911,954,716
+19645200000000,El Monte Union High,3,2,9,2,0
+19645200000000,El Monte Union High,4,7,55,10,8
+19645200000000,El Monte Union High,5,1922,7599,2998,1060
+19645200000000,El Monte Union High,6,6,26,6,0
+19645200000000,El Monte Union High,7,52,168,86,30
+19645200000000,El Monte Union High,9,9,28,20,10
+19645300000000,El Rancho Unified,2,3,25,8,4
+19645300000000,El Rancho Unified,4,6,45,10,2
+19645300000000,El Rancho Unified,5,820,9426,1440,534
+19645300000000,El Rancho Unified,6,7,41,14,6
+19645300000000,El Rancho Unified,7,12,95,22,4
+19645400000000,El Segundo Unified,2,16,234,32,24
+19645400000000,El Segundo Unified,3,2,17,4,4
+19645400000000,El Segundo Unified,4,5,44,12,6
+19645400000000,El Segundo Unified,5,70,761,144,102
+19645400000000,El Segundo Unified,6,11,134,18,16
+19645400000000,El Segundo Unified,7,147,1840,292,234
+19645400000000,El Segundo Unified,9,38,367,76,58
+19645700000000,Glendale Unified,1,5,46,6,2
+19645700000000,Glendale Unified,2,304,3205,578,444
+19645700000000,Glendale Unified,3,6,26,12,8
+19645700000000,Glendale Unified,4,177,1727,324,172
+19645700000000,Glendale Unified,5,525,6046,852,250
+19645700000000,Glendale Unified,6,32,348,48,14
+19645700000000,Glendale Unified,7,1342,14337,2452,1150
+19645700000000,Glendale Unified,9,16,445,30,16
+19645800000000,Glendora Unified,0,0,9,2,0
+19645800000000,Glendora Unified,1,0,16,2,0
+19645800000000,Glendora Unified,2,34,422,74,58
+19645800000000,Glendora Unified,3,1,15,2,2
+19645800000000,Glendora Unified,4,24,174,50,34
+19645800000000,Glendora Unified,5,213,2977,540,168
+19645800000000,Glendora Unified,6,6,109,22,8
+19645800000000,Glendora Unified,7,332,3543,876,354
+19645800000000,Glendora Unified,9,22,294,44,28
+19645800000000,Gorman Elementary,0,1,1,1,0
+19645800000000,Gorman Elementary,1,0,10,2,0
+19645800000000,Gorman Elementary,2,4,73,74,58
+19645800000000,Gorman Elementary,3,0,3,2,2
+19645800000000,Gorman Elementary,4,0,20,50,34
+19645800000000,Gorman Elementary,5,74,528,540,168
+19645800000000,Gorman Elementary,6,8,95,22,8
+19645800000000,Gorman Elementary,7,115,1007,876,354
+19645800000000,Gorman Elementary,9,0,3,44,28
+19645900000000,Hawthorne,2,9,240,18,14
+19645900000000,Hawthorne,3,4,136,2,2
+19645900000000,Hawthorne,4,10,156,18,10
+19645900000000,Hawthorne,5,94,6295,166,108
+19645900000000,Hawthorne,6,10,1946,16,10
+19645900000000,Hawthorne,7,2,190,4,2
+19646000000000,Hermosa Beach City Elementary,0,2,5,2,0
+19646000000000,Hermosa Beach City Elementary,1,7,20,6,0
+19646000000000,Hermosa Beach City Elementary,2,3,80,12,4
+19646000000000,Hermosa Beach City Elementary,4,3,25,6,0
+19646000000000,Hermosa Beach City Elementary,5,149,811,272,56
+19646000000000,Hermosa Beach City Elementary,6,29,141,42,10
+19646000000000,Hermosa Beach City Elementary,7,99,1440,226,58
+19646000000000,Hermosa Beach City Elementary,9,6,141,12,2
+19646300000000,Hughes-Elizabeth Lakes Union Elementary,2,0,1,3,1
+19646300000000,Hughes-Elizabeth Lakes Union Elementary,4,0,1,3,2
+19646300000000,Hughes-Elizabeth Lakes Union Elementary,5,0,61,1002,156
+19646300000000,Hughes-Elizabeth Lakes Union Elementary,6,0,1,318,62
+19646300000000,Hughes-Elizabeth Lakes Union Elementary,7,0,198,6,2
+19646300000000,Hughes-Elizabeth Lakes Union Elementary,9,0,11,2,0
+19646300000000,Inglewood Unified,1,6,88,10,2
+19646300000000,Inglewood Unified,2,3,56,6,2
+19646300000000,Inglewood Unified,3,6,60,10,0
+19646300000000,Inglewood Unified,4,3,39,6,4
+19646300000000,Inglewood Unified,5,565,8195,1002,156
+19646300000000,Inglewood Unified,6,346,5624,636,124
+19646300000000,Inglewood Unified,7,4,59,6,2
+19646300000000,Inglewood Unified,9,0,26,2,0
+19646600000000,La Canada Unified,1,1,7,2,2
+19646600000000,La Canada Unified,2,104,1063,204,174
+19646600000000,La Canada Unified,4,2,30,4,0
+19646600000000,La Canada Unified,5,23,412,42,32
+19646600000000,La Canada Unified,6,1,21,2,2
+19646600000000,La Canada Unified,7,229,2325,448,354
+19646600000000,La Canada Unified,9,18,259,36,30
+19646800000000,Las Virgenes Unified,1,2,43,4,2
+19646800000000,Las Virgenes Unified,2,68,796,130,96
+19646800000000,Las Virgenes Unified,3,2,14,4,4
+19646800000000,Las Virgenes Unified,4,9,77,18,10
+19646800000000,Las Virgenes Unified,5,80,1032,152,64
+19646800000000,Las Virgenes Unified,6,28,224,56,14
+19646800000000,Las Virgenes Unified,7,861,8765,1664,848
+19646800000000,Las Virgenes Unified,9,1,282,2,0
+19646900000000,Lawndale Elementary,2,5,333,10,8
+19646900000000,Lawndale Elementary,5,86,4769,150,148
+19646900000000,Lawndale Elementary,6,10,583,16,14
+19646900000000,Lawndale Elementary,7,4,315,8,8
+19647100000000,Lennox,0,1,83,6,4
+19647100000000,Lennox,5,275,6512,518,274
+19647100000000,Lennox,6,1,346,2,0
+19647300000000,Long Beach Unified,0,20,1531,852,128
+19647300000000,Long Beach Unified,1,19,159,296,84
+19647300000000,Long Beach Unified,2,585,6224,4672,2882
+19647300000000,Long Beach Unified,3,111,1374,428,134
+19647300000000,Long Beach Unified,4,326,2782,2872,1586
+19647300000000,Long Beach Unified,5,3506,44739,59190,19578
+19647300000000,Long Beach Unified,6,1178,12543,8876,3038
+19647300000000,Long Beach Unified,7,1062,12084,8620,4570
+19647300000000,Long Beach Unified,9,30,820,140,82
+19647300000000,Los Angeles Unified,0,789,5390,852,128
+19647300000000,Los Angeles Unified,1,174,2554,296,84
+19647300000000,Los Angeles Unified,2,2024,26340,4672,2882
+19647300000000,Los Angeles Unified,3,143,2377,428,134
+19647300000000,Los Angeles Unified,4,1242,13547,2872,1586
+19647300000000,Los Angeles Unified,5,32224,482534,59190,19578
+19647300000000,Los Angeles Unified,6,4511,61786,8876,3038
+19647300000000,Los Angeles Unified,7,3835,60266,8620,4570
+19647300000000,Los Angeles Unified,9,46,700,140,82
+19647700000000,Lowell Joint,1,0,5,4,0
+19647700000000,Lowell Joint,3,0,11,2,2
+19647700000000,Lowell Joint,5,0,1994,1674,604
+19647700000000,Lowell Joint,6,0,39,116,32
+19647700000000,Lowell Joint,7,0,939,4,2
+19647700000000,Lynwood Unified,1,3,7,4,0
+19647700000000,Lynwood Unified,3,3,45,2,2
+19647700000000,Lynwood Unified,5,1103,14112,1674,604
+19647700000000,Lynwood Unified,6,75,740,116,32
+19647700000000,Lynwood Unified,7,1,90,4,2
+19647900000000,Monrovia Unified,2,7,199,10,10
+19647900000000,Monrovia Unified,3,1,18,2,0
+19647900000000,Monrovia Unified,4,9,171,14,10
+19647900000000,Monrovia Unified,5,278,3569,478,166
+19647900000000,Monrovia Unified,6,56,471,90,34
+19647900000000,Monrovia Unified,7,123,1398,228,134
+19647900000000,Monrovia Unified,9,3,80,8,2
+19648100000000,Montebello Unified,0,1,31,2,0
+19648100000000,Montebello Unified,1,3,69,2,0
+19648100000000,Montebello Unified,2,87,635,148,112
+19648100000000,Montebello Unified,3,3,32,4,2
+19648100000000,Montebello Unified,4,8,89,16,12
+19648100000000,Montebello Unified,5,2651,29087,4108,962
+19648100000000,Montebello Unified,6,5,78,4,0
+19648100000000,Montebello Unified,7,54,485,78,26
+19648100000000,Montebello Unified,9,7,58,12,4
+19648400000000,Norwalk-La Mirada Unified,0,6,182,4,0
+19648400000000,Norwalk-La Mirada Unified,1,2,30,4,2
+19648400000000,Norwalk-La Mirada Unified,2,58,705,96,72
+19648400000000,Norwalk-La Mirada Unified,3,9,99,16,4
+19648400000000,Norwalk-La Mirada Unified,4,50,508,94,74
+19648400000000,Norwalk-La Mirada Unified,5,1313,15521,2266,664
+19648400000000,Norwalk-La Mirada Unified,6,78,529,124,52
+19648400000000,Norwalk-La Mirada Unified,7,207,1976,366,138
+19648400000000,Norwalk-La Mirada Unified,9,24,220,46,18
+19648600000000,Palmdale Elementary,0,1,196,4,0
+19648600000000,Palmdale Elementary,1,5,150,6,0
+19648600000000,Palmdale Elementary,5,234,15039,44,0
+19648600000000,Palmdale Elementary,6,63,3447,20,0
+19648600000000,Palmdale Elementary,7,51,1678,24,0
+19648700000000,Palos Verdes Peninsula Unified,0,0,9,4,2
+19648700000000,Palos Verdes Peninsula Unified,1,1,16,2,0
+19648700000000,Palos Verdes Peninsula Unified,2,263,3222,538,468
+19648700000000,Palos Verdes Peninsula Unified,3,3,36,18,8
+19648700000000,Palos Verdes Peninsula Unified,4,34,258,86,60
+19648700000000,Palos Verdes Peninsula Unified,5,99,1038,2228,746
+19648700000000,Palos Verdes Peninsula Unified,6,29,320,274,72
+19648700000000,Palos Verdes Peninsula Unified,7,631,6526,1314,1010
+19648700000000,Palos Verdes Peninsula Unified,9,11,448,24,22
+19648700000000,Paramount Unified,0,1,7,4,2
+19648700000000,Paramount Unified,1,0,5,2,0
+19648700000000,Paramount Unified,2,7,114,538,468
+19648700000000,Paramount Unified,3,8,116,18,8
+19648700000000,Paramount Unified,4,11,93,86,60
+19648700000000,Paramount Unified,5,1239,13857,2228,746
+19648700000000,Paramount Unified,6,135,1384,274,72
+19648700000000,Paramount Unified,7,32,210,1314,1010
+19648700000000,Paramount Unified,9,2,78,24,22
+19648800000000,Pasadena Unified,0,5,151,2,2
+19648800000000,Pasadena Unified,1,6,49,12,6
+19648800000000,Pasadena Unified,2,32,782,70,62
+19648800000000,Pasadena Unified,3,5,42,8,8
+19648800000000,Pasadena Unified,4,29,319,56,50
+19648800000000,Pasadena Unified,5,1021,11569,1534,1252
+19648800000000,Pasadena Unified,6,315,3055,492,398
+19648800000000,Pasadena Unified,7,182,3059,300,260
+19648800000000,Pasadena Unified,9,56,514,98,94
+19649100000000,Pomona Unified,0,2,37,2,0
+19649100000000,Pomona Unified,1,4,71,8,0
+19649100000000,Pomona Unified,2,85,1091,170,10
+19649100000000,Pomona Unified,3,0,30,2,0
+19649100000000,Pomona Unified,4,29,330,56,0
+19649100000000,Pomona Unified,5,1528,22757,2516,92
+19649100000000,Pomona Unified,6,115,1505,212,26
+19649100000000,Pomona Unified,7,69,1060,138,8
+19649100000000,Pomona Unified,9,35,305,58,2
+19649600000000,San Marino Unified,2,167,1733,332,280
+19649600000000,San Marino Unified,4,3,21,6,4
+19649600000000,San Marino Unified,5,27,309,52,36
+19649600000000,San Marino Unified,6,3,24,6,4
+19649600000000,San Marino Unified,7,92,895,182,140
+19649600000000,San Marino Unified,9,5,157,10,8
+19649800000000,Santa Monica-Malibu Unified,1,1,32,2,0
+19649800000000,Santa Monica-Malibu Unified,2,66,664,126,94
+19649800000000,Santa Monica-Malibu Unified,3,2,29,4,2
+19649800000000,Santa Monica-Malibu Unified,4,8,71,14,10
+19649800000000,Santa Monica-Malibu Unified,5,342,3370,614,388
+19649800000000,Santa Monica-Malibu Unified,6,98,720,172,90
+19649800000000,Santa Monica-Malibu Unified,7,475,5862,878,622
+19649800000000,Santa Monica-Malibu Unified,9,48,618,100,84
+19650300000000,South Pasadena Unified,1,2,16,4,2
+19650300000000,South Pasadena Unified,2,144,1614,278,228
+19650300000000,South Pasadena Unified,4,8,110,16,12
+19650300000000,South Pasadena Unified,5,72,1105,142,52
+19650300000000,South Pasadena Unified,6,8,110,14,2
+19650300000000,South Pasadena Unified,7,121,1460,232,172
+19650300000000,South Pasadena Unified,9,6,216,10,4
+19650500000000,Sulphur Springs Union,1,0,16,2,2
+19650500000000,Sulphur Springs Union,2,0,273,660,480
+19650500000000,Sulphur Springs Union,3,0,24,2,0
+19650500000000,Sulphur Springs Union,4,0,151,16,10
+19650500000000,Sulphur Springs Union,5,0,2586,166,70
+19650500000000,Sulphur Springs Union,6,0,369,14,4
+19650500000000,Sulphur Springs Union,7,0,1858,110,50
+19650500000000,Sulphur Springs Union,9,0,276,10,6
+19650500000000,Temple City Unified,1,2,16,2,2
+19650500000000,Temple City Unified,2,340,3638,660,480
+19650500000000,Temple City Unified,3,1,7,2,0
+19650500000000,Temple City Unified,4,8,76,16,10
+19650500000000,Temple City Unified,5,86,1198,166,70
+19650500000000,Temple City Unified,6,8,50,14,4
+19650500000000,Temple City Unified,7,59,653,110,50
+19650500000000,Temple City Unified,9,6,161,10,6
+19650600000000,Torrance Unified,0,47,422,88,48
+19650600000000,Torrance Unified,1,16,102,32,12
+19650600000000,Torrance Unified,2,673,7292,1330,978
+19650600000000,Torrance Unified,3,14,163,32,10
+19650600000000,Torrance Unified,4,128,1077,250,150
+19650600000000,Torrance Unified,5,503,6015,958,286
+19650600000000,Torrance Unified,6,126,1058,222,74
+19650600000000,Torrance Unified,7,674,6761,1292,644
+19650600000000,Torrance Unified,9,61,1434,116,54
+19650900000000,West Covina Unified,0,16,185,4,0
+19650900000000,West Covina Unified,1,3,64,4,2
+19650900000000,West Covina Unified,2,97,1157,200,136
+19650900000000,West Covina Unified,4,61,569,112,48
+19650900000000,West Covina Unified,5,649,8717,1192,308
+19650900000000,West Covina Unified,6,78,1195,140,16
+19650900000000,West Covina Unified,7,176,2463,328,48
+19651300000000,Whittier Union High,1,13,44,22,0
+19651300000000,Whittier Union High,2,47,147,88,0
+19651300000000,Whittier Union High,3,10,32,20,0
+19651300000000,Whittier Union High,4,32,143,64,0
+19651300000000,Whittier Union High,5,2958,11639,5012,8
+19651300000000,Whittier Union High,6,45,143,68,0
+19651300000000,Whittier Union High,7,349,1333,624,2
+19651300000000,Whittier Union High,9,0,4,2,0
+19651400000000,William S. Hart Union High,0,4,22,10,4
+19651400000000,William S. Hart Union High,1,18,93,30,8
+19651400000000,William S. Hart Union High,2,293,1644,574,460
+19651400000000,William S. Hart Union High,3,17,54,34,18
+19651400000000,William S. Hart Union High,4,213,1087,404,306
+19651400000000,William S. Hart Union High,5,1689,9128,2890,1208
+19651400000000,William S. Hart Union High,6,315,1318,516,270
+19651400000000,William S. Hart Union High,7,2298,12104,4376,2610
+19651400000000,William S. Hart Union High,9,56,923,106,56
+19651700000000,Wiseburn Elementary,2,18,151,36,36
+19651700000000,Wiseburn Elementary,3,2,38,4,4
+19651700000000,Wiseburn Elementary,4,8,67,16,16
+19651700000000,Wiseburn Elementary,5,158,2148,314,314
+19651700000000,Wiseburn Elementary,6,54,679,106,106
+19651700000000,Wiseburn Elementary,7,35,580,70,70
+19734400000000,Compton Unified,0,13,30,18,0
+19734400000000,Compton Unified,1,1,35,2,0
+19734400000000,Compton Unified,3,8,161,12,2
+19734400000000,Compton Unified,4,1,18,2,0
+19734400000000,Compton Unified,5,1165,19456,1612,302
+19734400000000,Compton Unified,6,367,4867,554,64
+19734400000000,Compton Unified,7,2,84,4,0
+19734500000000,Hacienda la Puente Unified,0,3,21,8,2
+19734500000000,Hacienda la Puente Unified,1,4,33,6,4
+19734500000000,Hacienda la Puente Unified,2,264,2376,942,572
+19734500000000,Hacienda la Puente Unified,3,6,72,22,6
+19734500000000,Hacienda la Puente Unified,4,31,336,256,156
+19734500000000,Hacienda la Puente Unified,5,1315,16333,3398,882
+19734500000000,Hacienda la Puente Unified,6,25,224,86,14
+19734500000000,Hacienda la Puente Unified,7,79,825,218,76
+19734500000000,Hacienda la Puente Unified,9,7,138,30,16
+19734500000000,Rowland Unified,0,2,57,8,2
+19734500000000,Rowland Unified,1,0,16,6,4
+19734500000000,Rowland Unified,2,252,3117,942,572
+19734500000000,Rowland Unified,3,4,42,22,6
+19734500000000,Rowland Unified,4,110,1238,256,156
+19734500000000,Rowland Unified,5,808,9917,3398,882
+19734500000000,Rowland Unified,6,39,351,86,14
+19734500000000,Rowland Unified,7,52,577,218,76
+19734500000000,Rowland Unified,9,12,186,30,16
+19734600000000,Walnut Valley Unified,1,1,9,2,0
+19734600000000,Walnut Valley Unified,2,903,8355,1810,600
+19734600000000,Walnut Valley Unified,3,15,105,30,10
+19734600000000,Walnut Valley Unified,4,118,816,226,54
+19734600000000,Walnut Valley Unified,5,328,3306,652,98
+19734600000000,Walnut Valley Unified,6,50,407,98,18
+19734600000000,Walnut Valley Unified,7,163,1429,326,46
+19734600000000,Walnut Valley Unified,9,6,232,12,4
+19752900000000,San Gabriel Unified,0,11,82,22,0
+19752900000000,San Gabriel Unified,1,3,17,4,0
+19752900000000,San Gabriel Unified,2,306,2789,574,388
+19752900000000,San Gabriel Unified,3,3,20,12,0
+19752900000000,San Gabriel Unified,4,14,132,24,16
+19752900000000,San Gabriel Unified,5,363,2790,762,82
+19752900000000,San Gabriel Unified,6,17,130,42,0
+19752900000000,San Gabriel Unified,7,74,561,174,26
+19752900000000,San Gabriel Unified,9,6,52,18,2
+19753100000000,Acton-Agua Dulce Unified,0,4,111,4,4
+19753100000000,Acton-Agua Dulce Unified,2,2,10,2,2
+19753100000000,Acton-Agua Dulce Unified,5,78,528,68,58
+19753100000000,Acton-Agua Dulce Unified,7,84,774,130,114
+19753100000000,Acton-Agua Dulce Unified,9,1,33,2,2
+19753300000000,Manhattan Beach Unified,1,1,4,1,0
+19753300000000,Manhattan Beach Unified,2,53,597,108,98
+19753300000000,Manhattan Beach Unified,4,2,33,4,4
+19753300000000,Manhattan Beach Unified,5,85,801,150,130
+19753300000000,Manhattan Beach Unified,6,25,155,48,46
+19753300000000,Manhattan Beach Unified,7,369,4338,706,618
+19753300000000,Manhattan Beach Unified,9,51,888,94,78
+19753400000000,Redondo Beach Unified,1,6,47,12,6
+19753400000000,Redondo Beach Unified,2,65,960,122,98
+19753400000000,Redondo Beach Unified,3,5,85,10,4
+19753400000000,Redondo Beach Unified,4,15,221,30,26
+19753400000000,Redondo Beach Unified,5,201,2037,348,154
+19753400000000,Redondo Beach Unified,6,58,572,100,42
+19753400000000,Redondo Beach Unified,7,358,4576,612,378
+19753400000000,Redondo Beach Unified,9,20,468,42,18
+19757000000000,SBE - The School of Arts and Enterprise,0,2,10,4,2
+19757000000000,SBE - The School of Arts and Enterprise,1,1,4,1,1
+19757000000000,SBE - The School of Arts and Enterprise,2,1,3,1,1
+19757000000000,SBE - The School of Arts and Enterprise,3,1,1,1,0
+19757000000000,SBE - The School of Arts and Enterprise,4,1,2,2,2
+19757000000000,SBE - The School of Arts and Enterprise,5,88,314,148,100
+19757000000000,SBE - The School of Arts and Enterprise,6,10,37,18,6
+19757000000000,SBE - The School of Arts and Enterprise,7,7,40,10,6
+19757100000000,Alhambra Unified,2,1191,9042,2148,1516
+19757100000000,Alhambra Unified,4,31,269,56,18
+19757100000000,Alhambra Unified,5,783,7828,1346,338
+19757100000000,Alhambra Unified,6,12,121,16,4
+19757100000000,Alhambra Unified,7,56,398,90,32
+19757100000000,Alhambra Unified,9,33,349,68,36
+19765000000000,SBE - Lifeline Education Charter,5,33,263,32,32
+19765000000000,SBE - Lifeline Education Charter,6,6,112,8,8
+20102100000000,Madera County Office of Education,1,1,7,2,0
+20102100000000,Madera County Office of Education,5,240,744,198,0
+20102100000000,Madera County Office of Education,6,13,30,14,0
+20102100000000,Madera County Office of Education,7,53,160,34,0
+20102100000000,Madera County Office of Education,9,3,9,4,0
+20652000000000,Chowchilla Union High,1,1,8,2,2
+20652000000000,Chowchilla Union High,2,2,11,2,2
+20652000000000,Chowchilla Union High,3,1,4,2,2
+20652000000000,Chowchilla Union High,4,4,8,8,2
+20652000000000,Chowchilla Union High,5,118,572,184,66
+20652000000000,Chowchilla Union High,6,8,34,12,6
+20652000000000,Chowchilla Union High,7,78,374,152,62
+20652000000000,Chowchilla Union High,9,2,5,4,0
+20652400000000,Madera Unified,0,10,42,20,8
+20652400000000,Madera Unified,1,5,103,10,4
+20652400000000,Madera Unified,2,23,241,48,28
+20652400000000,Madera Unified,3,1,14,2,2
+20652400000000,Madera Unified,5,1024,17356,1682,460
+20652400000000,Madera Unified,6,34,433,54,10
+20652400000000,Madera Unified,7,160,1674,288,94
+20755800000000,Golden Valley Unified,1,2,21,4,4
+20755800000000,Golden Valley Unified,2,3,41,6,6
+20755800000000,Golden Valley Unified,3,2,4,4,2
+20755800000000,Golden Valley Unified,4,2,8,4,4
+20755800000000,Golden Valley Unified,5,63,704,114,60
+20755800000000,Golden Valley Unified,6,4,31,6,2
+20755800000000,Golden Valley Unified,7,99,1129,176,112
+20755800000000,Golden Valley Unified,9,1,14,2,0
+20756100000000,Chawanakee Unified,1,5,70,4,2
+20756100000000,Chawanakee Unified,5,29,201,52,14
+20756100000000,Chawanakee Unified,7,65,692,120,54
+20756100000000,Chawanakee Unified,9,7,72,10,6
+20764100000000,Yosemite Unified,1,10,98,16,2
+20764100000000,Yosemite Unified,2,5,17,10,8
+20764100000000,Yosemite Unified,5,33,314,58,12
+20764100000000,Yosemite Unified,7,158,1531,272,92
+20764100000000,Yosemite Unified,9,12,133,22,6
+21102200000000,Marin County Office of Education,5,21,136,24,0
+21102200000000,Marin County Office of Education,6,8,49,4,0
+21102200000000,Marin County Office of Education,7,11,156,6,0
+21102200000000,Marin County Office of Education,9,3,8,6,0
+21654200000000,Novato Unified,0,1,11,4,2
+21654200000000,Novato Unified,1,1,44,2,0
+21654200000000,Novato Unified,2,35,393,68,46
+21654200000000,Novato Unified,4,2,78,4,2
+21654200000000,Novato Unified,5,166,2637,300,82
+21654200000000,Novato Unified,6,24,271,48,6
+21654200000000,Novato Unified,7,339,4209,652,362
+21654200000000,Novato Unified,9,27,387,52,20
+21654700000000,San Rafael City High,0,7,9,14,8
+21654700000000,San Rafael City High,1,7,49,14,4
+21654700000000,San Rafael City High,2,34,125,66,46
+21654700000000,San Rafael City High,3,2,10,4,0
+21654700000000,San Rafael City High,4,3,24,6,4
+21654700000000,San Rafael City High,5,236,993,416,160
+21654700000000,San Rafael City High,6,15,55,26,12
+21654700000000,San Rafael City High,7,198,778,390,266
+21654700000000,San Rafael City High,9,6,23,12,4
+21654700000000,Sausalito Marin City,0,0,1,7,4
+21654700000000,Sausalito Marin City,2,0,37,66,46
+21654700000000,Sausalito Marin City,3,0,3,4,0
+21654700000000,Sausalito Marin City,4,0,7,6,4
+21654700000000,Sausalito Marin City,5,0,112,416,160
+21654700000000,Sausalito Marin City,6,0,123,26,12
+21654700000000,Sausalito Marin City,7,0,101,390,266
+21654700000000,Sausalito Marin City,9,0,27,12,4
+21654800000000,Tamalpais Union High,0,11,25,18,10
+21654800000000,Tamalpais Union High,1,1,5,2,1
+21654800000000,Tamalpais Union High,2,54,196,108,92
+21654800000000,Tamalpais Union High,3,5,10,10,6
+21654800000000,Tamalpais Union High,4,4,15,6,0
+21654800000000,Tamalpais Union High,5,86,345,160,98
+21654800000000,Tamalpais Union High,6,31,103,54,20
+21654800000000,Tamalpais Union High,7,766,2976,1508,1190
+21654800000000,Tamalpais Union High,9,23,232,46,34
+21733600000000,Shoreline Unified,0,1,2,1,0
+21733600000000,Shoreline Unified,3,1,3,2,2
+21733600000000,Shoreline Unified,5,16,276,30,8
+21733600000000,Shoreline Unified,6,1,4,2,0
+21733600000000,Shoreline Unified,7,34,255,64,30
+22102200000000,Mariposa County Office of Education,1,2,2,2,0
+22102200000000,Mariposa County Office of Education,5,2,13,8,0
+22102200000000,Mariposa County Office of Education,7,9,53,10,0
+22102200000000,Mariposa County Office of Education,9,1,3,2,0
+22655300000000,Mariposa County Unified,0,3,31,6,2
+22655300000000,Mariposa County Unified,1,10,95,20,4
+22655300000000,Mariposa County Unified,5,15,248,24,4
+22655300000000,Mariposa County Unified,6,2,15,6,0
+22655300000000,Mariposa County Unified,7,111,1330,202,48
+22655300000000,Mariposa County Unified,9,9,89,20,2
+23102300000000,Mendocino County Office of Education,1,2,21,2,0
+23102300000000,Mendocino County Office of Education,5,6,44,8,0
+23102300000000,Mendocino County Office of Education,7,2,55,8,0
+23655400000000,Anderson Valley Unified,5,34,424,62,24
+23655400000000,Anderson Valley Unified,7,13,127,22,16
+23655600000000,Arena Union Elementary,7,2,142,4,4
+23655700000000,Fort Bragg Unified,1,2,24,4,2
+23655700000000,Fort Bragg Unified,4,1,5,2,2
+23655700000000,Fort Bragg Unified,5,52,774,98,44
+23655700000000,Fort Bragg Unified,6,1,14,2,0
+23655700000000,Fort Bragg Unified,7,68,988,122,46
+23655700000000,Fort Bragg Unified,9,7,89,12,2
+23655700000000,Manchester Union Elementary,5,0,36,98,44
+23655700000000,Manchester Union Elementary,7,0,9,122,46
+23655700000000,Manchester Union Elementary,9,0,3,12,2
+23655800000000,Mendocino Unified,2,3,15,6,4
+23655800000000,Mendocino Unified,4,1,3,1,0
+23655800000000,Mendocino Unified,5,4,50,8,4
+23655800000000,Mendocino Unified,7,47,435,94,36
+23656000000000,Point Arena Joint Union High,1,2,12,2,0
+23656000000000,Point Arena Joint Union High,3,1,1,1,0
+23656000000000,Point Arena Joint Union High,5,20,76,38,8
+23656000000000,Point Arena Joint Union High,7,19,81,38,6
+23656100000000,Round Valley Unified,1,24,287,24,2
+23656100000000,Round Valley Unified,6,2,4,4,0
+23656100000000,Round Valley Unified,7,9,57,6,0
+23656200000000,Ukiah Unified,0,0,11,4,0
+23656200000000,Ukiah Unified,1,32,445,38,0
+23656200000000,Ukiah Unified,2,5,57,14,4
+23656200000000,Ukiah Unified,3,1,11,4,2
+23656200000000,Ukiah Unified,4,6,40,14,2
+23656200000000,Ukiah Unified,5,188,2866,348,26
+23656200000000,Ukiah Unified,6,2,72,6,0
+23656200000000,Ukiah Unified,7,251,2554,600,120
+23656200000000,Ukiah Unified,9,9,107,16,2
+23656200000000,Willits Unified,0,3,38,4,0
+23656200000000,Willits Unified,1,14,159,38,0
+23656200000000,Willits Unified,2,2,31,14,4
+23656200000000,Willits Unified,3,2,7,4,2
+23656200000000,Willits Unified,4,1,4,14,2
+23656200000000,Willits Unified,5,46,492,348,26
+23656200000000,Willits Unified,6,2,10,6,0
+23656200000000,Willits Unified,7,105,1235,600,120
+23656200000000,Willits Unified,9,1,16,16,2
+23738700000000,Potter Valley Community Unified,1,1,14,2,0
+23738700000000,Potter Valley Community Unified,4,1,1,1,0
+23738700000000,Potter Valley Community Unified,5,5,99,8,0
+23738700000000,Potter Valley Community Unified,7,19,162,38,4
+23739200000000,Laytonville Unified,0,1,2,2,0
+23739200000000,Laytonville Unified,1,11,58,22,2
+23739200000000,Laytonville Unified,5,1,53,2,0
+23739200000000,Laytonville Unified,6,1,5,2,2
+23739200000000,Laytonville Unified,7,29,271,56,16
+23739200000000,Laytonville Unified,9,2,14,4,4
+23752200000000,Leggett Valley Unified,5,1,7,2,0
+23752200000000,Leggett Valley Unified,7,1,94,2,0
+24102500000000,Merced County Office of Education,2,11,50,12,2
+24102500000000,Merced County Office of Education,3,1,4,1,0
+24102500000000,Merced County Office of Education,4,1,3,2,0
+24102500000000,Merced County Office of Education,5,295,996,340,0
+24102500000000,Merced County Office of Education,6,23,98,22,0
+24102500000000,Merced County Office of Education,7,53,282,52,2
+24102500000000,Merced County Office of Education,9,11,29,16,0
+24657000000000,Hilmar Unified,1,1,9,2,0
+24657000000000,Hilmar Unified,2,5,25,10,2
+24657000000000,Hilmar Unified,5,74,860,122,32
+24657000000000,Hilmar Unified,7,103,1323,192,52
+24657300000000,Le Grand Union High,5,116,469,208,44
+24657300000000,Le Grand Union High,6,1,2,2,0
+24657300000000,Le Grand Union High,7,8,24,16,6
+24657600000000,Los Banos Unified,1,6,53,8,0
+24657600000000,Los Banos Unified,2,7,121,14,12
+24657600000000,Los Banos Unified,3,4,61,8,2
+24657600000000,Los Banos Unified,4,11,79,20,16
+24657600000000,Los Banos Unified,5,468,7646,832,222
+24657600000000,Los Banos Unified,6,30,265,48,16
+24657600000000,Los Banos Unified,7,125,1545,246,84
+24657600000000,Los Banos Unified,9,13,116,26,8
+24657600000000,McSwain Union Elementary,1,0,3,8,0
+24657600000000,McSwain Union Elementary,2,0,42,14,12
+24657600000000,McSwain Union Elementary,3,0,3,8,2
+24657600000000,McSwain Union Elementary,4,0,8,20,16
+24657600000000,McSwain Union Elementary,5,0,365,832,222
+24657600000000,McSwain Union Elementary,6,0,5,48,16
+24657600000000,McSwain Union Elementary,7,0,400,246,84
+24657600000000,McSwain Union Elementary,9,0,22,26,8
+24657900000000,Merced Union High,0,1,6,2,0
+24657900000000,Merced Union High,1,12,52,22,4
+24657900000000,Merced Union High,2,322,1173,596,310
+24657900000000,Merced Union High,4,26,95,52,34
+24657900000000,Merced Union High,5,1470,6255,2508,670
+24657900000000,Merced Union High,6,97,422,150,26
+24657900000000,Merced Union High,7,507,1900,906,316
+24657900000000,Merced Union High,9,46,166,90,36
+24736200000000,Gustine Unified,2,2,16,4,2
+24736200000000,Gustine Unified,5,65,1360,126,28
+24736200000000,Gustine Unified,7,39,345,80,14
+24736200000000,Gustine Unified,9,2,15,6,2
+24753200000000,Dos Palos Oro Loma Joint Unified,0,3,13,6,0
+24753200000000,Dos Palos Oro Loma Joint Unified,1,1,27,2,2
+24753200000000,Dos Palos Oro Loma Joint Unified,5,104,1684,198,46
+24753200000000,Dos Palos Oro Loma Joint Unified,6,8,84,16,0
+24753200000000,Dos Palos Oro Loma Joint Unified,7,31,446,64,16
+24753700000000,Delhi Unified,2,5,87,8,6
+24753700000000,Delhi Unified,3,2,6,2,0
+24753700000000,Delhi Unified,4,2,6,2,2
+24753700000000,Delhi Unified,5,165,2397,308,98
+24753700000000,Delhi Unified,7,17,203,36,10
+25102600000000,Modoc County Office of Education,7,2,28,2,2
+25102600000000,Modoc County Office of Education,9,1,3,1,1
+25659000000000,Surprise Valley Joint Unified,5,2,26,2,0
+25659000000000,Surprise Valley Joint Unified,7,10,72,18,2
+25735900000000,Modoc Joint Unified,1,3,49,8,4
+25735900000000,Modoc Joint Unified,5,14,143,76,20
+25735900000000,Modoc Joint Unified,7,51,565,110,40
+25735900000000,Modoc Joint Unified,9,0,12,4,2
+25735900000000,Tulelake Basin Joint Unified,5,27,323,76,20
+25735900000000,Tulelake Basin Joint Unified,7,7,131,110,40
+25735900000000,Tulelake Basin Joint Unified,9,2,13,4,2
+26102600000000,Mono County Office of Education,0,13,13,4,0
+26102600000000,Mono County Office of Education,1,12,16,2,0
+26102600000000,Mono County Office of Education,2,12,12,2,0
+26102600000000,Mono County Office of Education,3,2,2,2,0
+26102600000000,Mono County Office of Education,5,201,223,196,0
+26102600000000,Mono County Office of Education,6,72,73,30,0
+26102600000000,Mono County Office of Education,7,77,86,62,0
+26102600000000,Mono County Office of Education,9,3,4,2,0
+26736700000000,Eastern Sierra Unified,1,1,32,2,0
+26736700000000,Eastern Sierra Unified,5,13,165,22,0
+26736700000000,Eastern Sierra Unified,7,10,229,18,0
+26736900000000,Mammoth Unified,0,32,487,52,34
+26736900000000,Mammoth Unified,5,28,630,44,6
+26736900000000,Mammoth Unified,9,3,11,6,2
+27102700000000,Monterey County Office of Education,0,46,131,12,0
+27102700000000,Monterey County Office of Education,1,3,9,4,0
+27102700000000,Monterey County Office of Education,2,5,26,4,0
+27102700000000,Monterey County Office of Education,3,1,4,2,0
+27102700000000,Monterey County Office of Education,4,2,22,2,0
+27102700000000,Monterey County Office of Education,5,174,812,208,2
+27102700000000,Monterey County Office of Education,6,6,42,16,0
+27102700000000,Monterey County Office of Education,7,31,471,62,0
+27102700000000,Monterey County Office of Education,9,6,89,10,0
+27659900000000,Carmel Unified,0,2,52,4,4
+27659900000000,Carmel Unified,2,4,71,8,8
+27659900000000,Carmel Unified,5,33,424,58,42
+27659900000000,Carmel Unified,7,132,1574,248,196
+27659900000000,Carmel Unified,9,11,204,22,10
+27660700000000,South Monterey County Joint Union High,1,3,7,4,0
+27660700000000,South Monterey County Joint Union High,2,1,9,2,2
+27660700000000,South Monterey County Joint Union High,3,1,1,1,0
+27660700000000,South Monterey County Joint Union High,4,6,14,12,4
+27660700000000,South Monterey County Joint Union High,5,443,1811,754,116
+27660700000000,South Monterey County Joint Union High,6,3,5,2,0
+27660700000000,South Monterey County Joint Union High,7,29,98,58,16
+27660700000000,South Monterey County Joint Union High,9,0,26,2,0
+27660900000000,Monterey Peninsula Unified,1,3,32,2,2
+27660900000000,Monterey Peninsula Unified,2,58,597,104,70
+27660900000000,Monterey Peninsula Unified,3,25,240,50,18
+27660900000000,Monterey Peninsula Unified,4,41,432,76,40
+27660900000000,Monterey Peninsula Unified,5,356,5676,574,190
+27660900000000,Monterey Peninsula Unified,6,64,689,114,52
+27660900000000,Monterey Peninsula Unified,7,213,2419,374,194
+27660900000000,Monterey Peninsula Unified,9,28,643,62,34
+27661300000000,Pacific Grove Unified,0,2,52,4,2
+27661300000000,Pacific Grove Unified,1,1,9,2,0
+27661300000000,Pacific Grove Unified,2,10,163,20,10
+27661300000000,Pacific Grove Unified,3,1,18,2,0
+27661300000000,Pacific Grove Unified,5,19,371,38,6
+27661300000000,Pacific Grove Unified,6,4,41,8,0
+27661300000000,Pacific Grove Unified,7,87,1272,176,48
+27661600000000,Salinas Union High,0,3,10,2,2
+27661600000000,Salinas Union High,1,11,41,12,2
+27661600000000,Salinas Union High,2,38,179,74,44
+27661600000000,Salinas Union High,3,12,49,18,4
+27661600000000,Salinas Union High,4,98,483,174,78
+27661600000000,Salinas Union High,5,2057,11548,3120,880
+27661600000000,Salinas Union High,6,54,192,76,18
+27661600000000,Salinas Union High,7,250,1337,394,184
+27661600000000,Salinas Union High,9,2,40,4,4
+27738300000000,North Monterey County Unified,1,1,15,2,0
+27738300000000,North Monterey County Unified,2,7,23,12,6
+27738300000000,North Monterey County Unified,4,9,51,14,2
+27738300000000,North Monterey County Unified,5,257,3486,452,162
+27738300000000,North Monterey County Unified,6,2,26,4,0
+27738300000000,North Monterey County Unified,7,92,653,154,42
+27751500000000,Big Sur Unified,5,2,16,2,2
+27751500000000,Big Sur Unified,7,2,54,2,2
+27754400000000,Soledad Unified,2,4,35,6,2
+27754400000000,Soledad Unified,3,1,5,2,0
+27754400000000,Soledad Unified,4,6,46,10,2
+27754400000000,Soledad Unified,5,324,4476,508,114
+27754400000000,Soledad Unified,6,2,19,2,0
+27754400000000,Soledad Unified,7,10,105,16,10
+27754700000000,Gonzales Unified,4,2,15,4,0
+27754700000000,Gonzales Unified,5,196,2323,278,94
+27754700000000,Gonzales Unified,7,6,74,14,2
+28102800000000,Napa County Office of Education,4,1,2,2,0
+28102800000000,Napa County Office of Education,5,28,94,66,0
+28102800000000,Napa County Office of Education,7,5,31,18,0
+28662400000000,Calistoga Joint Unified,5,44,627,90,90
+28662400000000,Calistoga Joint Unified,7,12,141,24,22
+28662700000000,Napa Valley Unified,0,10,318,20,8
+28662700000000,Napa Valley Unified,1,13,92,20,6
+28662700000000,Napa Valley Unified,2,27,380,52,38
+28662700000000,Napa Valley Unified,3,5,70,12,4
+28662700000000,Napa Valley Unified,4,94,1118,188,118
+28662700000000,Napa Valley Unified,5,650,9532,996,216
+28662700000000,Napa Valley Unified,6,42,415,70,30
+28662700000000,Napa Valley Unified,7,543,5620,986,416
+28662700000000,Napa Valley Unified,9,63,781,114,54
+28662900000000,Saint Helena Unified,4,2,4,4,2
+28662900000000,Saint Helena Unified,5,59,665,108,36
+28662900000000,Saint Helena Unified,6,1,9,2,2
+28662900000000,Saint Helena Unified,7,56,593,112,62
+28662900000000,Saint Helena Unified,9,1,6,2,2
+29103000000000,Nevada County Office of Education,0,135,149,132,0
+29103000000000,Nevada County Office of Education,1,13,40,14,0
+29103000000000,Nevada County Office of Education,2,34,52,28,2
+29103000000000,Nevada County Office of Education,3,5,11,4,0
+29103000000000,Nevada County Office of Education,4,6,7,4,0
+29103000000000,Nevada County Office of Education,5,772,1115,758,44
+29103000000000,Nevada County Office of Education,6,340,395,284,16
+29103000000000,Nevada County Office of Education,7,279,1593,390,64
+29103000000000,Nevada County Office of Education,9,43,49,48,0
+29663600000000,Nevada Joint Union High,1,23,59,38,12
+29663600000000,Nevada Joint Union High,2,14,39,24,16
+29663600000000,Nevada Joint Union High,3,2,11,4,0
+29663600000000,Nevada Joint Union High,4,2,9,4,0
+29663600000000,Nevada Joint Union High,5,54,256,90,26
+29663600000000,Nevada Joint Union High,6,13,28,18,8
+29663600000000,Nevada Joint Union High,7,769,2802,1378,572
+29663600000000,Nevada Joint Union High,9,18,96,36,16
+29664000000000,Ready Springs Union Elementary,1,1,8,2,0
+29664000000000,Ready Springs Union Elementary,5,2,30,2,0
+29664000000000,Ready Springs Union Elementary,7,7,205,16,0
+30103100000000,Orange County Department of Education,0,25,133,36,0
+30103100000000,Orange County Department of Education,1,13,55,20,0
+30103100000000,Orange County Department of Education,2,55,463,110,0
+30103100000000,Orange County Department of Education,3,9,32,10,0
+30103100000000,Orange County Department of Education,4,4,38,10,0
+30103100000000,Orange County Department of Education,5,1248,4316,1684,0
+30103100000000,Orange County Department of Education,6,34,179,54,0
+30103100000000,Orange County Department of Education,7,407,1828,666,0
+30103100000000,Orange County Department of Education,9,26,140,44,0
+30664300000000,Anaheim Union High,1,9,152,16,2
+30664300000000,Anaheim Union High,2,685,3911,1312,864
+30664300000000,Anaheim Union High,3,44,236,76,22
+30664300000000,Anaheim Union High,4,189,1260,360,182
+30664300000000,Anaheim Union High,5,3257,20582,5184,1324
+30664300000000,Anaheim Union High,6,137,878,226,52
+30664300000000,Anaheim Union High,7,742,4005,1334,446
+30664300000000,Anaheim Union High,9,211,1057,376,176
+30664500000000,Brea-Olinda Unified,1,4,18,8,2
+30664500000000,Brea-Olinda Unified,2,101,1107,198,154
+30664500000000,Brea-Olinda Unified,3,2,25,4,4
+30664500000000,Brea-Olinda Unified,4,12,181,22,18
+30664500000000,Brea-Olinda Unified,5,141,2038,268,96
+30664500000000,Brea-Olinda Unified,6,13,113,26,18
+30664500000000,Brea-Olinda Unified,7,247,2376,494,282
+30664500000000,Brea-Olinda Unified,9,5,114,10,6
+30664600000000,Buena Park Elementary,0,0,12,12,8
+30664600000000,Buena Park Elementary,1,0,16,24,10
+30664600000000,Buena Park Elementary,2,0,778,410,314
+30664600000000,Buena Park Elementary,3,0,34,16,6
+30664600000000,Buena Park Elementary,4,0,263,136,80
+30664600000000,Buena Park Elementary,5,0,3401,1774,640
+30664600000000,Buena Park Elementary,6,0,261,126,48
+30664600000000,Buena Park Elementary,7,0,513,5074,2884
+30664600000000,Buena Park Elementary,9,0,71,434,264
+30664600000000,Capistrano Unified,0,6,157,12,8
+30664600000000,Capistrano Unified,1,12,165,24,10
+30664600000000,Capistrano Unified,2,209,2892,410,314
+30664600000000,Capistrano Unified,3,7,68,16,6
+30664600000000,Capistrano Unified,4,68,863,136,80
+30664600000000,Capistrano Unified,5,949,13512,1774,640
+30664600000000,Capistrano Unified,6,61,688,126,48
+30664600000000,Capistrano Unified,7,2568,32380,5074,2884
+30664600000000,Capistrano Unified,9,215,3060,434,264
+30665100000000,Fullerton Elementary,0,0,229,4,2
+30665100000000,Fullerton Elementary,1,0,44,20,6
+30665100000000,Fullerton Elementary,2,0,2889,1212,1000
+30665100000000,Fullerton Elementary,3,0,25,16,6
+30665100000000,Fullerton Elementary,4,0,241,242,170
+30665100000000,Fullerton Elementary,5,0,6920,3378,1056
+30665100000000,Fullerton Elementary,6,0,191,144,42
+30665100000000,Fullerton Elementary,7,0,2869,1498,800
+30665100000000,Fullerton Elementary,9,0,422,110,80
+30665100000000,Fullerton Joint Union High,0,5,58,4,2
+30665100000000,Fullerton Joint Union High,1,11,39,20,6
+30665100000000,Fullerton Joint Union High,2,615,2643,1212,1000
+30665100000000,Fullerton Joint Union High,3,7,41,16,6
+30665100000000,Fullerton Joint Union High,4,123,498,242,170
+30665100000000,Fullerton Joint Union High,5,1615,7763,3378,1056
+30665100000000,Fullerton Joint Union High,6,59,314,144,42
+30665100000000,Fullerton Joint Union High,7,739,2991,1498,800
+30665100000000,Fullerton Joint Union High,9,54,261,110,80
+30665200000000,Garden Grove Unified,1,8,73,14,8
+30665200000000,Garden Grove Unified,2,1442,15673,2634,1872
+30665200000000,Garden Grove Unified,3,29,354,50,12
+30665200000000,Garden Grove Unified,4,61,586,116,60
+30665200000000,Garden Grove Unified,5,1855,25467,3260,1234
+30665200000000,Garden Grove Unified,6,30,403,54,26
+30665200000000,Garden Grove Unified,7,478,4721,858,414
+30665200000000,Garden Grove Unified,9,1,107,4,2
+30665500000000,Huntington Beach Union High,0,70,407,108,32
+30665500000000,Huntington Beach Union High,1,301,981,498,248
+30665500000000,Huntington Beach Union High,2,909,3687,1668,1144
+30665500000000,Huntington Beach Union High,3,35,118,56,22
+30665500000000,Huntington Beach Union High,4,43,170,80,58
+30665500000000,Huntington Beach Union High,5,985,4042,1502,512
+30665500000000,Huntington Beach Union High,6,41,196,74,28
+30665500000000,Huntington Beach Union High,7,1686,6629,2948,1570
+30665500000000,Huntington Beach Union High,9,55,170,102,34
+30665600000000,La Habra City Elementary,1,0,9,2,2
+30665600000000,La Habra City Elementary,2,0,88,14,14
+30665600000000,La Habra City Elementary,4,0,60,2,2
+30665600000000,La Habra City Elementary,5,0,4470,48,48
+30665600000000,La Habra City Elementary,6,0,54,12,12
+30665600000000,La Habra City Elementary,7,0,510,398,394
+30665600000000,La Habra City Elementary,9,0,51,8,8
+30665600000000,Laguna Beach Unified,0,2,7,4,4
+30665600000000,Laguna Beach Unified,1,1,15,2,2
+30665600000000,Laguna Beach Unified,2,7,122,14,14
+30665600000000,Laguna Beach Unified,4,1,11,2,2
+30665600000000,Laguna Beach Unified,5,27,283,48,48
+30665600000000,Laguna Beach Unified,6,6,44,12,12
+30665600000000,Laguna Beach Unified,7,201,2468,398,394
+30665600000000,Laguna Beach Unified,9,4,89,8,8
+30666000000000,Newport-Mesa Unified,1,7,56,14,6
+30666000000000,Newport-Mesa Unified,2,80,952,150,118
+30666000000000,Newport-Mesa Unified,3,12,150,24,4
+30666000000000,Newport-Mesa Unified,4,14,191,24,12
+30666000000000,Newport-Mesa Unified,5,678,9573,1214,396
+30666000000000,Newport-Mesa Unified,6,33,281,62,26
+30666000000000,Newport-Mesa Unified,7,936,10501,1806,1144
+30666000000000,Newport-Mesa Unified,9,10,299,14,8
+30666200000000,Orange Unified,0,7,282,16,10
+30666200000000,Orange Unified,1,15,96,30,8
+30666200000000,Orange Unified,2,257,2889,482,350
+30666200000000,Orange Unified,3,16,124,28,8
+30666200000000,Orange Unified,4,48,538,96,42
+30666200000000,Orange Unified,5,1141,15457,1972,438
+30666200000000,Orange Unified,6,33,429,52,16
+30666200000000,Orange Unified,7,978,9614,1824,848
+30666200000000,Orange Unified,9,14,425,24,8
+30666500000000,Placentia-Yorba Linda Unified,0,3,125,4,2
+30666500000000,Placentia-Yorba Linda Unified,1,4,43,6,4
+30666500000000,Placentia-Yorba Linda Unified,2,253,3108,486,398
+30666500000000,Placentia-Yorba Linda Unified,3,8,59,14,4
+30666500000000,Placentia-Yorba Linda Unified,4,29,459,54,40
+30666500000000,Placentia-Yorba Linda Unified,5,691,10036,1222,360
+30666500000000,Placentia-Yorba Linda Unified,6,38,400,64,18
+30666500000000,Placentia-Yorba Linda Unified,7,1090,10939,2038,1072
+30666500000000,Placentia-Yorba Linda Unified,9,10,453,18,12
+30666700000000,Santa Ana Unified,1,5,56,8,2
+30666700000000,Santa Ana Unified,2,156,1542,300,228
+30666700000000,Santa Ana Unified,3,9,70,12,2
+30666700000000,Santa Ana Unified,4,17,150,30,22
+30666700000000,Santa Ana Unified,5,3683,53483,6568,2398
+30666700000000,Santa Ana Unified,6,23,229,44,26
+30666700000000,Santa Ana Unified,7,180,1566,356,276
+30666700000000,Santa Ana Unified,9,26,311,50,36
+30736400000000,Saddleback Valley Unified,0,8,150,16,8
+30736400000000,Saddleback Valley Unified,1,15,83,32,14
+30736400000000,Saddleback Valley Unified,2,192,2101,878,704
+30736400000000,Saddleback Valley Unified,3,8,76,36,10
+30736400000000,Saddleback Valley Unified,4,93,958,240,130
+30736400000000,Saddleback Valley Unified,5,712,9276,2658,810
+30736400000000,Saddleback Valley Unified,6,51,463,188,84
+30736400000000,Saddleback Valley Unified,7,1616,15783,4086,2172
+30736400000000,Saddleback Valley Unified,9,110,1465,230,120
+30736400000000,Tustin Unified,0,5,142,16,8
+30736400000000,Tustin Unified,1,4,55,32,14
+30736400000000,Tustin Unified,2,262,3936,878,704
+30736400000000,Tustin Unified,3,15,103,36,10
+30736400000000,Tustin Unified,4,35,447,240,130
+30736400000000,Tustin Unified,5,761,11036,2658,810
+30736400000000,Tustin Unified,6,50,518,188,84
+30736400000000,Tustin Unified,7,560,7091,4086,2172
+30736400000000,Tustin Unified,9,10,443,230,120
+30736500000000,Irvine Unified,0,8,77,12,8
+30736500000000,Irvine Unified,1,9,100,14,6
+30736500000000,Irvine Unified,2,964,12693,1832,1404
+30736500000000,Irvine Unified,3,10,104,16,8
+30736500000000,Irvine Unified,4,53,772,104,66
+30736500000000,Irvine Unified,5,259,3044,472,178
+30736500000000,Irvine Unified,6,58,670,92,34
+30736500000000,Irvine Unified,7,846,9930,1598,966
+30736500000000,Irvine Unified,9,84,1682,158,112
+30739200000000,Los Alamitos Unified,1,5,32,8,2
+30739200000000,Los Alamitos Unified,2,93,1119,186,166
+30739200000000,Los Alamitos Unified,3,4,65,6,4
+30739200000000,Los Alamitos Unified,4,26,250,46,30
+30739200000000,Los Alamitos Unified,5,167,2244,318,150
+30739200000000,Los Alamitos Unified,6,25,299,46,26
+30739200000000,Los Alamitos Unified,7,531,5378,1044,628
+30739200000000,Los Alamitos Unified,9,19,483,38,22
+31103100000000,Placer County Office of Education,1,1,10,2,0
+31103100000000,Placer County Office of Education,5,13,134,6,0
+31103100000000,Placer County Office of Education,6,2,28,6,0
+31103100000000,Placer County Office of Education,7,25,305,36,0
+31103100000000,Placer County Office of Education,9,1,16,2,0
+31668000000000,Colfax Elementary,1,4,21,10,0
+31668000000000,Colfax Elementary,5,13,93,20,0
+31668000000000,Colfax Elementary,6,3,6,2,0
+31668000000000,Colfax Elementary,7,36,459,86,4
+31668000000000,Dry Creek Joint Elementary,1,0,39,10,0
+31668000000000,Dry Creek Joint Elementary,5,0,1178,20,0
+31668000000000,Dry Creek Joint Elementary,6,0,286,2,0
+31668000000000,Dry Creek Joint Elementary,7,0,4124,86,4
+31668900000000,Placer Hills Union Elementary,0,0,1,1,0
+31668900000000,Placer Hills Union Elementary,1,0,11,20,10
+31668900000000,Placer Hills Union Elementary,2,0,1,10,7
+31668900000000,Placer Hills Union Elementary,4,0,4,6,2
+31668900000000,Placer Hills Union Elementary,5,0,71,232,78
+31668900000000,Placer Hills Union Elementary,6,0,8,12,2
+31668900000000,Placer Hills Union Elementary,7,0,729,1698,736
+31668900000000,Placer Hills Union Elementary,9,0,28,106,48
+31668900000000,Placer Union High,0,1,26,2,0
+31668900000000,Placer Union High,1,11,56,20,10
+31668900000000,Placer Union High,2,10,33,20,14
+31668900000000,Placer Union High,4,3,17,6,2
+31668900000000,Placer Union High,5,131,513,232,78
+31668900000000,Placer Union High,6,7,26,12,2
+31668900000000,Placer Union High,7,908,3399,1698,736
+31668900000000,Placer Union High,9,58,254,106,48
+31669300000000,Roseville Joint Union High,0,6,49,10,6
+31669300000000,Roseville Joint Union High,1,28,79,50,30
+31669300000000,Roseville Joint Union High,2,174,700,330,272
+31669300000000,Roseville Joint Union High,3,16,55,28,20
+31669300000000,Roseville Joint Union High,4,49,301,86,70
+31669300000000,Roseville Joint Union High,5,469,1766,802,494
+31669300000000,Roseville Joint Union High,6,106,377,168,88
+31669300000000,Roseville Joint Union High,7,1621,6298,2994,2158
+31669300000000,Roseville Joint Union High,9,149,581,286,208
+31669400000000,Tahoe-Truckee Unified,1,2,36,4,4
+31669400000000,Tahoe-Truckee Unified,2,4,23,8,4
+31669400000000,Tahoe-Truckee Unified,5,78,1415,138,28
+31669400000000,Tahoe-Truckee Unified,7,172,2360,326,222
+31669400000000,Tahoe-Truckee Unified,9,1,44,2,2
+31669500000000,Western Placer Unified,0,5,77,6,0
+31669500000000,Western Placer Unified,1,12,125,22,4
+31669500000000,Western Placer Unified,2,14,291,24,12
+31669500000000,Western Placer Unified,3,7,52,10,6
+31669500000000,Western Placer Unified,4,14,211,28,18
+31669500000000,Western Placer Unified,5,183,2379,276,70
+31669500000000,Western Placer Unified,6,15,208,24,2
+31669500000000,Western Placer Unified,7,488,5888,872,228
+31669500000000,Western Placer Unified,9,1,216,2,0
+31750900000000,Rocklin Unified,0,4,63,8,8
+31750900000000,Rocklin Unified,1,7,54,12,6
+31750900000000,Rocklin Unified,2,66,783,126,112
+31750900000000,Rocklin Unified,3,1,50,2,2
+31750900000000,Rocklin Unified,4,28,345,54,42
+31750900000000,Rocklin Unified,5,127,1643,250,140
+31750900000000,Rocklin Unified,6,11,182,16,14
+31750900000000,Rocklin Unified,7,682,8330,1310,874
+31750900000000,Rocklin Unified,9,40,705,80,60
+31765700000000,SBE - Western Sierra Collegiate Academy,2,1,47,2,2
+31765700000000,SBE - Western Sierra Collegiate Academy,4,1,16,2,2
+31765700000000,SBE - Western Sierra Collegiate Academy,5,4,62,12,4
+31765700000000,SBE - Western Sierra Collegiate Academy,7,13,351,36,28
+31765700000000,SBE - Western Sierra Collegiate Academy,9,2,56,4,2
+32103200000000,Plumas County Office of Education,1,1,3,1,0
+32103200000000,Plumas County Office of Education,5,1,4,1,0
+32103200000000,Plumas County Office of Education,7,2,23,2,0
+32669700000000,Plumas Unified,1,9,98,16,2
+32669700000000,Plumas Unified,2,4,15,10,2
+32669700000000,Plumas Unified,4,1,8,2,0
+32669700000000,Plumas Unified,5,26,278,50,10
+32669700000000,Plumas Unified,6,1,33,2,0
+32669700000000,Plumas Unified,7,127,1631,240,64
+32669700000000,Plumas Unified,9,3,61,4,0
+33103300000000,Riverside County Office of Education,0,1,4,4,0
+33103300000000,Riverside County Office of Education,1,5,57,6,0
+33103300000000,Riverside County Office of Education,2,5,97,6,0
+33103300000000,Riverside County Office of Education,3,2,18,4,0
+33103300000000,Riverside County Office of Education,4,0,69,2,0
+33103300000000,Riverside County Office of Education,5,552,3430,504,32
+33103300000000,Riverside County Office of Education,6,97,479,94,2
+33103300000000,Riverside County Office of Education,7,229,3315,348,40
+33103300000000,Riverside County Office of Education,9,20,395,32,8
+33316300000000,California School for the Deaf-Riverside (State Sp,2,6,11,6,0
+33316300000000,California School for the Deaf-Riverside (State Sp,3,1,3,2,0
+33316300000000,California School for the Deaf-Riverside (State Sp,5,55,226,60,0
+33316300000000,California School for the Deaf-Riverside (State Sp,6,14,41,10,0
+33316300000000,California School for the Deaf-Riverside (State Sp,7,14,88,18,0
+33316300000000,California School for the Deaf-Riverside (State Sp,9,1,13,2,0
+33669800000000,Alvord Unified,0,1,14,4,0
+33669800000000,Alvord Unified,1,4,55,6,0
+33669800000000,Alvord Unified,2,66,669,122,56
+33669800000000,Alvord Unified,3,8,76,14,4
+33669800000000,Alvord Unified,4,28,290,56,30
+33669800000000,Alvord Unified,5,1231,15333,1990,468
+33669800000000,Alvord Unified,6,70,783,98,22
+33669800000000,Alvord Unified,7,188,2188,308,74
+33669800000000,Alvord Unified,9,24,226,40,16
+33669900000000,Banning Unified,0,1,5,4,0
+33669900000000,Banning Unified,1,10,176,34,6
+33669900000000,Banning Unified,2,31,253,90,46
+33669900000000,Banning Unified,3,1,10,10,4
+33669900000000,Banning Unified,4,5,36,36,32
+33669900000000,Banning Unified,5,189,2856,826,222
+33669900000000,Banning Unified,6,28,401,116,34
+33669900000000,Banning Unified,7,43,650,486,142
+33669900000000,Banning Unified,9,8,137,28,8
+33669900000000,Beaumont Unified,0,2,34,4,0
+33669900000000,Beaumont Unified,1,5,78,34,6
+33669900000000,Beaumont Unified,2,19,261,90,46
+33669900000000,Beaumont Unified,3,4,26,10,4
+33669900000000,Beaumont Unified,4,17,203,36,32
+33669900000000,Beaumont Unified,5,295,4360,826,222
+33669900000000,Beaumont Unified,6,42,498,116,34
+33669900000000,Beaumont Unified,7,229,3128,486,142
+33669900000000,Beaumont Unified,9,8,246,28,8
+33670300000000,Corona-Norco Unified,0,27,375,36,18
+33670300000000,Corona-Norco Unified,1,20,177,30,14
+33670300000000,Corona-Norco Unified,2,326,4162,628,472
+33670300000000,Corona-Norco Unified,3,15,194,24,18
+33670300000000,Corona-Norco Unified,4,111,1469,212,154
+33670300000000,Corona-Norco Unified,5,2221,27376,3762,1486
+33670300000000,Corona-Norco Unified,6,405,3347,728,350
+33670300000000,Corona-Norco Unified,7,1392,15882,2544,1328
+33670300000000,Corona-Norco Unified,9,9,455,20,10
+33670600000000,Desert Sands Unified,0,7,185,12,2
+33670600000000,Desert Sands Unified,1,13,100,20,10
+33670600000000,Desert Sands Unified,2,50,516,94,54
+33670600000000,Desert Sands Unified,3,5,27,12,2
+33670600000000,Desert Sands Unified,4,20,257,38,18
+33670600000000,Desert Sands Unified,5,1579,20559,2596,672
+33670600000000,Desert Sands Unified,6,65,574,120,20
+33670600000000,Desert Sands Unified,7,609,6607,1098,506
+33670600000000,Desert Sands Unified,9,10,334,18,8
+33670800000000,Hemet Unified,1,15,244,26,6
+33670800000000,Hemet Unified,2,23,254,44,26
+33670800000000,Hemet Unified,3,15,113,24,14
+33670800000000,Hemet Unified,4,20,226,36,14
+33670800000000,Hemet Unified,5,905,11134,1454,242
+33670800000000,Hemet Unified,6,165,1666,208,38
+33670800000000,Hemet Unified,7,692,7342,1162,296
+33670800000000,Hemet Unified,9,37,708,52,10
+33670900000000,Jurupa Unified,0,1,25,2,0
+33670900000000,Jurupa Unified,1,4,37,4,0
+33670900000000,Jurupa Unified,2,24,212,40,28
+33670900000000,Jurupa Unified,3,7,54,16,2
+33670900000000,Jurupa Unified,4,8,70,12,4
+33670900000000,Jurupa Unified,5,1224,16248,1834,562
+33670900000000,Jurupa Unified,6,61,439,98,24
+33670900000000,Jurupa Unified,7,262,2355,428,126
+33670900000000,Jurupa Unified,9,10,137,18,6
+33671200000000,Menifee Union Elementary,0,0,19,4,0
+33671200000000,Menifee Union Elementary,1,0,22,12,2
+33671200000000,Menifee Union Elementary,2,0,234,92,48
+33671200000000,Menifee Union Elementary,3,0,70,42,14
+33671200000000,Menifee Union Elementary,4,1,331,118,46
+33671200000000,Menifee Union Elementary,5,16,4239,2758,788
+33671200000000,Menifee Union Elementary,6,0,555,738,174
+33671200000000,Menifee Union Elementary,7,23,4061,496,176
+33671200000000,Menifee Union Elementary,9,0,424,24,6
+33671200000000,Moreno Valley Unified,0,0,34,4,0
+33671200000000,Moreno Valley Unified,1,8,115,12,2
+33671200000000,Moreno Valley Unified,2,56,706,92,48
+33671200000000,Moreno Valley Unified,3,21,260,42,14
+33671200000000,Moreno Valley Unified,4,64,589,118,46
+33671200000000,Moreno Valley Unified,5,1686,23225,2758,788
+33671200000000,Moreno Valley Unified,6,506,5982,738,174
+33671200000000,Moreno Valley Unified,7,277,3357,496,176
+33671200000000,Moreno Valley Unified,9,16,656,24,6
+33671600000000,Nuview Union,2,1,28,2,2
+33671600000000,Nuview Union,4,1,10,2,2
+33671600000000,Nuview Union,5,57,1753,112,92
+33671600000000,Nuview Union,6,9,213,18,18
+33671600000000,Nuview Union,7,30,662,58,52
+33671700000000,Palm Springs Unified,1,14,126,16,4
+33671700000000,Palm Springs Unified,2,17,243,26,10
+33671700000000,Palm Springs Unified,3,2,48,2,2
+33671700000000,Palm Springs Unified,4,48,553,96,34
+33671700000000,Palm Springs Unified,5,1260,17455,2068,522
+33671700000000,Palm Springs Unified,6,109,1307,178,48
+33671700000000,Palm Springs Unified,7,327,3559,544,210
+33671700000000,Palm Springs Unified,9,7,280,10,0
+33671800000000,Palo Verde Unified,1,2,19,4,0
+33671800000000,Palo Verde Unified,2,1,24,2,2
+33671800000000,Palo Verde Unified,3,1,6,2,0
+33671800000000,Palo Verde Unified,4,1,17,2,2
+33671800000000,Palo Verde Unified,5,146,2201,234,20
+33671800000000,Palo Verde Unified,6,23,256,38,2
+33671800000000,Palo Verde Unified,7,82,880,144,40
+33672100000000,Perris Union High,1,13,42,24,4
+33672100000000,Perris Union High,2,42,158,74,32
+33672100000000,Perris Union High,3,13,59,20,2
+33672100000000,Perris Union High,4,37,171,70,32
+33672100000000,Perris Union High,5,1425,7245,2394,472
+33672100000000,Perris Union High,6,200,812,332,68
+33672100000000,Perris Union High,7,483,1832,870,198
+33672100000000,Perris Union High,9,26,238,48,20
+33672200000000,Riverside Unified,0,48,576,84,52
+33672200000000,Riverside Unified,1,23,189,38,6
+33672200000000,Riverside Unified,2,153,1374,278,198
+33672200000000,Riverside Unified,3,20,207,36,18
+33672200000000,Riverside Unified,4,54,515,106,62
+33672200000000,Riverside Unified,5,2044,25038,3136,896
+33672200000000,Riverside Unified,6,349,3195,550,184
+33672200000000,Riverside Unified,7,1021,10821,1748,792
+33672200000000,Riverside Unified,9,27,645,46,24
+33672500000000,San Jacinto Unified,1,16,220,20,2
+33672500000000,San Jacinto Unified,2,13,128,22,8
+33672500000000,San Jacinto Unified,3,8,45,6,4
+33672500000000,San Jacinto Unified,4,8,82,14,6
+33672500000000,San Jacinto Unified,5,523,6750,718,176
+33672500000000,San Jacinto Unified,6,61,787,74,22
+33672500000000,San Jacinto Unified,7,153,1821,192,32
+33672500000000,San Jacinto Unified,9,15,206,22,6
+33736800000000,Coachella Valley Unified,0,17,194,24,0
+33736800000000,Coachella Valley Unified,1,3,63,6,0
+33736800000000,Coachella Valley Unified,2,4,19,6,4
+33736800000000,Coachella Valley Unified,4,3,22,4,0
+33736800000000,Coachella Valley Unified,5,1180,18109,1742,482
+33736800000000,Coachella Valley Unified,6,3,40,4,0
+33736800000000,Coachella Valley Unified,7,31,244,46,8
+33736800000000,Coachella Valley Unified,9,2,29,2,0
+33751800000000,Lake Elsinore Unified,0,3,42,8,2
+33751800000000,Lake Elsinore Unified,1,13,123,20,8
+33751800000000,Lake Elsinore Unified,2,42,462,74,42
+33751800000000,Lake Elsinore Unified,3,9,116,16,6
+33751800000000,Lake Elsinore Unified,4,4,135,6,0
+33751800000000,Lake Elsinore Unified,5,906,11953,1456,410
+33751800000000,Lake Elsinore Unified,6,82,1001,132,40
+33751800000000,Lake Elsinore Unified,7,676,7598,1164,384
+33751800000000,Lake Elsinore Unified,9,56,707,98,34
+33751900000000,Temecula Valley Unified,0,16,173,32,14
+33751900000000,Temecula Valley Unified,1,29,410,54,24
+33751900000000,Temecula Valley Unified,2,98,1148,182,140
+33751900000000,Temecula Valley Unified,3,12,109,22,10
+33751900000000,Temecula Valley Unified,4,156,1574,286,180
+33751900000000,Temecula Valley Unified,5,794,9292,1424,690
+33751900000000,Temecula Valley Unified,6,131,1201,226,110
+33751900000000,Temecula Valley Unified,7,1254,14327,2384,1378
+33751900000000,Temecula Valley Unified,9,129,2103,238,140
+33752000000000,Murrieta Valley Unified,1,5,84,8,2
+33752000000000,Murrieta Valley Unified,2,81,923,166,104
+33752000000000,Murrieta Valley Unified,3,20,137,38,16
+33752000000000,Murrieta Valley Unified,4,103,911,194,134
+33752000000000,Murrieta Valley Unified,5,631,7688,1190,510
+33752000000000,Murrieta Valley Unified,6,152,1262,298,96
+33752000000000,Murrieta Valley Unified,7,906,10720,1722,824
+33752000000000,Murrieta Valley Unified,9,64,1198,124,60
+33752400000000,Val Verde Unified,0,17,378,32,10
+33752400000000,Val Verde Unified,1,3,52,4,2
+33752400000000,Val Verde Unified,2,28,314,48,26
+33752400000000,Val Verde Unified,3,3,64,4,2
+33752400000000,Val Verde Unified,4,32,318,64,28
+33752400000000,Val Verde Unified,5,1061,14433,1996,720
+33752400000000,Val Verde Unified,6,279,2883,510,180
+33752400000000,Val Verde Unified,7,101,1156,178,68
+33752400000000,Val Verde Unified,9,25,234,46,22
+34103500000000,Sacramento County Office of Education,0,3,13,2,0
+34103500000000,Sacramento County Office of Education,2,17,60,2,0
+34103500000000,Sacramento County Office of Education,4,2,8,2,0
+34103500000000,Sacramento County Office of Education,5,60,300,16,0
+34103500000000,Sacramento County Office of Education,6,60,439,20,0
+34103500000000,Sacramento County Office of Education,7,62,189,32,0
+34103500000000,Sacramento County Office of Education,9,18,124,12,0
+34322800000000,California Education Authority (CEA) Headquarters,1,1,1,3,0
+34322800000000,California Education Authority (CEA) Headquarters,2,11,22,6,0
+34322800000000,California Education Authority (CEA) Headquarters,4,2,3,1,0
+34322800000000,California Education Authority (CEA) Headquarters,5,132,356,154,0
+34322800000000,California Education Authority (CEA) Headquarters,6,69,165,80,0
+34322800000000,California Education Authority (CEA) Headquarters,7,18,43,16,0
+34673100000000,Elk Grove Unified,0,2,141,2,2
+34673100000000,Elk Grove Unified,1,25,344,40,12
+34673100000000,Elk Grove Unified,2,1168,13440,2194,1394
+34673100000000,Elk Grove Unified,3,128,1101,228,110
+34673100000000,Elk Grove Unified,4,285,3203,548,342
+34673100000000,Elk Grove Unified,5,1076,15972,1818,658
+34673100000000,Elk Grove Unified,6,881,9540,1344,454
+34673100000000,Elk Grove Unified,7,1215,14443,2288,1298
+34673100000000,Elk Grove Unified,9,214,3953,356,144
+34673300000000,Folsom-Cordova Unified,1,11,145,22,12
+34673300000000,Folsom-Cordova Unified,2,153,2203,288,204
+34673300000000,Folsom-Cordova Unified,3,9,150,16,4
+34673300000000,Folsom-Cordova Unified,4,37,408,72,46
+34673300000000,Folsom-Cordova Unified,5,194,3325,350,108
+34673300000000,Folsom-Cordova Unified,6,107,1366,170,54
+34673300000000,Folsom-Cordova Unified,7,868,10918,1616,740
+34673300000000,Folsom-Cordova Unified,9,21,576,30,12
+34673600000000,Galt Joint Union High,1,6,12,12,4
+34673600000000,Galt Joint Union High,2,8,35,14,10
+34673600000000,Galt Joint Union High,3,5,13,10,4
+34673600000000,Galt Joint Union High,5,249,1143,464,96
+34673600000000,Galt Joint Union High,7,259,936,478,174
+34673600000000,Galt Joint Union High,9,31,109,56,30
+34674100000000,River Delta Joint Unified,1,2,13,4,2
+34674100000000,River Delta Joint Unified,2,4,15,8,6
+34674100000000,River Delta Joint Unified,4,2,20,4,2
+34674100000000,River Delta Joint Unified,5,69,1168,128,32
+34674100000000,River Delta Joint Unified,7,81,1003,140,46
+34674100000000,River Delta Joint Unified,9,5,66,8,4
+34674400000000,Sacramento City Unified,1,16,360,26,10
+34674400000000,Sacramento City Unified,2,721,8295,1318,794
+34674400000000,Sacramento City Unified,3,61,812,92,34
+34674400000000,Sacramento City Unified,4,34,538,68,40
+34674400000000,Sacramento City Unified,5,1180,17654,1848,580
+34674400000000,Sacramento City Unified,6,633,8433,930,352
+34674400000000,Sacramento City Unified,7,594,8956,1016,486
+34674400000000,Sacramento City Unified,9,196,2510,330,174
+34674500000000,San Juan Unified,0,14,67,16,0
+34674500000000,San Juan Unified,1,76,590,122,42
+34674500000000,San Juan Unified,2,226,2313,420,272
+34674500000000,San Juan Unified,3,35,433,54,20
+34674500000000,San Juan Unified,4,61,638,118,58
+34674500000000,San Juan Unified,5,865,9623,1266,308
+34674500000000,San Juan Unified,6,389,3662,520,106
+34674500000000,San Juan Unified,7,2955,29208,5184,1862
+34674500000000,San Juan Unified,9,59,1218,76,10
+34739700000000,Center Joint Unified,0,1,9,4,0
+34739700000000,Center Joint Unified,1,3,49,4,0
+34739700000000,Center Joint Unified,2,28,342,58,16
+34739700000000,Center Joint Unified,3,7,57,14,0
+34739700000000,Center Joint Unified,4,14,144,26,10
+34739700000000,Center Joint Unified,5,81,1066,156,12
+34739700000000,Center Joint Unified,6,58,555,106,18
+34739700000000,Center Joint Unified,7,209,2383,372,80
+34739700000000,Center Joint Unified,9,4,186,6,2
+34752800000000,Natomas Unified,0,21,484,26,6
+34752800000000,Natomas Unified,1,8,101,12,2
+34752800000000,Natomas Unified,2,146,1744,270,140
+34752800000000,Natomas Unified,3,19,208,34,16
+34752800000000,Natomas Unified,4,61,736,118,72
+34752800000000,Natomas Unified,5,312,3769,566,208
+34752800000000,Natomas Unified,6,190,2237,330,104
+34752800000000,Natomas Unified,7,164,2400,330,156
+34752800000000,Natomas Unified,9,33,775,52,22
+34765100000000,Twin Rivers Unified,0,49,559,68,4
+34765100000000,Twin Rivers Unified,1,49,301,52,2
+34765100000000,Twin Rivers Unified,2,263,2569,426,166
+34765100000000,Twin Rivers Unified,3,48,482,64,10
+34765100000000,Twin Rivers Unified,4,32,323,44,16
+34765100000000,Twin Rivers Unified,5,964,11922,1182,182
+34765100000000,Twin Rivers Unified,6,523,4705,644,62
+34765100000000,Twin Rivers Unified,7,748,9549,1102,190
+34765100000000,Twin Rivers Unified,9,52,1010,76,8
+35103600000000,San Benito County Office of Education,0,1,1,1,0
+35103600000000,San Benito County Office of Education,5,17,89,20,0
+35103600000000,San Benito County Office of Education,7,6,21,8,0
+35675400000000,San Benito High,1,5,17,8,2
+35675400000000,San Benito High,2,13,40,22,18
+35675400000000,San Benito High,3,1,8,2,0
+35675400000000,San Benito High,4,9,42,14,8
+35675400000000,San Benito High,5,488,2033,860,242
+35675400000000,San Benito High,6,6,22,14,6
+35675400000000,San Benito High,7,246,899,454,200
+35752600000000,Aromas/San Juan Unified,2,4,22,8,8
+35752600000000,Aromas/San Juan Unified,3,1,2,2,2
+35752600000000,Aromas/San Juan Unified,5,46,745,78,78
+35752600000000,Aromas/San Juan Unified,7,30,346,58,58
+35752600000000,Aromas/San Juan Unified,9,3,27,2,2
+36675900000000,Adelanto Elementary,1,3,41,8,0
+36675900000000,Adelanto Elementary,2,1,115,2,0
+36675900000000,Adelanto Elementary,3,3,67,4,0
+36675900000000,Adelanto Elementary,5,181,5360,108,0
+36675900000000,Adelanto Elementary,6,72,2036,44,0
+36675900000000,Adelanto Elementary,7,62,1017,46,0
+36676100000000,Barstow Unified,1,9,87,22,6
+36676100000000,Barstow Unified,2,4,47,8,6
+36676100000000,Barstow Unified,3,7,71,14,6
+36676100000000,Barstow Unified,4,8,54,14,10
+36676100000000,Barstow Unified,5,240,3068,362,94
+36676100000000,Barstow Unified,6,79,842,100,20
+36676100000000,Barstow Unified,7,146,1544,242,54
+36676100000000,Barstow Unified,9,10,210,12,2
+36676400000000,Bear Valley Unified,0,10,108,16,0
+36676400000000,Bear Valley Unified,1,2,21,4,0
+36676400000000,Bear Valley Unified,2,5,34,10,4
+36676400000000,Bear Valley Unified,5,57,844,116,22
+36676400000000,Bear Valley Unified,6,5,28,8,0
+36676400000000,Bear Valley Unified,7,118,1496,244,90
+36676400000000,Bear Valley Unified,9,1,60,2,2
+36676500000000,Central Elementary,1,0,16,36,10
+36676500000000,Central Elementary,2,0,216,620,462
+36676500000000,Central Elementary,3,0,26,72,26
+36676500000000,Central Elementary,4,0,126,270,192
+36676500000000,Central Elementary,5,0,2358,6378,2176
+36676500000000,Central Elementary,6,0,488,1048,388
+36676500000000,Central Elementary,7,0,1373,2356,1118
+36676500000000,Central Elementary,9,0,89,142,62
+36676500000000,Chaffey Joint Union High,0,17,195,20,4
+36676500000000,Chaffey Joint Union High,1,28,93,36,10
+36676500000000,Chaffey Joint Union High,2,337,1200,620,462
+36676500000000,Chaffey Joint Union High,3,40,130,72,26
+36676500000000,Chaffey Joint Union High,4,142,516,270,192
+36676500000000,Chaffey Joint Union High,5,3935,15640,6378,2176
+36676500000000,Chaffey Joint Union High,6,601,2184,1048,388
+36676500000000,Chaffey Joint Union High,7,1302,4731,2356,1118
+36676500000000,Chaffey Joint Union High,9,76,331,142,62
+36676800000000,Chino Valley Unified,1,3,37,6,2
+36676800000000,Chino Valley Unified,2,266,3485,524,420
+36676800000000,Chino Valley Unified,3,7,70,12,6
+36676800000000,Chino Valley Unified,4,118,1349,214,150
+36676800000000,Chino Valley Unified,5,1465,17427,2480,846
+36676800000000,Chino Valley Unified,6,126,1057,210,84
+36676800000000,Chino Valley Unified,7,715,6748,1298,652
+36676800000000,Chino Valley Unified,9,33,528,106,54
+36676900000000,Colton Joint Unified,1,4,76,2,2
+36676900000000,Colton Joint Unified,2,25,389,44,32
+36676900000000,Colton Joint Unified,3,9,84,12,4
+36676900000000,Colton Joint Unified,4,13,279,28,12
+36676900000000,Colton Joint Unified,5,1327,19018,1988,532
+36676900000000,Colton Joint Unified,6,85,1305,142,36
+36676900000000,Colton Joint Unified,7,128,1831,214,74
+36676900000000,Colton Joint Unified,9,2,181,4,2
+36676900000000,Cucamonga Elementary,1,0,7,2,2
+36676900000000,Cucamonga Elementary,2,0,98,44,32
+36676900000000,Cucamonga Elementary,3,0,18,12,4
+36676900000000,Cucamonga Elementary,4,0,74,28,12
+36676900000000,Cucamonga Elementary,5,0,1676,1988,532
+36676900000000,Cucamonga Elementary,6,0,367,142,36
+36676900000000,Cucamonga Elementary,7,0,250,214,74
+36676900000000,Cucamonga Elementary,9,0,36,4,2
+36677100000000,Fontana Unified,1,11,62,20,14
+36677100000000,Fontana Unified,2,38,454,56,32
+36677100000000,Fontana Unified,3,9,112,18,2
+36677100000000,Fontana Unified,4,50,461,92,56
+36677100000000,Fontana Unified,5,2890,34628,4908,1160
+36677100000000,Fontana Unified,6,273,2474,476,124
+36677100000000,Fontana Unified,7,183,1955,302,100
+36677100000000,Fontana Unified,9,7,224,14,0
+36677400000000,Helendale Elementary,2,1,11,4,4
+36677400000000,Helendale Elementary,5,12,222,24,8
+36677400000000,Helendale Elementary,6,3,50,6,0
+36677400000000,Helendale Elementary,7,16,385,30,16
+36677400000000,Helendale Elementary,9,1,46,2,0
+36677800000000,Morongo Unified,1,5,54,10,2
+36677800000000,Morongo Unified,2,6,98,12,4
+36677800000000,Morongo Unified,3,3,74,6,0
+36677800000000,Morongo Unified,4,15,107,28,16
+36677800000000,Morongo Unified,5,175,2491,294,54
+36677800000000,Morongo Unified,6,41,589,68,18
+36677800000000,Morongo Unified,7,373,5023,604,146
+36677800000000,Morongo Unified,9,25,460,46,12
+36678000000000,Needles Unified,1,6,139,12,0
+36678000000000,Needles Unified,3,1,6,2,0
+36678000000000,Needles Unified,5,25,215,42,16
+36678000000000,Needles Unified,7,37,460,60,8
+36678000000000,Needles Unified,9,5,16,8,4
+36678300000000,Oro Grande Elementary,1,2,35,2,2
+36678300000000,Oro Grande Elementary,2,5,35,2,0
+36678300000000,Oro Grande Elementary,4,2,14,4,0
+36678300000000,Oro Grande Elementary,5,440,1906,456,32
+36678300000000,Oro Grande Elementary,6,36,296,30,6
+36678300000000,Oro Grande Elementary,7,186,1135,248,50
+36678300000000,Oro Grande Elementary,9,22,152,32,4
+36678400000000,Redlands Unified,0,0,74,2,0
+36678400000000,Redlands Unified,1,9,99,16,8
+36678400000000,Redlands Unified,2,149,1739,286,210
+36678400000000,Redlands Unified,3,13,106,28,8
+36678400000000,Redlands Unified,4,63,581,126,78
+36678400000000,Redlands Unified,5,825,9618,1426,448
+36678400000000,Redlands Unified,6,138,1455,250,104
+36678400000000,Redlands Unified,7,751,6936,1400,748
+36678400000000,Redlands Unified,9,37,771,72,30
+36678500000000,Rialto Unified,0,2,31,4,0
+36678500000000,Rialto Unified,1,10,76,14,0
+36678500000000,Rialto Unified,2,18,252,34,0
+36678500000000,Rialto Unified,3,17,122,24,0
+36678500000000,Rialto Unified,4,15,134,28,0
+36678500000000,Rialto Unified,5,1610,21378,2684,0
+36678500000000,Rialto Unified,6,331,3279,530,0
+36678500000000,Rialto Unified,7,135,1162,212,0
+36678500000000,Rialto Unified,9,4,162,10,0
+36678700000000,Rim of the World Unified,1,3,20,4,0
+36678700000000,Rim of the World Unified,2,4,25,10,8
+36678700000000,Rim of the World Unified,4,4,10,8,2
+36678700000000,Rim of the World Unified,5,93,1212,122,24
+36678700000000,Rim of the World Unified,6,7,52,10,2
+36678700000000,Rim of the World Unified,7,285,2534,486,178
+36678700000000,Rim of the World Unified,9,6,155,12,4
+36678800000000,San Bernardino City Unified,0,58,720,82,10
+36678800000000,San Bernardino City Unified,1,24,297,34,8
+36678800000000,San Bernardino City Unified,2,80,846,120,32
+36678800000000,San Bernardino City Unified,3,15,258,28,6
+36678800000000,San Bernardino City Unified,4,20,230,36,12
+36678800000000,San Bernardino City Unified,5,2932,39263,4238,740
+36678800000000,San Bernardino City Unified,6,606,7629,830,88
+36678800000000,San Bernardino City Unified,7,428,4285,680,168
+36678800000000,San Bernardino City Unified,9,15,574,24,4
+36678900000000,Trona Joint Unified,4,1,1,1,0
+36678900000000,Trona Joint Unified,5,4,87,8,0
+36678900000000,Trona Joint Unified,7,11,164,22,0
+36678900000000,Trona Joint Unified,9,1,8,2,0
+36679300000000,Victor Valley Union High,0,15,130,38,0
+36679300000000,Victor Valley Union High,1,11,85,20,4
+36679300000000,Victor Valley Union High,2,61,267,82,44
+36679300000000,Victor Valley Union High,3,25,105,34,16
+36679300000000,Victor Valley Union High,4,25,118,42,26
+36679300000000,Victor Valley Union High,5,1458,8243,2452,476
+36679300000000,Victor Valley Union High,6,550,2915,730,138
+36679300000000,Victor Valley Union High,7,527,2638,950,146
+36679300000000,Victor Valley Union High,9,41,280,64,2
+36679600000000,Yucaipa-Calimesa Joint Unified,1,5,62,14,0
+36679600000000,Yucaipa-Calimesa Joint Unified,2,9,113,16,10
+36679600000000,Yucaipa-Calimesa Joint Unified,3,1,23,2,0
+36679600000000,Yucaipa-Calimesa Joint Unified,4,5,66,10,0
+36679600000000,Yucaipa-Calimesa Joint Unified,5,257,3563,468,82
+36679600000000,Yucaipa-Calimesa Joint Unified,6,17,139,34,8
+36679600000000,Yucaipa-Calimesa Joint Unified,7,458,5638,836,182
+36679600000000,Yucaipa-Calimesa Joint Unified,9,4,57,8,0
+36738600000000,Baker Valley Unified,5,5,150,8,0
+36738600000000,Baker Valley Unified,7,1,35,6,0
+36738900000000,Silver Valley Unified,1,3,42,6,6
+36738900000000,Silver Valley Unified,3,2,54,4,0
+36738900000000,Silver Valley Unified,4,3,47,4,4
+36738900000000,Silver Valley Unified,5,31,705,62,14
+36738900000000,Silver Valley Unified,6,14,285,28,0
+36738900000000,Silver Valley Unified,7,49,1068,90,14
+36738900000000,Silver Valley Unified,9,1,160,6,0
+36739600000000,Snowline Joint Unified,0,2,156,8,2
+36739600000000,Snowline Joint Unified,1,3,55,6,0
+36739600000000,Snowline Joint Unified,2,23,176,42,24
+36739600000000,Snowline Joint Unified,3,2,26,4,0
+36739600000000,Snowline Joint Unified,4,4,40,6,2
+36739600000000,Snowline Joint Unified,5,262,3125,460,62
+36739600000000,Snowline Joint Unified,6,34,530,50,6
+36739600000000,Snowline Joint Unified,7,373,3928,664,164
+36750400000000,Hesperia Unified,0,6,332,16,0
+36750400000000,Hesperia Unified,1,11,112,18,2
+36750400000000,Hesperia Unified,2,32,294,32,10
+36750400000000,Hesperia Unified,3,11,99,18,6
+36750400000000,Hesperia Unified,4,11,104,22,10
+36750400000000,Hesperia Unified,5,1185,13954,2084,268
+36750400000000,Hesperia Unified,6,179,1838,322,36
+36750400000000,Hesperia Unified,7,633,6469,1158,168
+36750400000000,Hesperia Unified,9,10,246,12,4
+36750500000000,Lucerne Valley Unified,2,1,87,2,0
+36750500000000,Lucerne Valley Unified,5,38,748,72,14
+36750500000000,Lucerne Valley Unified,6,3,73,4,0
+36750500000000,Lucerne Valley Unified,7,45,1573,84,24
+36750700000000,Upland Unified,1,4,51,8,0
+36750700000000,Upland Unified,2,62,603,114,76
+36750700000000,Upland Unified,3,6,45,12,6
+36750700000000,Upland Unified,4,21,204,38,18
+36750700000000,Upland Unified,5,435,6135,816,160
+36750700000000,Upland Unified,6,88,1023,154,26
+36750700000000,Upland Unified,7,337,3549,644,240
+36750700000000,Upland Unified,9,19,273,34,10
+36750800000000,Apple Valley Unified,1,9,70,16,6
+36750800000000,Apple Valley Unified,2,37,315,60,50
+36750800000000,Apple Valley Unified,3,11,81,18,8
+36750800000000,Apple Valley Unified,4,4,99,4,0
+36750800000000,Apple Valley Unified,5,444,5960,710,150
+36750800000000,Apple Valley Unified,6,132,1509,182,36
+36750800000000,Apple Valley Unified,7,580,6400,986,340
+36750800000000,Apple Valley Unified,9,10,244,16,2
+37103700000000,San Diego County Office of Education,1,8,26,6,0
+37103700000000,San Diego County Office of Education,2,27,358,42,0
+37103700000000,San Diego County Office of Education,4,6,39,2,0
+37103700000000,San Diego County Office of Education,5,764,2228,488,0
+37103700000000,San Diego County Office of Education,6,120,312,92,0
+37103700000000,San Diego County Office of Education,7,142,1008,130,0
+37103700000000,San Diego County Office of Education,9,30,159,28,0
+37679800000000,Bonsall Union Elementary,5,0,684,62,54
+37679800000000,Bonsall Union Elementary,7,0,1028,26,18
+37679800000000,Bonsall Union Elementary,9,0,93,2,2
+37679800000000,Borrego Springs Unified,5,38,384,62,54
+37679800000000,Borrego Springs Unified,7,15,107,26,18
+37679800000000,Borrego Springs Unified,9,1,8,2,2
+37680300000000,Coronado Unified,1,1,10,2,2
+37680300000000,Coronado Unified,2,4,81,8,4
+37680300000000,Coronado Unified,3,1,12,2,0
+37680300000000,Coronado Unified,4,4,55,8,4
+37680300000000,Coronado Unified,5,42,561,80,44
+37680300000000,Coronado Unified,6,5,46,10,6
+37680300000000,Coronado Unified,7,217,2290,418,250
+37680300000000,Coronado Unified,9,3,115,4,2
+37680500000000,Dehesa Elementary,0,0,3,1,0
+37680500000000,Dehesa Elementary,1,9,35,8,0
+37680500000000,Dehesa Elementary,2,17,67,12,0
+37680500000000,Dehesa Elementary,3,9,12,10,0
+37680500000000,Dehesa Elementary,5,262,679,154,0
+37680500000000,Dehesa Elementary,6,66,157,54,0
+37680500000000,Dehesa Elementary,7,82,1039,128,10
+37680500000000,Dehesa Elementary,9,5,115,14,2
+37681100000000,Escondido Union High,1,10,33,16,0
+37681100000000,Escondido Union High,2,95,266,180,88
+37681100000000,Escondido Union High,3,11,45,20,12
+37681100000000,Escondido Union High,4,59,212,114,62
+37681100000000,Escondido Union High,5,1360,5472,2092,574
+37681100000000,Escondido Union High,6,58,241,108,22
+37681100000000,Escondido Union High,7,727,2854,1430,632
+37681100000000,Escondido Union High,9,11,58,18,2
+37681100000000,Fallbrook Union Elementary,1,0,22,16,0
+37681100000000,Fallbrook Union Elementary,2,0,42,180,88
+37681100000000,Fallbrook Union Elementary,3,0,24,20,12
+37681100000000,Fallbrook Union Elementary,4,0,49,114,62
+37681100000000,Fallbrook Union Elementary,5,0,3110,2092,574
+37681100000000,Fallbrook Union Elementary,6,0,193,108,22
+37681100000000,Fallbrook Union Elementary,7,0,1960,1430,632
+37681100000000,Fallbrook Union Elementary,9,0,143,18,2
+37681200000000,Fallbrook Union High,1,7,29,14,2
+37681200000000,Fallbrook Union High,2,7,31,14,6
+37681200000000,Fallbrook Union High,3,1,10,2,0
+37681200000000,Fallbrook Union High,4,5,35,8,4
+37681200000000,Fallbrook Union High,5,401,1542,684,188
+37681200000000,Fallbrook Union High,6,18,50,26,8
+37681200000000,Fallbrook Union High,7,234,987,404,152
+37681200000000,Fallbrook Union High,9,22,54,42,12
+37681300000000,Grossmont Union High,0,34,218,52,12
+37681300000000,Grossmont Union High,1,61,168,78,12
+37681300000000,Grossmont Union High,2,100,353,170,114
+37681300000000,Grossmont Union High,3,51,155,76,50
+37681300000000,Grossmont Union High,4,90,332,148,76
+37681300000000,Grossmont Union High,5,1990,7774,2798,1142
+37681300000000,Grossmont Union High,6,427,1583,604,290
+37681300000000,Grossmont Union High,7,3156,10870,4918,2356
+37681300000000,Grossmont Union High,9,351,1512,552,278
+37681600000000,Jamul-Dulzura Union Elementary,1,3,21,10,0
+37681600000000,Jamul-Dulzura Union Elementary,2,2,33,12,2
+37681600000000,Jamul-Dulzura Union Elementary,3,0,3,4,0
+37681600000000,Jamul-Dulzura Union Elementary,4,0,12,2,0
+37681600000000,Jamul-Dulzura Union Elementary,5,24,451,152,14
+37681600000000,Jamul-Dulzura Union Elementary,6,1,19,36,2
+37681600000000,Jamul-Dulzura Union Elementary,7,12,562,288,22
+37681600000000,Julian Union Elementary,1,8,68,10,0
+37681600000000,Julian Union Elementary,2,5,60,12,2
+37681600000000,Julian Union Elementary,3,2,8,4,0
+37681600000000,Julian Union Elementary,4,1,26,2,0
+37681600000000,Julian Union Elementary,5,141,665,152,14
+37681600000000,Julian Union Elementary,6,39,144,36,2
+37681600000000,Julian Union Elementary,7,144,1988,288,22
+37681700000000,Julian Union High,1,5,23,8,0
+37681700000000,Julian Union High,3,1,1,1,0
+37681700000000,Julian Union High,4,1,1,1,0
+37681700000000,Julian Union High,5,7,42,14,0
+37681700000000,Julian Union High,7,25,104,52,0
+37681900000000,Lakeside Union Elementary,1,2,128,2,2
+37681900000000,Lakeside Union Elementary,2,3,79,4,4
+37681900000000,Lakeside Union Elementary,4,1,39,2,0
+37681900000000,Lakeside Union Elementary,5,83,1430,88,16
+37681900000000,Lakeside Union Elementary,6,4,129,6,0
+37681900000000,Lakeside Union Elementary,7,76,3428,108,44
+37681900000000,Lakeside Union Elementary,9,8,211,6,0
+37682100000000,Lemon Grove,1,0,17,8,0
+37682100000000,Lemon Grove,2,0,128,6,0
+37682100000000,Lemon Grove,4,0,84,2,0
+37682100000000,Lemon Grove,5,0,2243,152,26
+37682100000000,Lemon Grove,6,0,663,26,2
+37682100000000,Lemon Grove,7,0,470,202,36
+37682100000000,Lemon Grove,9,0,256,2,0
+37682100000000,Mountain Empire Unified,0,11,35,4,0
+37682100000000,Mountain Empire Unified,1,12,107,8,0
+37682100000000,Mountain Empire Unified,2,5,36,6,0
+37682100000000,Mountain Empire Unified,4,3,23,2,0
+37682100000000,Mountain Empire Unified,5,145,1239,152,26
+37682100000000,Mountain Empire Unified,6,20,120,26,2
+37682100000000,Mountain Empire Unified,7,134,1339,202,36
+37682100000000,Mountain Empire Unified,9,2,44,2,0
+37683000000000,Poway Unified,0,10,37,18,8
+37683000000000,Poway Unified,1,12,93,34,16
+37683000000000,Poway Unified,2,444,6643,876,728
+37683000000000,Poway Unified,3,18,174,38,20
+37683000000000,Poway Unified,4,191,2274,360,254
+37683000000000,Poway Unified,5,338,4817,838,344
+37683000000000,Poway Unified,6,101,967,172,80
+37683000000000,Poway Unified,7,1545,18441,3608,2266
+37683000000000,Poway Unified,9,65,1750,154,102
+37683000000000,Ramona City Unified,0,0,1,9,4
+37683000000000,Ramona City Unified,1,7,68,34,16
+37683000000000,Ramona City Unified,2,2,39,876,728
+37683000000000,Ramona City Unified,3,2,12,38,20
+37683000000000,Ramona City Unified,4,4,31,360,254
+37683000000000,Ramona City Unified,5,152,1968,838,344
+37683000000000,Ramona City Unified,6,3,54,172,80
+37683000000000,Ramona City Unified,7,370,3587,3608,2266
+37683000000000,Ramona City Unified,9,15,108,154,102
+37683400000000,San Diego Unified,0,103,531,160,142
+37683400000000,San Diego Unified,1,30,373,48,24
+37683400000000,San Diego Unified,2,862,10965,1634,980
+37683400000000,San Diego Unified,3,65,822,112,44
+37683400000000,San Diego Unified,4,666,7012,1268,700
+37683400000000,San Diego Unified,5,4096,60616,6742,2588
+37683400000000,San Diego Unified,6,1042,13261,1664,652
+37683400000000,San Diego Unified,7,2381,30271,4262,2734
+37683400000000,San Diego Unified,9,238,6419,454,268
+37683500000000,San Dieguito Union High,1,4,41,6,4
+37683500000000,San Dieguito Union High,2,296,1855,588,520
+37683500000000,San Dieguito Union High,3,4,26,8,2
+37683500000000,San Dieguito Union High,4,13,114,26,18
+37683500000000,San Dieguito Union High,5,280,1597,482,202
+37683500000000,San Dieguito Union High,6,25,124,48,18
+37683500000000,San Dieguito Union High,7,1468,8513,2824,2128
+37683500000000,San Dieguito Union High,9,21,95,42,34
+37683500000000,San Pasqual Union Elementary,1,0,4,6,4
+37683500000000,San Pasqual Union Elementary,2,0,10,588,520
+37683500000000,San Pasqual Union Elementary,4,0,7,26,18
+37683500000000,San Pasqual Union Elementary,5,0,133,482,202
+37683500000000,San Pasqual Union Elementary,6,0,17,48,18
+37683500000000,San Pasqual Union Elementary,7,0,365,2824,2128
+37683500000000,San Pasqual Union Elementary,9,0,20,42,34
+37684000000000,South Bay Union,1,0,26,2,0
+37684000000000,South Bay Union,2,0,58,6,0
+37684000000000,South Bay Union,3,0,41,4,0
+37684000000000,South Bay Union,4,0,337,8,0
+37684000000000,South Bay Union,5,0,6275,56,0
+37684000000000,South Bay Union,6,0,246,24,0
+37684000000000,South Bay Union,7,0,644,232,0
+37684000000000,Spencer Valley Elementary,1,2,57,2,0
+37684000000000,Spencer Valley Elementary,2,3,155,6,0
+37684000000000,Spencer Valley Elementary,3,2,30,4,0
+37684000000000,Spencer Valley Elementary,4,6,73,8,0
+37684000000000,Spencer Valley Elementary,5,36,610,56,0
+37684000000000,Spencer Valley Elementary,6,22,264,24,0
+37684000000000,Spencer Valley Elementary,7,149,1900,232,0
+37684100000000,Sweetwater Union High,0,1,10,2,0
+37684100000000,Sweetwater Union High,1,29,176,32,12
+37684100000000,Sweetwater Union High,2,148,696,244,182
+37684100000000,Sweetwater Union High,3,54,214,72,34
+37684100000000,Sweetwater Union High,4,626,3460,1118,742
+37684100000000,Sweetwater Union High,5,5953,30568,9214,3090
+37684100000000,Sweetwater Union High,6,298,1323,444,170
+37684100000000,Sweetwater Union High,7,669,3198,1106,510
+37684100000000,Sweetwater Union High,9,184,1271,344,178
+37684400000000,Vallecitos Elementary,5,7,251,8,0
+37684400000000,Vallecitos Elementary,7,8,95,10,0
+37684500000000,Vista Unified,0,8,13,2,0
+37684500000000,Vista Unified,1,20,114,12,0
+37684500000000,Vista Unified,2,111,625,128,60
+37684500000000,Vista Unified,3,48,272,56,16
+37684500000000,Vista Unified,4,43,327,62,36
+37684500000000,Vista Unified,5,1949,15473,2064,406
+37684500000000,Vista Unified,6,425,1032,314,42
+37684500000000,Vista Unified,7,814,6961,1282,596
+37684500000000,Vista Unified,9,147,825,98,24
+37735500000000,Carlsbad Unified,0,2,81,4,2
+37735500000000,Carlsbad Unified,1,8,67,12,8
+37735500000000,Carlsbad Unified,2,47,761,86,72
+37735500000000,Carlsbad Unified,3,9,50,14,6
+37735500000000,Carlsbad Unified,4,10,151,18,16
+37735500000000,Carlsbad Unified,5,208,2844,348,148
+37735500000000,Carlsbad Unified,6,22,213,40,22
+37735500000000,Carlsbad Unified,7,446,6362,834,604
+37735500000000,Carlsbad Unified,9,13,427,24,20
+37735700000000,Oceanside Unified,0,3,125,4,0
+37735700000000,Oceanside Unified,1,10,120,14,2
+37735700000000,Oceanside Unified,2,36,455,66,40
+37735700000000,Oceanside Unified,3,58,486,98,26
+37735700000000,Oceanside Unified,4,74,656,130,56
+37735700000000,Oceanside Unified,5,840,11461,1400,298
+37735700000000,Oceanside Unified,6,117,1301,206,56
+37735700000000,Oceanside Unified,7,393,6132,710,274
+37735700000000,Oceanside Unified,9,7,479,12,4
+37737900000000,San Marcos Unified,1,9,80,16,6
+37737900000000,San Marcos Unified,2,58,950,116,86
+37737900000000,San Marcos Unified,3,5,118,8,6
+37737900000000,San Marcos Unified,4,50,524,96,68
+37737900000000,San Marcos Unified,5,653,8994,1146,480
+37737900000000,San Marcos Unified,6,50,517,92,48
+37737900000000,San Marcos Unified,7,482,8075,894,570
+37737900000000,San Marcos Unified,9,19,330,32,8
+37754200000000,Warner Unified,1,18,132,14,14
+37754200000000,Warner Unified,5,4,73,6,6
+37754200000000,Warner Unified,7,4,59,10,10
+37754200000000,Warner Unified,9,0,12,2,2
+37756100000000,Valley Center-Pauma Unified,1,28,427,46,2
+37756100000000,Valley Center-Pauma Unified,2,4,38,8,8
+37756100000000,Valley Center-Pauma Unified,3,1,12,2,0
+37756100000000,Valley Center-Pauma Unified,4,3,39,6,0
+37756100000000,Valley Center-Pauma Unified,5,148,1904,266,98
+37756100000000,Valley Center-Pauma Unified,6,2,23,6,0
+37756100000000,Valley Center-Pauma Unified,7,174,1624,348,188
+37756100000000,Valley Center-Pauma Unified,9,1,87,2,0
+37764700000000,SBC - High Tech High,2,8,104,16,14
+37764700000000,SBC - High Tech High,3,2,16,4,4
+37764700000000,SBC - High Tech High,4,25,163,46,46
+37764700000000,SBC - High Tech High,5,129,1226,256,250
+37764700000000,SBC - High Tech High,6,16,127,28,28
+37764700000000,SBC - High Tech High,7,71,616,140,136
+38103900000000,San Francisco County Office of Education,0,4,23,2,0
+38103900000000,San Francisco County Office of Education,2,26,55,12,0
+38103900000000,San Francisco County Office of Education,4,13,31,2,0
+38103900000000,San Francisco County Office of Education,5,84,227,38,2
+38103900000000,San Francisco County Office of Education,6,52,198,26,0
+38103900000000,San Francisco County Office of Education,7,21,76,4,0
+38684800000000,San Francisco Unified,0,201,5654,384,264
+38684800000000,San Francisco Unified,1,22,255,36,16
+38684800000000,San Francisco Unified,2,2058,19739,3848,2620
+38684800000000,San Francisco Unified,3,43,908,88,16
+38684800000000,San Francisco Unified,4,270,2619,500,258
+38684800000000,San Francisco Unified,5,873,14752,1558,566
+38684800000000,San Francisco Unified,6,404,5405,648,180
+38684800000000,San Francisco Unified,7,371,6166,704,438
+38684800000000,San Francisco Unified,9,42,1472,86,54
+38767000000000,SBE - San Francisco Flex Academy,2,4,14,4,0
+38767000000000,SBE - San Francisco Flex Academy,4,0,4,2,0
+38767000000000,SBE - San Francisco Flex Academy,5,11,41,16,0
+38767000000000,SBE - San Francisco Flex Academy,6,10,34,14,2
+38767000000000,SBE - San Francisco Flex Academy,7,18,40,32,0
+39104000000000,San Joaquin County Office of Education,1,9,46,12,0
+39104000000000,San Joaquin County Office of Education,2,55,152,36,0
+39104000000000,San Joaquin County Office of Education,3,9,30,6,0
+39104000000000,San Joaquin County Office of Education,4,17,78,24,2
+39104000000000,San Joaquin County Office of Education,5,497,1792,374,26
+39104000000000,San Joaquin County Office of Education,6,136,482,102,6
+39104000000000,San Joaquin County Office of Education,7,149,761,152,10
+39104000000000,San Joaquin County Office of Education,9,30,100,8,0
+39685000000000,Escalon Unified,2,4,49,8,2
+39685000000000,Escalon Unified,4,1,14,2,2
+39685000000000,Escalon Unified,5,104,1305,198,44
+39685000000000,Escalon Unified,6,5,15,8,0
+39685000000000,Escalon Unified,7,116,1350,230,70
+39685000000000,Escalon Unified,9,2,50,4,2
+39685700000000,Lincoln Unified,1,4,69,4,4
+39685700000000,Lincoln Unified,2,70,911,116,66
+39685700000000,Lincoln Unified,3,4,114,8,0
+39685700000000,Lincoln Unified,4,44,414,78,30
+39685700000000,Lincoln Unified,5,257,3745,420,98
+39685700000000,Lincoln Unified,6,81,1086,112,22
+39685700000000,Lincoln Unified,7,223,2619,382,196
+39685700000000,Lincoln Unified,9,11,174,22,2
+39685800000000,Linden Unified,1,2,26,4,2
+39685800000000,Linden Unified,2,5,50,8,6
+39685800000000,Linden Unified,4,3,24,6,2
+39685800000000,Linden Unified,5,88,1225,166,42
+39685800000000,Linden Unified,6,4,19,2,0
+39685800000000,Linden Unified,7,103,945,180,62
+39685800000000,Linden Unified,9,1,27,2,2
+39685900000000,Lodi Unified,0,25,415,42,8
+39685900000000,Lodi Unified,1,13,147,58,10
+39685900000000,Lodi Unified,2,421,5060,984,458
+39685900000000,Lodi Unified,3,21,212,78,30
+39685900000000,Lodi Unified,4,123,1369,448,206
+39685900000000,Lodi Unified,5,899,12649,2758,642
+39685900000000,Lodi Unified,6,160,2216,498,112
+39685900000000,Lodi Unified,7,740,7713,2172,712
+39685900000000,Lodi Unified,9,6,441,38,10
+39685900000000,Manteca Unified,0,0,7,42,8
+39685900000000,Manteca Unified,1,22,171,58,10
+39685900000000,Manteca Unified,2,137,1768,984,458
+39685900000000,Manteca Unified,3,24,224,78,30
+39685900000000,Manteca Unified,4,130,1386,448,206
+39685900000000,Manteca Unified,5,762,11788,2758,642
+39685900000000,Manteca Unified,6,151,1870,498,112
+39685900000000,Manteca Unified,7,497,5577,2172,712
+39685900000000,Manteca Unified,9,15,444,38,10
+39686300000000,New Jerusalem Elementary,0,14,127,4,4
+39686300000000,New Jerusalem Elementary,1,6,42,10,2
+39686300000000,New Jerusalem Elementary,2,12,151,22,4
+39686300000000,New Jerusalem Elementary,3,6,41,10,0
+39686300000000,New Jerusalem Elementary,4,12,84,20,4
+39686300000000,New Jerusalem Elementary,5,114,792,168,28
+39686300000000,New Jerusalem Elementary,6,37,426,66,4
+39686300000000,New Jerusalem Elementary,7,133,1437,196,20
+39686500000000,Ripon Unified,1,4,19,8,0
+39686500000000,Ripon Unified,2,7,84,12,8
+39686500000000,Ripon Unified,3,4,19,8,2
+39686500000000,Ripon Unified,4,2,38,2,2
+39686500000000,Ripon Unified,5,62,1063,112,50
+39686500000000,Ripon Unified,6,3,51,4,0
+39686500000000,Ripon Unified,7,147,1890,284,106
+39686500000000,Ripon Unified,9,2,74,6,0
+39686800000000,Stockton Unified,1,103,1103,172,10
+39686800000000,Stockton Unified,2,304,3858,554,98
+39686800000000,Stockton Unified,3,8,223,16,2
+39686800000000,Stockton Unified,4,160,1788,308,50
+39686800000000,Stockton Unified,5,1419,23719,2398,170
+39686800000000,Stockton Unified,6,294,4396,492,50
+39686800000000,Stockton Unified,7,201,2877,310,20
+39686800000000,Stockton Unified,9,8,451,10,2
+39755000000000,Tracy Joint Unified,0,6,9,4,0
+39755000000000,Tracy Joint Unified,1,8,79,12,2
+39755000000000,Tracy Joint Unified,2,186,1792,350,162
+39755000000000,Tracy Joint Unified,3,32,181,50,16
+39755000000000,Tracy Joint Unified,4,131,912,252,102
+39755000000000,Tracy Joint Unified,5,594,8178,980,244
+39755000000000,Tracy Joint Unified,6,135,1251,228,54
+39755000000000,Tracy Joint Unified,7,558,4378,998,412
+39755000000000,Tracy Joint Unified,9,11,625,22,14
+40104100000000,San Luis Obispo County Office of Education,1,4,14,6,0
+40104100000000,San Luis Obispo County Office of Education,3,2,3,2,0
+40104100000000,San Luis Obispo County Office of Education,4,1,2,1,0
+40104100000000,San Luis Obispo County Office of Education,5,133,325,210,0
+40104100000000,San Luis Obispo County Office of Education,6,6,19,6,0
+40104100000000,San Luis Obispo County Office of Education,7,98,267,162,0
+40104100000000,San Luis Obispo County Office of Education,9,8,27,18,0
+40687000000000,Atascadero Unified,1,10,62,20,14
+40687000000000,Atascadero Unified,2,7,54,14,12
+40687000000000,Atascadero Unified,4,6,47,12,8
+40687000000000,Atascadero Unified,5,98,1227,196,50
+40687000000000,Atascadero Unified,6,7,61,14,0
+40687000000000,Atascadero Unified,7,269,3191,542,222
+40687000000000,Atascadero Unified,9,5,131,10,0
+40687600000000,Lucia Mar Unified,1,5,48,6,2
+40687600000000,Lucia Mar Unified,2,12,174,22,10
+40687600000000,Lucia Mar Unified,3,2,19,4,0
+40687600000000,Lucia Mar Unified,4,11,116,20,12
+40687600000000,Lucia Mar Unified,5,312,4383,554,154
+40687600000000,Lucia Mar Unified,6,14,96,24,8
+40687600000000,Lucia Mar Unified,7,503,5482,940,392
+40687600000000,Lucia Mar Unified,9,13,248,26,18
+40688100000000,San Luis Coastal Unified,1,4,34,4,2
+40688100000000,San Luis Coastal Unified,2,23,276,42,18
+40688100000000,San Luis Coastal Unified,4,11,154,22,14
+40688100000000,San Luis Coastal Unified,5,105,1966,186,64
+40688100000000,San Luis Coastal Unified,6,8,89,12,4
+40688100000000,San Luis Coastal Unified,7,431,4639,818,428
+40688100000000,San Luis Coastal Unified,9,24,304,46,30
+40688300000000,San Miguel Joint Union,5,0,324,30,8
+40688300000000,San Miguel Joint Union,7,0,373,14,0
+40688300000000,Shandon Joint Unified,5,15,210,30,8
+40688300000000,Shandon Joint Unified,7,7,80,14,0
+40688400000000,Templeton Unified,0,1,27,4,2
+40688400000000,Templeton Unified,1,2,17,4,4
+40688400000000,Templeton Unified,2,3,28,2,2
+40688400000000,Templeton Unified,5,25,482,46,12
+40688400000000,Templeton Unified,6,1,14,2,0
+40688400000000,Templeton Unified,7,170,1698,302,136
+40688400000000,Templeton Unified,9,2,89,4,2
+40754600000000,Paso Robles Joint Unified,1,4,38,12,2
+40754600000000,Paso Robles Joint Unified,2,11,76,16,8
+40754600000000,Paso Robles Joint Unified,3,4,22,6,2
+40754600000000,Paso Robles Joint Unified,4,6,32,10,2
+40754600000000,Paso Robles Joint Unified,5,230,3168,394,76
+40754600000000,Paso Robles Joint Unified,6,12,114,20,4
+40754600000000,Paso Robles Joint Unified,7,291,2988,568,210
+40754600000000,Paso Robles Joint Unified,9,8,100,10,4
+40754700000000,Coast Unified,3,1,5,2,0
+40754700000000,Coast Unified,5,29,411,54,26
+40754700000000,Coast Unified,7,29,311,58,28
+41104100000000,San Mateo County Office of Education,0,3,5,1,0
+41104100000000,San Mateo County Office of Education,1,1,1,1,0
+41104100000000,San Mateo County Office of Education,2,2,35,4,0
+41104100000000,San Mateo County Office of Education,3,3,15,2,0
+41104100000000,San Mateo County Office of Education,5,42,220,36,4
+41104100000000,San Mateo County Office of Education,6,7,29,6,2
+41104100000000,San Mateo County Office of Education,7,15,82,22,0
+41104100000000,San Mateo County Office of Education,9,1,3,1,0
+41688900000000,Cabrillo Unified,2,11,58,22,14
+41688900000000,Cabrillo Unified,4,1,50,2,0
+41688900000000,Cabrillo Unified,5,99,1657,156,48
+41688900000000,Cabrillo Unified,7,118,1433,220,156
+41688900000000,Cabrillo Unified,9,4,74,8,8
+41689200000000,Jefferson Elementary,0,4,29,2,0
+41689200000000,Jefferson Elementary,1,0,14,4,0
+41689200000000,Jefferson Elementary,2,8,1053,320,168
+41689200000000,Jefferson Elementary,3,2,111,26,6
+41689200000000,Jefferson Elementary,4,3,2234,706,278
+41689200000000,Jefferson Elementary,5,13,2207,606,134
+41689200000000,Jefferson Elementary,6,5,227,74,4
+41689200000000,Jefferson Elementary,7,43,841,420,80
+41689200000000,Jefferson Elementary,9,0,311,164,50
+41689200000000,Jefferson Union High,0,0,4,1,0
+41689200000000,Jefferson Union High,1,2,8,4,0
+41689200000000,Jefferson Union High,2,154,652,320,168
+41689200000000,Jefferson Union High,3,18,81,26,6
+41689200000000,Jefferson Union High,4,374,1362,706,278
+41689200000000,Jefferson Union High,5,355,1397,606,134
+41689200000000,Jefferson Union High,6,39,133,74,4
+41689200000000,Jefferson Union High,7,191,719,420,80
+41689200000000,Jefferson Union High,9,89,514,164,50
+41689400000000,La Honda-Pescadero Unified,5,11,216,22,6
+41689400000000,La Honda-Pescadero Unified,6,1,1,1,0
+41689400000000,La Honda-Pescadero Unified,7,12,117,22,12
+41689400000000,La Honda-Pescadero Unified,9,1,8,2,2
+41690500000000,San Mateo Union High,0,1,3,2,0
+41690500000000,San Mateo Union High,1,4,8,6,2
+41690500000000,San Mateo Union High,2,493,1837,936,780
+41690500000000,San Mateo Union High,3,59,212,106,44
+41690500000000,San Mateo Union High,4,117,435,206,142
+41690500000000,San Mateo Union High,5,630,2405,1068,414
+41690500000000,San Mateo Union High,6,29,105,48,18
+41690500000000,San Mateo Union High,7,587,2455,1078,778
+41690500000000,San Mateo Union High,9,190,784,346,240
+41690600000000,Sequoia Union High,1,7,44,12,8
+41690600000000,Sequoia Union High,2,161,561,310,244
+41690600000000,Sequoia Union High,3,92,287,148,56
+41690600000000,Sequoia Union High,4,42,131,82,54
+41690600000000,Sequoia Union High,5,1087,4311,1622,574
+41690600000000,Sequoia Union High,6,107,316,160,42
+41690600000000,Sequoia Union High,7,882,3355,1664,1230
+41690600000000,Sequoia Union High,9,16,226,36,16
+41690700000000,South San Francisco Unified,2,77,912,144,88
+41690700000000,South San Francisco Unified,3,16,183,28,8
+41690700000000,South San Francisco Unified,4,135,1336,248,114
+41690700000000,South San Francisco Unified,5,281,4360,492,130
+41690700000000,South San Francisco Unified,6,19,162,26,8
+41690700000000,South San Francisco Unified,7,68,682,118,40
+41690700000000,South San Francisco Unified,9,127,1613,238,126
+41765900000000,SBE - Everest Public High,2,5,18,10,10
+41765900000000,SBE - Everest Public High,3,2,9,4,4
+41765900000000,SBE - Everest Public High,4,1,3,2,2
+41765900000000,SBE - Everest Public High,5,29,193,50,50
+41765900000000,SBE - Everest Public High,6,3,14,4,4
+41765900000000,SBE - Everest Public High,7,30,132,54,54
+42104200000000,Santa Barbara County Office of Education,5,129,427,138,0
+42104200000000,Santa Barbara County Office of Education,6,5,12,8,0
+42104200000000,Santa Barbara County Office of Education,7,21,112,14,0
+42104200000000,Santa Barbara County Office of Education,9,3,8,4,0
+42691100000000,Blochman Union Elementary,5,16,204,20,0
+42691100000000,Blochman Union Elementary,6,3,21,4,0
+42691100000000,Blochman Union Elementary,7,28,523,48,0
+42691500000000,Carpinteria Unified,1,1,12,2,0
+42691500000000,Carpinteria Unified,2,5,43,8,6
+42691500000000,Carpinteria Unified,3,1,3,2,2
+42691500000000,Carpinteria Unified,4,1,13,2,0
+42691500000000,Carpinteria Unified,5,148,1669,262,92
+42691500000000,Carpinteria Unified,6,4,19,8,6
+42691500000000,Carpinteria Unified,7,51,524,86,52
+42691500000000,Carpinteria Unified,9,1,25,2,2
+42692300000000,Lompoc Unified,1,3,74,6,2
+42692300000000,Lompoc Unified,2,16,190,28,10
+42692300000000,Lompoc Unified,3,3,33,6,2
+42692300000000,Lompoc Unified,4,7,109,14,10
+42692300000000,Lompoc Unified,5,348,5897,638,144
+42692300000000,Lompoc Unified,6,15,356,34,6
+42692300000000,Lompoc Unified,7,207,2690,400,146
+42692300000000,Lompoc Unified,9,30,458,52,24
+42692500000000,Los Olivos Elementary,1,3,5,6,0
+42692500000000,Los Olivos Elementary,2,1,2,2,0
+42692500000000,Los Olivos Elementary,5,33,142,58,0
+42692500000000,Los Olivos Elementary,7,48,292,122,0
+42692500000000,Los Olivos Elementary,9,3,19,8,0
+42692500000000,Montecito Union Elementary,1,0,4,3,0
+42692500000000,Montecito Union Elementary,2,0,9,2,0
+42692500000000,Montecito Union Elementary,5,0,38,58,0
+42692500000000,Montecito Union Elementary,7,0,392,122,0
+42692500000000,Montecito Union Elementary,9,0,23,8,0
+42692600000000,Orcutt Union Elementary,1,1,40,2,0
+42692600000000,Orcutt Union Elementary,2,3,113,6,0
+42692600000000,Orcutt Union Elementary,3,1,22,2,0
+42692600000000,Orcutt Union Elementary,4,5,75,10,0
+42692600000000,Orcutt Union Elementary,5,38,2151,76,12
+42692600000000,Orcutt Union Elementary,6,1,72,2,2
+42692600000000,Orcutt Union Elementary,7,65,2408,130,24
+42692600000000,Orcutt Union Elementary,9,3,206,6,4
+42693100000000,Santa Maria Joint Union High,0,10,64,20,4
+42693100000000,Santa Maria Joint Union High,1,6,17,14,0
+42693100000000,Santa Maria Joint Union High,2,25,78,46,26
+42693100000000,Santa Maria Joint Union High,4,39,162,70,28
+42693100000000,Santa Maria Joint Union High,5,1473,6128,2456,552
+42693100000000,Santa Maria Joint Union High,6,20,68,36,2
+42693100000000,Santa Maria Joint Union High,7,300,997,526,176
+42693100000000,Santa Maria Joint Union High,9,40,119,70,38
+42693300000000,Santa Ynez Valley Union High,1,1,14,2,0
+42693300000000,Santa Ynez Valley Union High,2,2,7,4,2
+42693300000000,Santa Ynez Valley Union High,5,93,404,162,36
+42693300000000,Santa Ynez Valley Union High,7,127,548,248,150
+42693300000000,Santa Ynez Valley Union High,9,8,42,14,8
+42750100000000,Cuyama Joint Unified,1,1,3,2,0
+42750100000000,Cuyama Joint Unified,5,5,180,10,2
+42750100000000,Cuyama Joint Unified,7,5,56,6,0
+42767900000000,Santa Barbara Unified,0,2,51,6,4
+42767900000000,Santa Barbara Unified,1,18,85,26,16
+42767900000000,Santa Barbara Unified,2,63,422,124,94
+42767900000000,Santa Barbara Unified,4,8,69,16,8
+42767900000000,Santa Barbara Unified,5,824,9079,1378,410
+42767900000000,Santa Barbara Unified,6,35,178,64,26
+42767900000000,Santa Barbara Unified,7,748,5207,1404,992
+42767900000000,Santa Barbara Unified,9,24,382,46,32
+43104400000000,Santa Clara County Office of Education,1,3,29,4,0
+43104400000000,Santa Clara County Office of Education,2,61,1347,32,20
+43104400000000,Santa Clara County Office of Education,4,10,164,8,4
+43104400000000,Santa Clara County Office of Education,5,282,5267,216,92
+43104400000000,Santa Clara County Office of Education,6,23,289,26,2
+43104400000000,Santa Clara County Office of Education,7,76,1259,62,26
+43104400000000,Santa Clara County Office of Education,9,6,231,2,0
+43694000000000,Campbell Union High,1,1,19,2,0
+43694000000000,Campbell Union High,2,217,832,430,288
+43694000000000,Campbell Union High,3,8,33,10,6
+43694000000000,Campbell Union High,4,35,156,62,34
+43694000000000,Campbell Union High,5,639,2600,972,240
+43694000000000,Campbell Union High,6,53,233,98,26
+43694000000000,Campbell Union High,7,782,3026,1468,744
+43694000000000,Campbell Union High,9,161,516,314,134
+43694300000000,East Side Union High,0,6,90,16,4
+43694300000000,East Side Union High,1,27,96,34,10
+43694300000000,East Side Union High,2,1986,7531,3676,2262
+43694300000000,East Side Union High,3,60,184,104,26
+43694300000000,East Side Union High,4,570,2085,1032,452
+43694300000000,East Side Union High,5,3120,13245,4570,868
+43694300000000,East Side Union High,6,217,797,346,94
+43694300000000,East Side Union High,7,520,1915,916,346
+43694300000000,East Side Union High,9,26,354,46,12
+43694700000000,Fremont Union High,1,9,22,16,6
+43694700000000,Fremont Union High,2,1415,5753,2776,2450
+43694700000000,Fremont Union High,3,10,38,18,4
+43694700000000,Fremont Union High,4,94,339,166,112
+43694700000000,Fremont Union High,5,372,1664,544,170
+43694700000000,Fremont Union High,6,33,139,40,10
+43694700000000,Fremont Union High,7,669,2384,1290,898
+43694700000000,Fremont Union High,9,32,324,68,36
+43694800000000,Gilroy Unified,0,2,98,2,0
+43694800000000,Gilroy Unified,1,5,55,8,0
+43694800000000,Gilroy Unified,2,32,395,62,30
+43694800000000,Gilroy Unified,4,18,194,38,8
+43694800000000,Gilroy Unified,5,596,8236,948,220
+43694800000000,Gilroy Unified,6,12,145,20,6
+43694800000000,Gilroy Unified,7,194,2229,380,180
+43694800000000,Gilroy Unified,9,11,203,20,4
+43695300000000,Los Gatos Union Elementary,0,0,151,12,12
+43695300000000,Los Gatos Union Elementary,1,0,26,2,0
+43695300000000,Los Gatos Union Elementary,2,0,360,448,414
+43695300000000,Los Gatos Union Elementary,4,0,3,18,12
+43695300000000,Los Gatos Union Elementary,5,0,250,120,88
+43695300000000,Los Gatos Union Elementary,6,0,20,6,6
+43695300000000,Los Gatos Union Elementary,7,0,2184,876,640
+43695300000000,Los Gatos Union Elementary,9,0,184,92,68
+43695300000000,Los Gatos-Saratoga Joint Union High,0,6,20,12,12
+43695300000000,Los Gatos-Saratoga Joint Union High,1,1,4,2,0
+43695300000000,Los Gatos-Saratoga Joint Union High,2,223,942,448,414
+43695300000000,Los Gatos-Saratoga Joint Union High,4,9,19,18,12
+43695300000000,Los Gatos-Saratoga Joint Union High,5,64,229,120,88
+43695300000000,Los Gatos-Saratoga Joint Union High,6,2,8,6,6
+43695300000000,Los Gatos-Saratoga Joint Union High,7,449,1768,876,640
+43695300000000,Los Gatos-Saratoga Joint Union High,9,46,237,92,68
+43695800000000,Moreland,1,0,26,4,0
+43695800000000,Moreland,2,0,1055,108,86
+43695800000000,Moreland,3,0,21,10,6
+43695800000000,Moreland,4,0,104,24,16
+43695800000000,Moreland,5,0,1545,474,168
+43695800000000,Moreland,6,0,123,28,8
+43695800000000,Moreland,7,0,1257,574,310
+43695800000000,Morgan Hill Unified,1,3,54,4,0
+43695800000000,Morgan Hill Unified,2,59,769,108,86
+43695800000000,Morgan Hill Unified,3,5,47,10,6
+43695800000000,Morgan Hill Unified,4,13,194,24,16
+43695800000000,Morgan Hill Unified,5,316,4451,474,168
+43695800000000,Morgan Hill Unified,6,21,212,28,8
+43695800000000,Morgan Hill Unified,7,316,3354,574,310
+43696100000000,Mountain View-Los Altos Union High,1,2,9,4,2
+43696100000000,Mountain View-Los Altos Union High,2,177,772,348,320
+43696100000000,Mountain View-Los Altos Union High,3,8,27,14,6
+43696100000000,Mountain View-Los Altos Union High,4,29,112,56,36
+43696100000000,Mountain View-Los Altos Union High,5,215,888,374,134
+43696100000000,Mountain View-Los Altos Union High,6,20,65,26,8
+43696100000000,Mountain View-Los Altos Union High,7,433,1801,854,688
+43696100000000,Mountain View-Los Altos Union High,9,16,63,32,16
+43696400000000,Palo Alto Unified,2,288,4047,556,520
+43696400000000,Palo Alto Unified,3,2,91,4,2
+43696400000000,Palo Alto Unified,4,9,88,12,8
+43696400000000,Palo Alto Unified,5,74,1330,134,74
+43696400000000,Palo Alto Unified,6,23,304,38,14
+43696400000000,Palo Alto Unified,7,451,5612,898,740
+43696400000000,Palo Alto Unified,9,60,819,114,84
+43696700000000,San Jose Unified,1,21,163,36,16
+43696700000000,San Jose Unified,2,338,4169,980,714
+43696700000000,San Jose Unified,3,15,142,42,6
+43696700000000,San Jose Unified,4,57,590,266,138
+43696700000000,San Jose Unified,5,1368,17390,2536,702
+43696700000000,San Jose Unified,6,81,973,228,60
+43696700000000,San Jose Unified,7,696,8579,1736,928
+43696700000000,San Jose Unified,9,69,908,172,64
+43696700000000,Santa Clara Unified,1,4,81,36,16
+43696700000000,Santa Clara Unified,2,200,3628,980,714
+43696700000000,Santa Clara Unified,3,11,159,42,6
+43696700000000,Santa Clara Unified,4,94,1163,266,138
+43696700000000,Santa Clara Unified,5,403,5507,2536,702
+43696700000000,Santa Clara Unified,6,56,581,228,60
+43696700000000,Santa Clara Unified,7,287,3374,1736,928
+43696700000000,Santa Clara Unified,9,31,592,172,64
+43733900000000,Milpitas Unified,1,1,30,2,0
+43733900000000,Milpitas Unified,2,325,4340,618,436
+43733900000000,Milpitas Unified,3,13,92,24,4
+43733900000000,Milpitas Unified,4,181,2017,354,140
+43733900000000,Milpitas Unified,5,172,2171,290,54
+43733900000000,Milpitas Unified,6,33,280,62,20
+43733900000000,Milpitas Unified,7,82,736,152,64
+43733900000000,Milpitas Unified,9,23,320,42,22
+44104500000000,Santa Cruz County Office of Education,0,5,36,8,0
+44104500000000,Santa Cruz County Office of Education,1,2,8,4,0
+44104500000000,Santa Cruz County Office of Education,2,10,46,18,16
+44104500000000,Santa Cruz County Office of Education,4,2,8,6,0
+44104500000000,Santa Cruz County Office of Education,5,225,545,332,18
+44104500000000,Santa Cruz County Office of Education,6,6,20,10,2
+44104500000000,Santa Cruz County Office of Education,7,168,644,338,124
+44104500000000,Santa Cruz County Office of Education,9,17,86,38,2
+44697700000000,Live Oak Elementary,0,2,161,4,4
+44697700000000,Live Oak Elementary,1,1,13,2,2
+44697700000000,Live Oak Elementary,2,1,38,2,2
+44697700000000,Live Oak Elementary,5,5,1067,12,12
+44697700000000,Live Oak Elementary,7,25,686,48,48
+44697700000000,Live Oak Elementary,9,4,61,10,10
+44697700000000,Mountain Elementary,1,0,1,1,1
+44697700000000,Mountain Elementary,2,0,1,1,1
+44697700000000,Mountain Elementary,5,0,7,12,12
+44697700000000,Mountain Elementary,7,0,112,48,48
+44697700000000,Mountain Elementary,9,0,11,10,10
+44698000000000,Pajaro Valley Unified,1,4,39,8,6
+44698000000000,Pajaro Valley Unified,2,8,183,16,14
+44698000000000,Pajaro Valley Unified,4,19,188,36,30
+44698000000000,Pajaro Valley Unified,5,967,16093,1596,816
+44698000000000,Pajaro Valley Unified,6,4,99,8,4
+44698000000000,Pajaro Valley Unified,7,235,3347,448,348
+44698000000000,Pajaro Valley Unified,9,1,10,2,2
+44698100000000,San Lorenzo Valley Unified,0,5,141,16,2
+44698100000000,San Lorenzo Valley Unified,1,1,19,2,0
+44698100000000,San Lorenzo Valley Unified,2,2,162,2,0
+44698100000000,San Lorenzo Valley Unified,4,2,28,4,0
+44698100000000,San Lorenzo Valley Unified,5,36,584,66,16
+44698100000000,San Lorenzo Valley Unified,6,2,49,4,2
+44698100000000,San Lorenzo Valley Unified,7,210,3197,410,214
+44698100000000,San Lorenzo Valley Unified,9,6,255,6,2
+44698200000000,Santa Cruz City Elementary,0,0,3,4,0
+44698200000000,Santa Cruz City Elementary,1,0,16,12,2
+44698200000000,Santa Cruz City Elementary,2,0,91,44,24
+44698200000000,Santa Cruz City Elementary,3,0,6,4,0
+44698200000000,Santa Cruz City Elementary,4,0,19,10,4
+44698200000000,Santa Cruz City Elementary,5,0,895,504,138
+44698200000000,Santa Cruz City Elementary,6,0,39,34,12
+44698200000000,Santa Cruz City Elementary,7,0,1216,1024,546
+44698200000000,Santa Cruz City Elementary,9,0,75,52,22
+44698200000000,Santa Cruz City High,0,0,4,4,0
+44698200000000,Santa Cruz City High,1,7,32,12,2
+44698200000000,Santa Cruz City High,2,22,112,44,24
+44698200000000,Santa Cruz City High,3,4,15,4,0
+44698200000000,Santa Cruz City High,4,6,31,10,4
+44698200000000,Santa Cruz City High,5,292,1693,504,138
+44698200000000,Santa Cruz City High,6,22,90,34,12
+44698200000000,Santa Cruz City High,7,524,2554,1024,546
+44698200000000,Santa Cruz City High,9,28,185,52,22
+44754300000000,Scotts Valley Unified,2,3,47,6,6
+44754300000000,Scotts Valley Unified,3,0,1,1,0
+44754300000000,Scotts Valley Unified,5,29,346,50,26
+44754300000000,Scotts Valley Unified,6,2,6,4,0
+44754300000000,Scotts Valley Unified,7,144,1785,290,188
+44754300000000,Scotts Valley Unified,9,16,224,32,18
+45104500000000,Shasta County Office of Education,1,3,12,2,0
+45104500000000,Shasta County Office of Education,2,1,4,2,0
+45104500000000,Shasta County Office of Education,5,14,55,12,0
+45104500000000,Shasta County Office of Education,6,1,19,2,0
+45104500000000,Shasta County Office of Education,7,39,312,44,0
+45104500000000,Shasta County Office of Education,9,5,27,2,0
+45698600000000,Anderson Union High,1,28,126,54,6
+45698600000000,Anderson Union High,2,9,34,14,2
+45698600000000,Anderson Union High,3,1,6,2,0
+45698600000000,Anderson Union High,5,66,285,114,2
+45698600000000,Anderson Union High,6,3,18,2,0
+45698600000000,Anderson Union High,7,367,1492,660,22
+45698600000000,Anderson Union High,9,17,68,28,0
+45699900000000,Fall River Joint Unified,0,1,9,2,2
+45699900000000,Fall River Joint Unified,1,3,124,10,0
+45699900000000,Fall River Joint Unified,3,1,5,2,0
+45699900000000,Fall River Joint Unified,5,16,263,32,10
+45699900000000,Fall River Joint Unified,6,1,5,2,2
+45699900000000,Fall River Joint Unified,7,48,724,92,36
+45699900000000,Fall River Joint Unified,9,1,26,2,2
+45701100000000,Redding Elementary,5,1,410,2,0
+45701100000000,Redding Elementary,7,13,2489,32,14
+45701400000000,Shasta Union High,0,5,16,4,0
+45701400000000,Shasta Union High,1,60,222,106,16
+45701400000000,Shasta Union High,2,51,199,88,34
+45701400000000,Shasta Union High,3,6,22,10,2
+45701400000000,Shasta Union High,4,10,40,20,12
+45701400000000,Shasta Union High,5,136,682,232,56
+45701400000000,Shasta Union High,6,20,121,30,2
+45701400000000,Shasta Union High,7,949,4147,1682,678
+45701400000000,Shasta Union High,9,49,279,86,28
+45752700000000,Gateway Unified,1,28,263,46,4
+45752700000000,Gateway Unified,2,9,114,14,4
+45752700000000,Gateway Unified,3,3,17,4,0
+45752700000000,Gateway Unified,5,27,496,58,10
+45752700000000,Gateway Unified,6,4,74,4,2
+45752700000000,Gateway Unified,7,238,2904,424,50
+45752700000000,Gateway Unified,9,7,139,12,4
+46701800000000,Sierra-Plumas Joint Unified,1,1,3,2,0
+46701800000000,Sierra-Plumas Joint Unified,5,4,52,8,6
+46701800000000,Sierra-Plumas Joint Unified,7,32,305,62,30
+47104700000000,Siskiyou County Office of Education,1,4,18,4,0
+47104700000000,Siskiyou County Office of Education,2,1,5,2,0
+47104700000000,Siskiyou County Office of Education,5,7,59,10,0
+47104700000000,Siskiyou County Office of Education,7,32,305,48,0
+47104700000000,Siskiyou County Office of Education,9,0,40,2,0
+47702500000000,Dunsmuir Joint Union High,3,1,1,1,1
+47702500000000,Dunsmuir Joint Union High,5,2,13,4,4
+47702500000000,Dunsmuir Joint Union High,7,16,67,30,30
+47702500000000,Dunsmuir Joint Union High,9,3,5,6,6
+47704700000000,Siskiyou Union High,1,18,55,16,6
+47704700000000,Siskiyou Union High,2,5,18,6,2
+47704700000000,Siskiyou Union High,4,2,7,4,2
+47704700000000,Siskiyou Union High,5,23,82,50,8
+47704700000000,Siskiyou Union High,6,5,28,12,2
+47704700000000,Siskiyou Union High,7,101,397,184,68
+47704700000000,Siskiyou Union High,9,1,6,2,0
+47705200000000,Yreka Union High,1,12,52,18,8
+47705200000000,Yreka Union High,2,5,8,10,6
+47705200000000,Yreka Union High,4,1,2,1,0
+47705200000000,Yreka Union High,5,14,80,22,10
+47705200000000,Yreka Union High,7,110,531,186,64
+47705200000000,Yreka Union High,9,4,47,6,0
+47736800000000,Butte Valley Unified,1,1,13,2,0
+47736800000000,Butte Valley Unified,5,4,120,10,4
+47736800000000,Butte Valley Unified,7,13,165,26,4
+47764600000000,Scott Valley Unified,1,1,65,2,0
+47764600000000,Scott Valley Unified,5,9,88,16,2
+47764600000000,Scott Valley Unified,7,33,456,62,4
+47764600000000,Scott Valley Unified,9,6,47,12,0
+48104900000000,Solano County Office of Education,7,18,149,4,0
+48705200000000,Benicia Unified,1,4,21,6,0
+48705200000000,Benicia Unified,2,23,235,44,28
+48705200000000,Benicia Unified,3,3,23,6,2
+48705200000000,Benicia Unified,4,40,359,76,34
+48705200000000,Benicia Unified,5,53,856,94,20
+48705200000000,Benicia Unified,6,45,423,90,14
+48705200000000,Benicia Unified,7,249,2428,484,196
+48705200000000,Benicia Unified,9,15,522,28,4
+48705300000000,Dixon Unified,1,1,14,2,2
+48705300000000,Dixon Unified,2,7,37,12,4
+48705300000000,Dixon Unified,3,1,10,2,0
+48705300000000,Dixon Unified,4,6,37,10,8
+48705300000000,Dixon Unified,5,161,1995,244,76
+48705300000000,Dixon Unified,6,10,72,14,6
+48705300000000,Dixon Unified,7,152,1280,270,130
+48705300000000,Dixon Unified,9,3,71,2,2
+48705400000000,Fairfield-Suisun Unified,1,20,215,30,8
+48705400000000,Fairfield-Suisun Unified,2,85,1067,152,98
+48705400000000,Fairfield-Suisun Unified,3,19,262,28,6
+48705400000000,Fairfield-Suisun Unified,4,129,1830,234,130
+48705400000000,Fairfield-Suisun Unified,5,505,7969,820,188
+48705400000000,Fairfield-Suisun Unified,6,299,3823,446,104
+48705400000000,Fairfield-Suisun Unified,7,287,4255,500,212
+48705400000000,Fairfield-Suisun Unified,9,298,1979,536,220
+48705700000000,Travis Unified,0,1,2,5,3
+48705700000000,Travis Unified,1,3,32,28,8
+48705700000000,Travis Unified,2,24,268,124,74
+48705700000000,Travis Unified,3,6,70,32,4
+48705700000000,Travis Unified,4,55,518,172,98
+48705700000000,Travis Unified,5,96,1127,690,198
+48705700000000,Travis Unified,6,71,733,332,98
+48705700000000,Travis Unified,7,165,2277,1436,638
+48705700000000,Travis Unified,9,19,439,104,36
+48705700000000,Vacaville Unified,0,4,99,10,6
+48705700000000,Vacaville Unified,1,11,93,28,8
+48705700000000,Vacaville Unified,2,38,319,124,74
+48705700000000,Vacaville Unified,3,7,112,32,4
+48705700000000,Vacaville Unified,4,34,350,172,98
+48705700000000,Vacaville Unified,5,233,4160,690,198
+48705700000000,Vacaville Unified,6,81,942,332,98
+48705700000000,Vacaville Unified,7,534,6013,1436,638
+48705700000000,Vacaville Unified,9,26,569,104,36
+48705800000000,Vallejo City Unified,0,4,64,6,4
+48705800000000,Vallejo City Unified,1,7,67,10,2
+48705800000000,Vallejo City Unified,2,34,412,58,36
+48705800000000,Vallejo City Unified,3,22,286,36,10
+48705800000000,Vallejo City Unified,4,249,2599,428,222
+48705800000000,Vallejo City Unified,5,279,5294,406,74
+48705800000000,Vallejo City Unified,6,337,4620,430,52
+48705800000000,Vallejo City Unified,7,122,1483,192,46
+48705800000000,Vallejo City Unified,9,20,332,30,4
+49105000000000,Sonoma County Office of Education,1,9,39,6,0
+49105000000000,Sonoma County Office of Education,5,81,387,58,2
+49105000000000,Sonoma County Office of Education,6,8,40,6,0
+49105000000000,Sonoma County Office of Education,7,65,444,26,0
+49706100000000,West Sonoma County Union High,1,3,21,6,0
+49706100000000,West Sonoma County Union High,2,9,35,18,14
+49706100000000,West Sonoma County Union High,3,2,8,4,2
+49706100000000,West Sonoma County Union High,4,2,10,4,2
+49706100000000,West Sonoma County Union High,5,92,371,148,38
+49706100000000,West Sonoma County Union High,6,2,34,6,2
+49706100000000,West Sonoma County Union High,7,424,1578,780,330
+49706100000000,West Sonoma County Union High,9,31,93,64,22
+49706600000000,Cloverdale Unified,1,2,36,4,0
+49706600000000,Cloverdale Unified,2,1,4,2,2
+49706600000000,Cloverdale Unified,5,70,759,108,26
+49706600000000,Cloverdale Unified,7,52,612,92,28
+49706600000000,Cloverdale Unified,9,0,22,2,0
+49707100000000,Geyserville Unified,5,18,162,36,0
+49707100000000,Geyserville Unified,7,4,95,8,0
+49707100000000,Gravenstein Union Elementary,5,0,90,36,0
+49707100000000,Gravenstein Union Elementary,7,0,548,8,0
+49707300000000,Harmony Union Elementary,1,2,10,4,0
+49707300000000,Harmony Union Elementary,2,3,19,8,0
+49707300000000,Harmony Union Elementary,3,0,4,2,0
+49707300000000,Harmony Union Elementary,5,19,139,40,0
+49707300000000,Harmony Union Elementary,6,1,16,6,0
+49707300000000,Harmony Union Elementary,7,35,493,76,0
+49708000000000,Liberty Elementary,0,1,23,2,0
+49708000000000,Liberty Elementary,1,3,25,2,0
+49708000000000,Liberty Elementary,2,1,25,2,0
+49708000000000,Liberty Elementary,3,3,13,6,0
+49708000000000,Liberty Elementary,4,3,34,2,0
+49708000000000,Liberty Elementary,5,5,109,4,0
+49708000000000,Liberty Elementary,6,7,85,8,0
+49708000000000,Liberty Elementary,7,26,745,44,0
+49708400000000,Oak Grove Union Elementary,1,1,12,2,0
+49708400000000,Oak Grove Union Elementary,2,0,29,2,0
+49708400000000,Oak Grove Union Elementary,5,3,232,6,0
+49708400000000,Oak Grove Union Elementary,7,10,574,14,0
+49708600000000,Petaluma Joint Union High,1,3,36,4,0
+49708600000000,Petaluma Joint Union High,2,25,176,52,24
+49708600000000,Petaluma Joint Union High,3,2,13,6,0
+49708600000000,Petaluma Joint Union High,4,6,53,12,4
+49708600000000,Petaluma Joint Union High,5,175,1518,376,60
+49708600000000,Petaluma Joint Union High,6,10,79,16,2
+49708600000000,Petaluma Joint Union High,7,500,3343,992,388
+49708600000000,Petaluma Joint Union High,9,28,160,54,20
+49708700000000,Piner-Olivet Union Elementary,2,1,127,2,0
+49708700000000,Piner-Olivet Union Elementary,5,13,634,24,0
+49708700000000,Piner-Olivet Union Elementary,7,1,566,4,0
+49709000000000,Rincon Valley Union Elementary,2,0,162,4,4
+49709000000000,Rincon Valley Union Elementary,5,0,897,180,116
+49709000000000,Rincon Valley Union Elementary,6,0,99,2,2
+49709000000000,Rincon Valley Union Elementary,7,0,1971,2,0
+49709000000000,Roseland,2,2,42,4,4
+49709000000000,Roseland,5,93,2236,180,116
+49709000000000,Roseland,6,1,18,2,2
+49709000000000,Roseland,7,1,82,2,0
+49709200000000,Santa Rosa High,0,6,65,14,0
+49709200000000,Santa Rosa High,1,19,140,34,2
+49709200000000,Santa Rosa High,2,96,581,188,92
+49709200000000,Santa Rosa High,3,11,72,24,2
+49709200000000,Santa Rosa High,4,21,100,40,18
+49709200000000,Santa Rosa High,5,618,4677,1164,198
+49709200000000,Santa Rosa High,6,64,313,114,22
+49709200000000,Santa Rosa High,7,864,4765,1616,592
+49709200000000,Santa Rosa High,9,72,520,132,42
+49709500000000,Sonoma Valley Unified,0,1,64,2,0
+49709500000000,Sonoma Valley Unified,1,1,23,2,2
+49709500000000,Sonoma Valley Unified,2,8,82,14,10
+49709500000000,Sonoma Valley Unified,3,1,5,2,0
+49709500000000,Sonoma Valley Unified,4,1,32,4,2
+49709500000000,Sonoma Valley Unified,5,108,2480,202,58
+49709500000000,Sonoma Valley Unified,6,6,37,8,4
+49709500000000,Sonoma Valley Unified,7,181,1911,352,178
+49709500000000,Sonoma Valley Unified,9,2,36,4,0
+49709600000000,Twin Hills Union Elementary,5,3,195,16,2
+49709600000000,Twin Hills Union Elementary,7,16,882,40,14
+49709600000000,Twin Hills Union Elementary,9,1,78,2,0
+49738800000000,Cotati-Rohnert Park Unified,1,4,61,6,0
+49738800000000,Cotati-Rohnert Park Unified,2,28,226,48,12
+49738800000000,Cotati-Rohnert Park Unified,3,7,35,10,4
+49738800000000,Cotati-Rohnert Park Unified,4,11,77,20,6
+49738800000000,Cotati-Rohnert Park Unified,5,156,2301,246,48
+49738800000000,Cotati-Rohnert Park Unified,6,7,121,14,2
+49738800000000,Cotati-Rohnert Park Unified,7,248,2785,434,122
+49738800000000,Cotati-Rohnert Park Unified,9,12,243,22,6
+49753600000000,Windsor Unified,0,9,92,14,4
+49753600000000,Windsor Unified,1,20,89,28,10
+49753600000000,Windsor Unified,2,7,106,14,8
+49753600000000,Windsor Unified,4,8,32,14,6
+49753600000000,Windsor Unified,5,171,2468,298,54
+49753600000000,Windsor Unified,6,8,75,16,2
+49753600000000,Windsor Unified,7,300,2670,550,144
+49753600000000,Windsor Unified,9,1,65,2,0
+49753900000000,Healdsburg Unified,1,2,11,4,0
+49753900000000,Healdsburg Unified,3,1,5,2,0
+49753900000000,Healdsburg Unified,5,94,1149,168,36
+49753900000000,Healdsburg Unified,7,86,610,162,68
+49753900000000,Healdsburg Unified,9,2,8,4,0
+50105000000000,Stanislaus County Office of Education,0,10,40,18,0
+50105000000000,Stanislaus County Office of Education,1,5,21,4,0
+50105000000000,Stanislaus County Office of Education,2,18,52,12,2
+50105000000000,Stanislaus County Office of Education,3,6,16,10,0
+50105000000000,Stanislaus County Office of Education,4,1,10,4,0
+50105000000000,Stanislaus County Office of Education,5,233,992,248,4
+50105000000000,Stanislaus County Office of Education,6,29,98,28,0
+50105000000000,Stanislaus County Office of Education,7,125,932,174,8
+50105000000000,Stanislaus County Office of Education,9,4,32,10,0
+50710400000000,Ceres Unified,1,8,71,16,6
+50710400000000,Ceres Unified,2,48,639,94,56
+50710400000000,Ceres Unified,3,6,119,10,2
+50710400000000,Ceres Unified,4,3,60,6,4
+50710400000000,Ceres Unified,5,578,9157,1010,330
+50710400000000,Ceres Unified,6,27,258,50,16
+50710400000000,Ceres Unified,7,181,2366,332,94
+50710400000000,Ceres Unified,9,6,146,10,4
+50710700000000,Denair Unified,1,2,10,4,0
+50710700000000,Denair Unified,4,1,6,2,0
+50710700000000,Denair Unified,5,92,611,144,8
+50710700000000,Denair Unified,7,97,824,178,30
+50710700000000,Denair Unified,9,8,52,18,0
+50711300000000,Keyes Union,3,1,7,2,2
+50711300000000,Keyes Union,5,2,640,4,2
+50711300000000,Keyes Union,7,20,410,38,18
+50711800000000,Modesto City High,0,66,416,108,20
+50711800000000,Modesto City High,1,26,76,36,12
+50711800000000,Modesto City High,2,201,796,368,182
+50711800000000,Modesto City High,3,46,154,90,34
+50711800000000,Modesto City High,4,46,177,84,48
+50711800000000,Modesto City High,5,1826,7366,2906,806
+50711800000000,Modesto City High,6,160,588,266,68
+50711800000000,Modesto City High,7,1220,4443,2114,872
+50711800000000,Modesto City High,9,138,725,208,86
+50712200000000,Patterson Joint Unified,1,3,24,4,2
+50712200000000,Patterson Joint Unified,2,12,139,24,20
+50712200000000,Patterson Joint Unified,3,6,96,14,4
+50712200000000,Patterson Joint Unified,4,6,86,12,8
+50712200000000,Patterson Joint Unified,5,304,4133,504,134
+50712200000000,Patterson Joint Unified,6,40,406,62,20
+50712200000000,Patterson Joint Unified,7,77,887,146,52
+50712200000000,Patterson Joint Unified,9,5,85,10,4
+50712300000000,Roberts Ferry Union Elementary,5,0,50,2,2
+50712300000000,Roberts Ferry Union Elementary,7,3,101,2,2
+50736000000000,Newman-Crows Landing Unified,2,3,21,6,6
+50736000000000,Newman-Crows Landing Unified,5,130,2085,244,66
+50736000000000,Newman-Crows Landing Unified,6,3,36,10,0
+50736000000000,Newman-Crows Landing Unified,7,53,646,92,20
+50755500000000,Hughson Unified,1,1,14,2,0
+50755500000000,Hughson Unified,2,3,12,6,4
+50755500000000,Hughson Unified,4,2,6,4,0
+50755500000000,Hughson Unified,5,84,1132,156,52
+50755500000000,Hughson Unified,7,108,986,210,88
+50755500000000,Hughson Unified,9,1,32,2,0
+50755600000000,Oakdale Joint Unified,1,8,55,16,6
+50755600000000,Oakdale Joint Unified,2,11,68,22,12
+50755600000000,Oakdale Joint Unified,4,6,51,12,8
+50755600000000,Oakdale Joint Unified,5,127,1757,476,104
+50755600000000,Oakdale Joint Unified,6,12,37,28,4
+50755600000000,Oakdale Joint Unified,7,272,3265,564,188
+50755600000000,Oakdale Joint Unified,9,2,55,6,0
+50755600000000,Riverbank Unified,1,3,14,16,6
+50755600000000,Riverbank Unified,2,2,18,22,12
+50755600000000,Riverbank Unified,4,0,8,12,8
+50755600000000,Riverbank Unified,5,153,2210,476,104
+50755600000000,Riverbank Unified,6,3,40,28,4
+50755600000000,Riverbank Unified,7,41,495,564,188
+50755600000000,Riverbank Unified,9,1,3,6,0
+50755700000000,Waterford Unified,0,10,108,18,0
+50755700000000,Waterford Unified,2,16,165,28,6
+50755700000000,Waterford Unified,5,124,1504,236,46
+50755700000000,Waterford Unified,6,6,95,12,2
+50755700000000,Waterford Unified,7,141,1742,290,70
+50755700000000,Waterford Unified,9,3,159,14,2
+50757400000000,Turlock Unified,0,3,123,6,0
+50757400000000,Turlock Unified,1,10,104,20,4
+50757400000000,Turlock Unified,2,54,645,102,48
+50757400000000,Turlock Unified,3,6,78,12,2
+50757400000000,Turlock Unified,4,8,65,14,6
+50757400000000,Turlock Unified,5,603,7621,1076,252
+50757400000000,Turlock Unified,6,29,296,42,14
+50757400000000,Turlock Unified,7,486,4836,870,366
+50757400000000,Turlock Unified,9,8,188,16,8
+50766400000000,SBE - Aspire Vanguard College Preparatory Academy,5,5,126,10,10
+50766400000000,SBE - Aspire Vanguard College Preparatory Academy,7,1,130,2,2
+51105100000000,Sutter County Office of Education,1,1,6,4,0
+51105100000000,Sutter County Office of Education,2,13,31,6,0
+51105100000000,Sutter County Office of Education,5,39,164,18,0
+51105100000000,Sutter County Office of Education,6,5,16,2,0
+51105100000000,Sutter County Office of Education,7,47,171,22,0
+51105100000000,Sutter County Office of Education,9,0,7,2,0
+51713700000000,Browns Elementary,2,0,5,6,4
+51713700000000,Browns Elementary,5,0,51,34,10
+51713700000000,Browns Elementary,6,0,5,2,0
+51713700000000,Browns Elementary,7,0,81,94,22
+51713700000000,Browns Elementary,9,0,10,12,2
+51713700000000,East Nicolaus Joint Union High,1,1,10,2,0
+51713700000000,East Nicolaus Joint Union High,2,3,11,6,4
+51713700000000,East Nicolaus Joint Union High,4,1,4,1,1
+51713700000000,East Nicolaus Joint Union High,5,19,86,34,10
+51713700000000,East Nicolaus Joint Union High,6,0,8,2,0
+51713700000000,East Nicolaus Joint Union High,7,50,217,94,22
+51713700000000,East Nicolaus Joint Union High,9,5,7,12,2
+51714000000000,Live Oak Unified,2,25,202,48,30
+51714000000000,Live Oak Unified,3,1,5,2,0
+51714000000000,Live Oak Unified,5,91,1072,154,72
+51714000000000,Live Oak Unified,6,1,3,2,0
+51714000000000,Live Oak Unified,7,27,428,46,12
+51714100000000,Marcum-Illinois Union Elementary,0,2,54,6,0
+51714100000000,Marcum-Illinois Union Elementary,1,1,23,2,0
+51714100000000,Marcum-Illinois Union Elementary,2,7,53,16,2
+51714100000000,Marcum-Illinois Union Elementary,4,1,14,2,0
+51714100000000,Marcum-Illinois Union Elementary,5,34,320,50,0
+51714100000000,Marcum-Illinois Union Elementary,6,5,88,10,2
+51714100000000,Marcum-Illinois Union Elementary,7,98,1594,208,8
+51714100000000,Marcum-Illinois Union Elementary,9,7,145,14,0
+51714200000000,Meridian Elementary,5,0,34,10,0
+51714200000000,Meridian Elementary,7,0,38,34,0
+51714200000000,Nuestro Elementary,2,1,43,2,0
+51714200000000,Nuestro Elementary,3,1,9,2,0
+51714200000000,Nuestro Elementary,5,6,96,10,0
+51714200000000,Nuestro Elementary,6,13,109,20,0
+51714200000000,Nuestro Elementary,7,36,575,34,0
+51714500000000,Sutter Union High,1,8,12,14,4
+51714500000000,Sutter Union High,2,7,18,14,10
+51714500000000,Sutter Union High,5,28,119,52,14
+51714500000000,Sutter Union High,7,124,519,250,120
+51714500000000,Sutter Union High,9,0,9,2,0
+51714600000000,Winship-Robbins,2,0,7,344,196
+51714600000000,Winship-Robbins,5,0,123,552,120
+51714600000000,Winship-Robbins,7,0,40,588,152
+51714600000000,Yuba City Unified,0,9,240,20,8
+51714600000000,Yuba City Unified,1,9,89,12,2
+51714600000000,Yuba City Unified,2,192,2290,344,196
+51714600000000,Yuba City Unified,3,1,40,2,2
+51714600000000,Yuba City Unified,4,7,76,12,8
+51714600000000,Yuba City Unified,5,329,5339,552,120
+51714600000000,Yuba City Unified,6,18,229,32,8
+51714600000000,Yuba City Unified,7,341,4326,588,152
+51714600000000,Yuba City Unified,9,37,669,64,14
+52105200000000,Tehama County Office of Education,7,4,125,6,0
+52715100000000,Corning Union High,0,1,2,2,0
+52715100000000,Corning Union High,1,7,17,10,0
+52715100000000,Corning Union High,2,3,8,4,0
+52715100000000,Corning Union High,5,133,496,220,58
+52715100000000,Corning Union High,6,1,5,2,2
+52715100000000,Corning Union High,7,87,443,150,46
+52715100000000,Corning Union High,9,2,6,4,0
+52715100000000,Elkins Elementary,2,0,1,2,0
+52715100000000,Elkins Elementary,5,0,3,110,29
+52715100000000,Elkins Elementary,7,0,9,150,46
+52715700000000,Los Molinos Unified,5,17,238,28,8
+52715700000000,Los Molinos Unified,7,16,310,20,0
+52716100000000,Mineral Elementary,5,5,21,6,0
+52716100000000,Mineral Elementary,7,22,102,32,0
+52716100000000,Mineral Elementary,9,1,4,2,0
+52716100000000,Plum Valley Elementary,7,0,17,32,0
+52716400000000,Red Bluff Joint Union High,1,13,46,20,0
+52716400000000,Red Bluff Joint Union High,2,4,10,8,4
+52716400000000,Red Bluff Joint Union High,3,2,4,6,0
+52716400000000,Red Bluff Joint Union High,4,4,9,8,6
+52716400000000,Red Bluff Joint Union High,5,108,413,192,22
+52716400000000,Red Bluff Joint Union High,6,2,16,4,0
+52716400000000,Red Bluff Joint Union High,7,314,1111,586,124
+52716400000000,Red Bluff Joint Union High,9,9,55,22,0
+53105400000000,Trinity County Office of Education,5,1,3,3,1
+53105400000000,Trinity County Office of Education,7,0,18,2,0
+53738300000000,Southern Trinity Joint Unified,2,1,1,1,0
+53738300000000,Southern Trinity Joint Unified,7,6,81,8,0
+53750300000000,Mountain Valley Unified,1,4,42,6,0
+53750300000000,Mountain Valley Unified,5,1,38,2,0
+53750300000000,Mountain Valley Unified,7,20,226,38,6
+53750300000000,Mountain Valley Unified,9,2,19,4,0
+53765100000000,Trinity Alps Unified,1,4,38,4,2
+53765100000000,Trinity Alps Unified,2,3,6,4,2
+53765100000000,Trinity Alps Unified,5,11,66,24,8
+53765100000000,Trinity Alps Unified,6,1,5,2,0
+53765100000000,Trinity Alps Unified,7,81,563,136,58
+53765100000000,Trinity Alps Unified,9,5,50,10,6
+54105500000000,Tulare County Office of Education,2,8,38,8,4
+54105500000000,Tulare County Office of Education,3,0,9,6,6
+54105500000000,Tulare County Office of Education,4,1,13,2,0
+54105500000000,Tulare County Office of Education,5,173,1278,88,44
+54105500000000,Tulare County Office of Education,7,41,720,42,14
+54105500000000,Tulare County Office of Education,9,1,12,2,0
+54718000000000,Allensworth Elementary,5,0,79,36,10
+54718000000000,Alpaugh Unified,5,20,360,36,10
+54718000000000,Alpaugh Unified,7,13,172,18,4
+54718000000000,Alpaugh Unified,9,1,22,4,4
+54718400000000,Burton Elementary,1,2,55,4,0
+54718400000000,Burton Elementary,5,54,2683,78,2
+54718400000000,Burton Elementary,6,2,35,2,0
+54718400000000,Burton Elementary,7,14,1182,20,2
+54718600000000,Cutler-Orosi Joint Unified,2,3,32,2,0
+54718600000000,Cutler-Orosi Joint Unified,4,10,134,18,10
+54718600000000,Cutler-Orosi Joint Unified,5,284,3891,432,168
+54718600000000,Cutler-Orosi Joint Unified,7,3,62,4,0
+54719300000000,Exeter Union High,0,0,6,2,0
+54719300000000,Exeter Union High,3,1,3,1,0
+54719300000000,Exeter Union High,4,1,6,2,2
+54719300000000,Exeter Union High,5,116,548,224,66
+54719300000000,Exeter Union High,6,5,12,6,2
+54719300000000,Exeter Union High,7,125,500,232,82
+54719900000000,Liberty Elementary,2,0,2,11,4
+54719900000000,Liberty Elementary,5,0,171,450,132
+54719900000000,Liberty Elementary,7,0,139,36,12
+54719900000000,Lindsay Unified,2,11,106,22,8
+54719900000000,Lindsay Unified,5,239,3758,450,132
+54719900000000,Lindsay Unified,7,20,247,36,12
+54721400000000,Stone Corral Elementary,5,103,344,20,0
+54721400000000,Stone Corral Elementary,7,35,111,12,0
+54722500000000,Tulare Joint Union High,1,10,40,18,10
+54722500000000,Tulare Joint Union High,2,23,91,38,22
+54722500000000,Tulare Joint Union High,3,1,11,2,2
+54722500000000,Tulare Joint Union High,4,2,17,4,0
+54722500000000,Tulare Joint Union High,5,855,3710,1406,424
+54722500000000,Tulare Joint Union High,6,55,200,98,32
+54722500000000,Tulare Joint Union High,7,310,1213,570,234
+54722500000000,Tulare Joint Union High,9,3,8,6,2
+54722600000000,Visalia Unified,0,1,146,2,0
+54722600000000,Visalia Unified,1,25,372,46,18
+54722600000000,Visalia Unified,2,116,1315,222,114
+54722600000000,Visalia Unified,3,3,42,6,2
+54722600000000,Visalia Unified,5,1111,17569,1968,638
+54722600000000,Visalia Unified,6,51,593,90,26
+54722600000000,Visalia Unified,7,649,7000,1220,520
+54722600000000,Visalia Unified,9,24,473,34,14
+54722600000000,Waukena Joint Union Elementary,0,0,2,1,0
+54722600000000,Waukena Joint Union Elementary,5,0,220,1968,638
+54722600000000,Waukena Joint Union Elementary,6,0,2,45,13
+54722600000000,Waukena Joint Union Elementary,7,0,56,1220,520
+54753300000000,Farmersville Unified,2,1,11,2,0
+54753300000000,Farmersville Unified,5,172,2459,308,104
+54753300000000,Farmersville Unified,6,3,9,4,2
+54753300000000,Farmersville Unified,7,15,154,28,4
+54755200000000,Porterville Unified,0,31,97,56,16
+54755200000000,Porterville Unified,1,27,298,44,8
+54755200000000,Porterville Unified,2,32,243,58,36
+54755200000000,Porterville Unified,4,25,128,48,30
+54755200000000,Porterville Unified,5,984,10783,1678,454
+54755200000000,Porterville Unified,6,15,65,24,8
+54755200000000,Porterville Unified,7,315,2063,538,186
+54755200000000,Porterville Unified,9,16,121,32,20
+54755300000000,Dinuba Unified,2,5,60,12,8
+54755300000000,Dinuba Unified,4,5,41,10,6
+54755300000000,Dinuba Unified,5,409,4496,798,310
+54755300000000,Dinuba Unified,6,1,26,4,0
+54755300000000,Dinuba Unified,7,38,881,56,30
+54767900000000,Woodlake Unified,0,46,135,2,0
+54767900000000,Woodlake Unified,2,1,10,2,0
+54767900000000,Woodlake Unified,5,119,1886,230,68
+54767900000000,Woodlake Unified,7,20,228,62,24
+55105500000000,Tuolumne County Superintendent of Schools,7,15,93,4,0
+55723600000000,Curtis Creek Elementary,5,0,79,10,0
+55723600000000,Curtis Creek Elementary,7,0,366,18,0
+55723600000000,Jamestown Elementary,5,6,121,10,0
+55723600000000,Jamestown Elementary,7,17,344,18,0
+55723900000000,Sonora Union High,1,6,27,8,0
+55723900000000,Sonora Union High,2,5,10,10,6
+55723900000000,Sonora Union High,3,2,5,4,0
+55723900000000,Sonora Union High,5,43,167,72,12
+55723900000000,Sonora Union High,7,252,950,490,132
+55724100000000,Summerville Elementary,0,0,3,2,0
+55724100000000,Summerville Elementary,1,0,36,24,2
+55724100000000,Summerville Elementary,5,0,60,30,2
+55724100000000,Summerville Elementary,6,0,1,2,0
+55724100000000,Summerville Elementary,7,0,223,302,16
+55724100000000,Summerville Elementary,9,0,23,4,0
+55724100000000,Summerville Union High,0,1,2,4,0
+55724100000000,Summerville Union High,1,12,48,24,2
+55724100000000,Summerville Union High,4,1,2,2,0
+55724100000000,Summerville Union High,5,16,117,30,2
+55724100000000,Summerville Union High,6,3,18,4,0
+55724100000000,Summerville Union High,7,173,877,302,16
+55724100000000,Summerville Union High,9,3,16,4,0
+55751800000000,Big Oak Flat-Groveland Unified,1,2,8,4,4
+55751800000000,Big Oak Flat-Groveland Unified,3,1,2,2,2
+55751800000000,Big Oak Flat-Groveland Unified,5,5,64,10,10
+55751800000000,Big Oak Flat-Groveland Unified,6,1,5,1,1
+55751800000000,Big Oak Flat-Groveland Unified,7,19,257,32,28
+55751800000000,Big Oak Flat-Groveland Unified,9,1,2,2,0
+56105600000000,Ventura County Office of Education,1,8,22,8,0
+56105600000000,Ventura County Office of Education,2,11,70,6,0
+56105600000000,Ventura County Office of Education,4,1,25,2,0
+56105600000000,Ventura County Office of Education,5,292,1069,214,0
+56105600000000,Ventura County Office of Education,6,14,50,10,0
+56105600000000,Ventura County Office of Education,7,111,1257,98,0
+56105600000000,Ventura County Office of Education,9,3,89,2,0
+56724500000000,Briggs Elementary,2,0,1,1,0
+56724500000000,Briggs Elementary,5,0,501,490,118
+56724500000000,Briggs Elementary,7,0,59,66,22
+56724500000000,Briggs Elementary,9,0,1,1,0
+56724500000000,Fillmore Unified,1,1,11,2,0
+56724500000000,Fillmore Unified,2,0,19,2,0
+56724500000000,Fillmore Unified,5,273,3414,490,118
+56724500000000,Fillmore Unified,6,3,10,4,0
+56724500000000,Fillmore Unified,7,35,343,66,22
+56724500000000,Fillmore Unified,9,1,15,2,0
+56724700000000,Mesa Union Elementary,4,1,24,2,0
+56724700000000,Mesa Union Elementary,5,16,550,32,0
+56724700000000,Mesa Union Elementary,6,4,54,8,0
+56724700000000,Mesa Union Elementary,7,15,662,30,0
+56725200000000,Ojai Unified,1,4,24,6,0
+56725200000000,Ojai Unified,2,4,60,8,8
+56725200000000,Ojai Unified,4,3,17,6,2
+56725200000000,Ojai Unified,5,73,964,112,14
+56725200000000,Ojai Unified,6,2,28,2,0
+56725200000000,Ojai Unified,7,155,1736,284,110
+56725200000000,Ojai Unified,9,1,43,2,0
+56725500000000,Oxnard Union High,1,16,46,34,8
+56725500000000,Oxnard Union High,2,114,404,204,130
+56725500000000,Oxnard Union High,3,19,58,30,8
+56725500000000,Oxnard Union High,4,180,686,338,186
+56725500000000,Oxnard Union High,5,3147,12327,4562,890
+56725500000000,Oxnard Union High,6,112,375,182,38
+56725500000000,Oxnard Union High,7,577,2688,1010,364
+56725500000000,Oxnard Union High,9,24,187,38,6
+56725500000000,Pleasant Valley,1,0,36,34,8
+56725500000000,Pleasant Valley,2,0,481,204,130
+56725500000000,Pleasant Valley,3,0,20,30,8
+56725500000000,Pleasant Valley,4,0,336,338,186
+56725500000000,Pleasant Valley,5,0,2534,4562,890
+56725500000000,Pleasant Valley,6,0,195,182,38
+56725500000000,Pleasant Valley,7,0,3380,1010,364
+56725500000000,Pleasant Valley,9,0,295,38,6
+56726000000000,Santa Paula Union High,1,2,3,14,3
+56726000000000,Santa Paula Union High,2,0,3,102,62
+56726000000000,Santa Paula Union High,3,0,3,14,4
+56726000000000,Santa Paula Union High,5,363,1562,1228,346
+56726000000000,Santa Paula Union High,6,1,4,24,5
+56726000000000,Santa Paula Union High,7,16,89,1856,666
+56726000000000,Santa Paula Union High,9,1,3,28,12
+56726000000000,Simi Valley Unified,1,18,85,28,6
+56726000000000,Simi Valley Unified,2,107,1373,204,124
+56726000000000,Simi Valley Unified,3,7,28,14,4
+56726000000000,Simi Valley Unified,4,42,333,76,26
+56726000000000,Simi Valley Unified,5,410,5784,1228,346
+56726000000000,Simi Valley Unified,6,23,215,48,10
+56726000000000,Simi Valley Unified,7,1072,10542,1856,666
+56726000000000,Simi Valley Unified,9,14,496,28,12
+56726500000000,Ventura Unified,1,7,95,10,4
+56726500000000,Ventura Unified,2,42,468,78,56
+56726500000000,Ventura Unified,3,3,42,4,2
+56726500000000,Ventura Unified,4,9,106,16,12
+56726500000000,Ventura Unified,5,599,8371,994,250
+56726500000000,Ventura Unified,6,26,247,42,16
+56726500000000,Ventura Unified,7,714,7501,1338,606
+56726500000000,Ventura Unified,9,28,572,46,16
+56737600000000,Conejo Valley Unified,1,17,100,32,16
+56737600000000,Conejo Valley Unified,2,159,1886,318,268
+56737600000000,Conejo Valley Unified,3,5,53,8,2
+56737600000000,Conejo Valley Unified,4,25,241,48,30
+56737600000000,Conejo Valley Unified,5,384,4688,726,210
+56737600000000,Conejo Valley Unified,6,37,303,66,28
+56737600000000,Conejo Valley Unified,7,1373,12697,2664,1466
+56737600000000,Conejo Valley Unified,9,30,627,56,26
+56738700000000,Oak Park Unified,2,52,698,104,76
+56738700000000,Oak Park Unified,5,20,298,36,10
+56738700000000,Oak Park Unified,6,6,79,12,6
+56738700000000,Oak Park Unified,7,303,3293,584,340
+56738700000000,Oak Park Unified,9,3,82,2,0
+56739400000000,Moorpark Unified,1,9,24,14,6
+56739400000000,Moorpark Unified,2,40,402,80,56
+56739400000000,Moorpark Unified,4,10,98,18,10
+56739400000000,Moorpark Unified,5,236,2908,346,106
+56739400000000,Moorpark Unified,6,14,92,26,12
+56739400000000,Moorpark Unified,7,349,3241,644,358
+56739400000000,Moorpark Unified,9,10,201,20,8
+57105800000000,Yolo County Office of Education,5,40,173,24,2
+57105800000000,Yolo County Office of Education,7,29,124,24,2
+57726800000000,Davis Joint Unified,1,3,50,6,2
+57726800000000,Davis Joint Unified,2,108,1336,212,176
+57726800000000,Davis Joint Unified,3,2,29,4,2
+57726800000000,Davis Joint Unified,4,7,105,12,6
+57726800000000,Davis Joint Unified,5,122,1542,228,118
+57726800000000,Davis Joint Unified,6,23,246,40,20
+57726800000000,Davis Joint Unified,7,454,4875,888,730
+57726800000000,Davis Joint Unified,9,28,415,54,40
+57726900000000,Esparto Unified,1,1,6,20,4
+57726900000000,Esparto Unified,2,4,10,140,64
+57726900000000,Esparto Unified,3,0,1,5,1
+57726900000000,Esparto Unified,4,1,7,22,10
+57726900000000,Esparto Unified,5,41,690,508,104
+57726900000000,Esparto Unified,6,5,14,98,28
+57726900000000,Esparto Unified,7,29,248,386,128
+57726900000000,Esparto Unified,9,0,11,16,2
+57726900000000,Washington Unified,1,6,98,20,4
+57726900000000,Washington Unified,2,70,931,140,64
+57726900000000,Washington Unified,3,6,95,10,2
+57726900000000,Washington Unified,4,10,190,22,10
+57726900000000,Washington Unified,5,240,3329,508,104
+57726900000000,Washington Unified,6,49,430,98,28
+57726900000000,Washington Unified,7,166,2472,386,128
+57726900000000,Washington Unified,9,9,150,16,2
+57727000000000,Winters Joint Unified,4,1,4,2,2
+57727000000000,Winters Joint Unified,5,75,973,146,40
+57727000000000,Winters Joint Unified,7,53,508,100,34
+57727000000000,Winters Joint Unified,9,1,14,2,0
+57727100000000,Woodland Joint Unified,0,0,31,2,0
+57727100000000,Woodland Joint Unified,1,6,71,8,4
+57727100000000,Woodland Joint Unified,2,37,460,72,46
+57727100000000,Woodland Joint Unified,3,5,36,8,4
+57727100000000,Woodland Joint Unified,4,4,43,8,2
+57727100000000,Woodland Joint Unified,5,460,6644,756,256
+57727100000000,Woodland Joint Unified,6,12,124,18,6
+57727100000000,Woodland Joint Unified,7,251,2582,442,230
+57727100000000,Woodland Joint Unified,9,4,135,8,2
+58105900000000,Yuba County Office of Education,1,5,22,4,0
+58105900000000,Yuba County Office of Education,5,57,174,30,0
+58105900000000,Yuba County Office of Education,6,10,25,4,0
+58105900000000,Yuba County Office of Education,7,95,278,50,0
+58105900000000,Yuba County Office of Education,9,10,17,4,0
+58727300000000,Camptonville Elementary,2,1,3,2,0
+58727300000000,Camptonville Elementary,5,5,76,10,0
+58727300000000,Camptonville Elementary,7,21,334,42,0
+58727400000000,Marysville Joint Unified,0,4,126,4,0
+58727400000000,Marysville Joint Unified,1,32,353,66,6
+58727400000000,Marysville Joint Unified,2,79,894,152,88
+58727400000000,Marysville Joint Unified,3,4,58,6,2
+58727400000000,Marysville Joint Unified,4,4,39,8,0
+58727400000000,Marysville Joint Unified,5,243,3799,426,94
+58727400000000,Marysville Joint Unified,6,33,332,62,14
+58727400000000,Marysville Joint Unified,7,289,3903,504,90
+58727400000000,Marysville Joint Unified,9,13,311,22,2
+58727400000000,Plumas Lake Elementary,1,0,7,66,6
+58727400000000,Plumas Lake Elementary,2,0,44,152,88
+58727400000000,Plumas Lake Elementary,3,0,12,6,2
+58727400000000,Plumas Lake Elementary,4,0,16,8,0
+58727400000000,Plumas Lake Elementary,5,0,251,426,94
+58727400000000,Plumas Lake Elementary,6,0,42,62,14
+58727400000000,Plumas Lake Elementary,7,0,607,504,90
+58727400000000,Plumas Lake Elementary,9,0,98,22,2
+58727700000000,Wheatland Union High,2,4,19,8,8
+58727700000000,Wheatland Union High,3,3,4,6,0
+58727700000000,Wheatland Union High,4,3,13,6,6
+58727700000000,Wheatland Union High,5,48,207,86,32
+58727700000000,Wheatland Union High,6,2,16,4,2
+58727700000000,Wheatland Union High,7,86,382,160,70
+58727700000000,Wheatland Union High,9,11,64,22,6
