@@ -60,3 +60,33 @@ CREATE TABLE graduation (
 	FOREIGN KEY (cds_code) REFERENCES enrollment (cds_code)
 );
 
+CREATE TABLE objects (
+    index int NOT NULL,
+	object_Code VARCHAR NOT NULL,
+    budget_Categories VARCHAR NOT NULL
+)
+DROP TABLE OBJECTS;
+DROP TABLE school_budget_data;
+CREATE TABLE school_budget_data (
+    cds_code float(53) NOT NULL,
+	district_code int NOT NULL,
+	function_code int NOT NULL,
+	function varchar NOT NULL,
+	amount float(53) NOT NULL
+)
+
+CREATE TABLE grad_enroll (
+	cds_code float(53) NOT NULL,
+	district varchar NOT NULL, 
+	ethnic int NOT NULL,
+	grade_12 int NOT NULL,
+	enr_total int NOT NULL,
+	grads int NOT NULL,
+	uc_grads int NOT NULL
+);
+
+select * from grad_enroll
+select * from objects
+select * from school_budget_data
+ALTER TABLE school_budget_data
+ADD year int;
