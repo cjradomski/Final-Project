@@ -3,16 +3,17 @@
 
 ### Communication
 * Messaging through Slack to discuss meeting times and share ideas
-* Zoom Meeting on Tuesday, May 26 @ 7 pm to discuss role division and initial topic exploration
-* Zoom Meeting on Wednesday, May 27 @ 7 pm to discuss datasets we have found and narrow down topic ideas
-* Zoom Meeting on Thursday, May 27 @ 6:45 pm to finalize data set before class. During class we presented a pitch of our project.
-* Zoom Meeting on Saturday, May 30 @ 7:00 pm to give update on deliverables
-* Zoom Meeting on Sunday, May 31 @ 7:00 pm to go over requirements for deliverable and goals for next week
-* Zoom Meeting on Wednesday, June 3 @ 7:00 pm to discuss roles for the next two weeks. Decided to hold the same roles from previous week.
-* Class Meeting on Thursday June 4 @ 7:00 pm discussed during class plan to go forward with finalizing dataset, starting presentation, and discussing what visulizations to create.
-* Zoom Meeting on Monday June 8 @ 9:00 pm to finalize features that will be used on predictive modeling. Decided on "Function" column.
-* Class Meeting on Thursday June 11 @ 7:00 pm to share progress for deliverables due this week. Half of visualizations are complete and final dataset has been cleaned and should be ready for modeling. Received feedback on segment 1 deliverables and we need to connect machine learning model to a database.
-* Zoom Meeting on Saturday June 14 @ 7 pm to discuss progress on data cleaning, modeling, EDA, and dashboard. Correlation, Clustering, and predicitve model did not give good results with actual data. '16-'17 data seems to have problems and taking out that data set or looking further into data cleaning is being considered. Visualizations and dashboard are coming along showing appropriate trends and distribution (except for '16-'17.
+* **Zoom Meeting on Tuesday, May 26 @ 7 pm** to discuss role division and initial topic exploration
+* **Zoom Meeting on Wednesday, May 27 @ 7 pm** to discuss datasets we have found and narrow down topic ideas
+* **Zoom Meeting on Thursday, May 27 @ 6:45 pm** to finalize data set before class. During class we presented a pitch of our project.
+* **Zoom Meeting on Saturday, May 30 @ 7:00 pm** to give update on deliverables
+* **Zoom Meeting on Sunday, May 31 @ 7:00 pm** to go over requirements for deliverable and goals for next week
+* **Zoom Meeting on Wednesday, June 3 @ 7:00 pm** to discuss roles for the next two weeks. Decided to hold the same roles from previous week.
+* **Class Meeting on Thursday June 4 @ 7:00 pm** discussed during class plan to go forward with finalizing dataset, starting presentation, and discussing what visulizations to create.
+* **Zoom Meeting on Monday June 8 @ 9:00 pm** to finalize features that will be used on predictive modeling. Decided on "Function" column.
+* **Class Meeting on Thursday June 11 @ 7:00 pm** to share progress for deliverables due this week. Half of visualizations are complete and final dataset has been cleaned and should be ready for modeling. Received feedback on segment 1 deliverables and we need to connect machine learning model to a database.
+* **Zoom Meeting on Saturday June 13 @ 7 pm** to discuss progress on data cleaning, modeling, EDA, and dashboard. Correlation, Clustering, and predicitve model did not give good results with actual data. '16-'17 data seems to have problems and taking out that data set or looking further into data cleaning is being considered. Visualizations and dashboard are coming along showing appropriate trends and distribution (except for '16-'17.
+* **Zoom Meeting on Sunday June 14 @ 7 pm** to discuss deliverables that are due. Planning to attend Tuesday class to ask how we can improve correlation and machine learning models.
 
 ### Roles - Segment 1 & 2
 ■ Git Hub Repository/Presentation - **Christian** <br/>
@@ -65,6 +66,7 @@ We have used quite a few technologies in this project so far. Below is a list of
 * For Prediction modelling, python modules were imported in jupyter notebook such as pandas, sklearn - StandardScaler,sklearn - OneHotEncoder, sklearn - train_test_split and tensorflow.
 * We have also used ANOVA, where in we imported pandas, numpy, scipy stats and within stats we imported statsmodels.formula.api and statsmodels.api.
 * Tableau will be used to create Dashboard
+* LucidChart to create outline flowchart
 
 
 
