@@ -9,11 +9,13 @@
 * **Zoom Meeting on Saturday, May 30 @ 7:00 pm** to give update on deliverables
 * **Zoom Meeting on Sunday, May 31 @ 7:00 pm** to go over requirements for deliverable and goals for next week
 * **Zoom Meeting on Wednesday, June 3 @ 7:00 pm** to discuss roles for the next two weeks. Decided to hold the same roles from previous week.
-* **Class Meeting on Thursday June 4 @ 7:00 pm** discussed during class plan to go forward with finalizing dataset, starting presentation, and discussing what visulizations to create.
-* **Zoom Meeting on Monday June 8 @ 9:00 pm** to finalize features that will be used on predictive modeling. Decided on "Function" column.
-* **Class Meeting on Thursday June 11 @ 7:00 pm** to share progress for deliverables due this week. Half of visualizations are complete and final dataset has been cleaned and should be ready for modeling. Received feedback on segment 1 deliverables and we need to connect machine learning model to a database.
-* **Zoom Meeting on Saturday June 13 @ 7 pm** to discuss progress on data cleaning, modeling, EDA, and dashboard. Correlation, Clustering, and predicitve model did not give good results with actual data. '16-'17 data seems to have problems and taking out that data set or looking further into data cleaning is being considered. Visualizations and dashboard are coming along showing appropriate trends and distribution (except for '16-'17.
-* **Zoom Meeting on Sunday June 14 @ 7 pm** to discuss deliverables that are due. Planning to attend Tuesday class to ask how we can improve correlation and machine learning models.
+* **Class Meeting on Thursday, June 4 @ 7:00 pm** discussed during class plan to go forward with finalizing dataset, starting presentation, and discussing what visulizations to create.
+* **Zoom Meeting on Monday, June 8 @ 9:00 pm** to finalize features that will be used on predictive modeling. Decided on "Function" column.
+* **Class Meeting on Thursday, June 11 @ 7:00 pm** to share progress for deliverables due this week. Half of visualizations are complete and final dataset has been cleaned and should be ready for modeling. Received feedback on segment 1 deliverables and we need to connect machine learning model to a database.
+* **Zoom Meeting on Saturday, June 13 @ 7 pm** to discuss progress on data cleaning, modeling, EDA, and dashboard. Correlation, Clustering, and predicitve model did not give good results with actual data. '16-'17 data seems to have problems and taking out that data set or looking further into data cleaning is being considered. Visualizations and dashboard are coming along showing appropriate trends and distribution (except for '16-'17).
+* **Zoom Meeting on Sunday, June 14 @ 7 pm** to discuss deliverables that are due. Planning to attend Tuesday class to ask how we can improve correlation and machine learning models.
+* **Zoom Meeting on Tuesday, June 16 @ 6:50 pm** to discuss roles for upcoming week.  Bought up requirement of string connection to SQLAlchemy and was told not needed if we did data clean up in the preprocessing stage.
+* **Zoom Meeting on Thursday, June 18 @ 7 pm** to discuss deliverables that are due. Final touches before Tuesday's presentation mock-up.  Planning to meet Sunday class to finalize section 3 deliverables.
 
 ### Roles - Segment 1 & 2
 ■ Git Hub Repository/Presentation - **Christian** <br/>
