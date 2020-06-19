@@ -1,4 +1,4 @@
-# Asessing School Funding: Predicting Graduation with District Funding  
+# Assessing School Funding: Predicting Graduation with District Funding  
 ## *Presented by Bharat Aggarwal, Kate Beliankova, Helen Nguyen-Quach, & Christian Radomski*
 
 ### Communication
