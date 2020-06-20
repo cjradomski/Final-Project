@@ -1,7 +1,7 @@
 # Initial Data Analysis
 ### Database portion of Final-Project
 
-Data collected for this project includes [enrollment](https://www.cde.ca.gov/ds/sd/sd/filesenr.asp), [graduation](https://www.cde.ca.gov/ds/sd/sd/filesgrads.asp), and [finance](https://www.cde.ca.gov/ds/fd/fd/) information from the Department of Education for California.  This longitudinal study focused with years 2012-16.  A [function](https://github.com/cjradomski/Final-Project/blob/Helen/Resources/Finance%20Data/function.csv) table was added to the final database as an appendix.
+Data collected for this project includes [enrollment](https://www.cde.ca.gov/ds/sd/sd/filesenr.asp), [graduation](https://www.cde.ca.gov/ds/sd/sd/filesgrads.asp), and [finance](https://www.cde.ca.gov/ds/fd/fd/) information from the Department of Education for California.  This longitudinal study focused on years 2012-16.  A [function](https://github.com/cjradomski/Final-Project/blob/Helen/Resources/Finance%20Data/function.csv) table was added to the final database as an appendix.
 
 Steps in intial data analysis are listed below.
 - Identify file formats and convert to appropriate format (CSV)
