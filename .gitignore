@@ -1,0 +1,20 @@
+# Adding files to git.ignore
+All_and_1617.csv
+All_Data.csv
+All_NO_1617.csv
+CDS to District Name Mapping.xlsx
+Final Project.twbx
+Schema.png
+schema1.sql
+Provisional Database
+Mock_Enrollment_Data.csv
+Mock_Graduation.csv
+Mock_Objects (Budget Categories).csv
+Mock_School_Budget.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+

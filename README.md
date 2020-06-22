@@ -1,27 +1,8 @@
-# Asessing School Funding: Predicting Graduation with District Funding  
+# Assessing School Funding: Predicting Graduation with District Funding  
 ## *Presented by Bharat Aggarwal, Kate Beliankova, Helen Nguyen-Quach, & Christian Radomski*
 
-### Communication
-* Messaging through Slack to discuss meeting times and share ideas
-* **Zoom Meeting on Tuesday, May 26 @ 7 pm** to discuss role division and initial topic exploration
-* **Zoom Meeting on Wednesday, May 27 @ 7 pm** to discuss datasets we have found and narrow down topic ideas
-* **Zoom Meeting on Thursday, May 27 @ 6:45 pm** to finalize data set before class. During class we presented a pitch of our project.
-* **Zoom Meeting on Saturday, May 30 @ 7:00 pm** to give update on deliverables
-* **Zoom Meeting on Sunday, May 31 @ 7:00 pm** to go over requirements for deliverable and goals for next week
-* **Zoom Meeting on Wednesday, June 3 @ 7:00 pm** to discuss roles for the next two weeks. Decided to hold the same roles from previous week.
-* **Class Meeting on Thursday June 4 @ 7:00 pm** discussed during class plan to go forward with finalizing dataset, starting presentation, and discussing what visulizations to create.
-* **Zoom Meeting on Monday June 8 @ 9:00 pm** to finalize features that will be used on predictive modeling. Decided on "Function" column.
-* **Class Meeting on Thursday June 11 @ 7:00 pm** to share progress for deliverables due this week. Half of visualizations are complete and final dataset has been cleaned and should be ready for modeling. Received feedback on segment 1 deliverables and we need to connect machine learning model to a database.
-* **Zoom Meeting on Saturday June 13 @ 7 pm** to discuss progress on data cleaning, modeling, EDA, and dashboard. Correlation, Clustering, and predicitve model did not give good results with actual data. '16-'17 data seems to have problems and taking out that data set or looking further into data cleaning is being considered. Visualizations and dashboard are coming along showing appropriate trends and distribution (except for '16-'17.
-* **Zoom Meeting on Sunday June 14 @ 7 pm** to discuss deliverables that are due. Planning to attend Tuesday class to ask how we can improve correlation and machine learning models.
 
-### Roles - Segment 1 & 2
-■ Git Hub Repository/Presentation - **Christian** <br/>
-▲ Machine Learning Model - **Kate** <br/>
-● Database Mockup - **Helen** <br/>
-x Dashboard - **Bharat** <br/>
-
-### Topic: High School Graduation Rates Based on District Funding Patterns
+### High School Graduation Rates Based on District Funding Patterns
 We will be analyzing California school district data for the school years 2012 through 2017 to determine if there is a relation between district funding patterns and student success. We will measure student success by taking student enrollment and graduation amounts to determine graduation rate. Our steps for this project include attaining data from various years of school district data from a reliable source, cleaning the data to fit the parameters of our model, testing our model, and making a conclusion of our analysis on whether our hypothesis can be supported. Our goal is that our findings will help school districts in determining what programs to invest funds into.
 
 ![](Visualizations/Outline_Flowchart.png)
@@ -48,11 +29,9 @@ Steps in exploring the collected data and determining what can be analyzed inclu
 ### Data Analysis
 In addition to EDA, further analysis includes other statistical and machine learning modeling:
 * **Correlation Analysis** to measure significance between overall funding and average graduation rates
-* **ANOVA Testing** to determine if the difference between the null and alternative hypotheses 
-    * H₀: There is no significant difference between graduation rates and funding
-    * Hₐ: There is a significant difference between graduation rates and funding
-* **K Means Clustering Analysis** to create a model that can accurately cluster data by graduation rate based on school district funding patterns
-* **Keras Sequential Deep Learning Model** using linear activation to predict graduation rates based on school district funding patterns 
+* **ANOVA Testing** to determine if the difference between groups (clusters) is significant
+* **K Means Clustering Analysis** to create a model that can accurately cluster data by based on school district funding patterns (used for Approach 1)
+* **Keras Sequential Deep Learning Model** using sigmoid activation function to predict districts with high graduation rate based on funding (Final Approach) and linear activation for prediction exact graduation rates (Approach 1) 
   
 ### Tableau Storyboard - [School Funding](https://public.tableau.com/profile/bharat5308#!/vizhome/FinalProject_15922006036650/SchoolFunding?publish=yes)
 Tableau Story on School Funding comparing to the UC Graduation rate in different CA districts from 2012-2016. Datapoints covered are:
@@ -73,6 +52,9 @@ We have used quite a few technologies in this project so far. Below is a list of
 * We have also used ANOVA, where in we imported pandas, numpy, scipy stats and within stats we imported statsmodels.formula.api and statsmodels.api.
 * Tableau is be used to create Dashboard/Story
 * LucidChart to create outline flowchart
+
+### Presentation
+https://docs.google.com/presentation/d/1XtwCfWoQGYScCMIWrPWQF3S4J3dyyVllm0fGmElsXU4/edit?usp=sharing
 
 
 
