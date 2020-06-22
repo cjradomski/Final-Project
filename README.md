@@ -50,7 +50,7 @@ We have used quite a few technologies in this project so far. Below is a list of
 * Within python following modules were imported - Pandas, sklearn - Kmeans,sklearn - StandardScaler, sklearn - PCA, hvplot and plotlyexpress to conduct cluster analysis.
 * For Prediction modelling, python modules were imported in jupyter notebook such as pandas, sklearn - StandardScaler,sklearn - OneHotEncoder, sklearn - train_test_split and tensorflow.
 * We have also used ANOVA, where in we imported pandas, numpy, scipy stats and within stats we imported statsmodels.formula.api and statsmodels.api.
-* Tableau is be used to create Dashboard/Story
+* Tableau is used to create Dashboard/Story
 * LucidChart to create outline flowchart
 
 ### Presentation
