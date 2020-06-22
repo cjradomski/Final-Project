@@ -29,11 +29,9 @@ Steps in exploring the collected data and determining what can be analyzed inclu
 ### Data Analysis
 In addition to EDA, further analysis includes other statistical and machine learning modeling:
 * **Correlation Analysis** to measure significance between overall funding and average graduation rates
-* **ANOVA Testing** to determine if the difference between the null and alternative hypotheses 
-    * H₀: There is no significant difference between graduation rates and funding
-    * Hₐ: There is a significant difference between graduation rates and funding
-* **K Means Clustering Analysis** to create a model that can accurately cluster data by graduation rate based on school district funding patterns
-* **Keras Sequential Deep Learning Model** using linear activation to predict graduation rates based on school district funding patterns 
+* **ANOVA Testing** to determine if the difference between groups (clusters) is significant
+* **K Means Clustering Analysis** to create a model that can accurately cluster data by based on school district funding patterns (used for Approach 1)
+* **Keras Sequential Deep Learning Model** using sigmoid activation function to predict districts with high graduation rate based on funding (Final Approach) and linear activation for prediction exact graduation rates (Approach 1) 
   
 ### Tableau Storyboard - [School Funding](https://public.tableau.com/profile/bharat5308#!/vizhome/FinalProject_15922006036650/SchoolFunding?publish=yes)
 Tableau Story on School Funding comparing to the UC Graduation rate in different CA districts from 2012-2016. Datapoints covered are:
