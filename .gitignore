@@ -7,6 +7,10 @@ Final Project.twbx
 Schema.png
 schema1.sql
 Provisional Database
+Mock_Enrollment_Data.csv
+Mock_Graduation.csv
+Mock_Objects (Budget Categories).csv
+Mock_School_Budget.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
