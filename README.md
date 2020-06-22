@@ -53,7 +53,8 @@ The test obtained a P-value equal to 4.96 which is higher than 0.5 , so we keep 
 ANOVA showed P-value = 2.150737e-07, which is much less than 0.05, so H0 is rejected. It is concluded that there is a significant difference in financing between graduation groups.
 ### Prediction model
 Feature standardization and encoding have already been made during pre-processing. However, the 'Amount' column was also binned into five groups: <500k, 500k-1500k, 1500k-3000k, 3000k-10000k, >10000k, and then encoded. Features that might be considered as noisy were removed. The target variable that shows graduation rates was also encoded, where the districts with graduation rate >75% received 1 and the districts with graduation rate <75% received 0. After experimenting with the number of hidden layers and activation functions, the model received an accuracy score of 97%.
-##Limitations and recommendations for further analysis
+
+## Limitations and recommendations for further analysis
 1.	As observed during the primary analysis strong correlation between financing and graduation rates was not found and it might be concluded that other factors have a significant impact on graduation. For further analysis it’s recommended to include other aspects that might have an impact on graduation or look at this question on a school level instead of district level.
 2.	As during the ANOVA data didn’t show perfect normal distribution it’s recommended to check data for extreme values or apply some data transformation such as with logarithmic function.
 3.	Data was used for the 2012-2016 school years. To build a more precise model it’s recommended to use more recent data and/or additional years.
