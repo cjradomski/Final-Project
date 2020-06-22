@@ -1,29 +1,36 @@
-# UCB Extension Data Analytics Bootcamp Final Project  
-## *Presented by Bharat Aggarwal, Kate Beliankova, Helen Nguyen-Quach, & Christian Radomski*
+# Initial Data Analysis
+### Database portion of Final-Project
 
-### Communication
-* Messaging through Slack to discuss meeting times and share ideas
-* Zoom Meeting on Tuesday, May 26 @ 7 pm to discuss role division and initial topic exploration
-* Zoom Meeting on Wednesday, May 27 @ 7 pm to discuss datasets we have found and narrow down topic ideas
-* Zoom Meeting on Thursday, May 27 @ 6:45 pm to finalize data set before class. During class we presented a pitch of our project.
-* Zoom Meeting on Saturday, May 30 @ 7:00 pm to give update on deliverables
+Data collected for this project includes [enrollment](https://www.cde.ca.gov/ds/sd/sd/filesenr.asp), [graduation](https://www.cde.ca.gov/ds/sd/sd/filesgrads.asp), and [finance](https://www.cde.ca.gov/ds/fd/fd/) information from the Department of Education for California.  This longitudinal study focused on years 2012-16.  A [function](https://github.com/cjradomski/Final-Project/blob/Helen/Resources/Finance%20Data/function.csv) table was added to the final database as an appendix.
 
-### Roles - Segment 1
-■ Git Hub Repository Set Up - **Christian** <br/>
-▲ Machine Learning Model - **Kate** <br/>
-● Database Mockup - **Helen** <br/>
-x Dashboard/Technologies Used - **Bharat** <br/>
-
-### Topic: High School Graduation Rates Based on District Funding Patterns
-We will be analyzing California school district data to determine if there is a relation between district funding patterns and student success. We will take steps to attain data from various years of school district data from a reliable source, clean the data to fit the parameters of our model, test our model, and make a conclusion of our analysis on whether our hypothesis can be supported. Our goal is that our findings will help school districts in determining what programs to invest funds into.
-
-### Data Source
-The data that is being used in this analysis will be attained from the California Department of Education. 
-* Datasets for CA Enrollment https://www.cde.ca.gov/ds/sd/sd/filesenr.asp
-* Datasets for CA Graduation by Race and Gender https://www.cde.ca.gov/ds/sd/sd/filesgrads.asp
-* Datasets for CA Annual Financial Data https://www.cde.ca.gov/ds/fd/fd/
-
-### Research Questions
-* Does school funding directly correlate to school performance? 
-* Do the spending patterns of a school district impact student success?
+Steps in intial data analysis are listed below.
+- Identify file formats and convert to appropriate format (CSV)
+- Identify data types and columns
+- Create Schema.png to establish connection through [QuickDBD](https://www.quickdatabasediagrams.com/)
+![Schema.png](https://github.com/cjradomski/Final-Project/blob/master/Schema.png)
+- Data clean-up includes dropping NAs, keeping columns:
+- [Enrollment](https://github.com/cjradomski/Final-Project/tree/Helen/Resources/Enrollment%20Data)
+  - CDS_CODE (14 digit code that represents county, district, and school)
+  - DISTRICT_NAME
+  - ETHNIC (kept for future studies but wasn't used in this project)
+  - GENDER (kept for future studies but wasn't used in this project)
+  - GR_12 (students enrolled in 12th grade)
+  - ENR_Total(total number of students enrolled)
+- [Graduation](https://github.com/cjradomski/Final-Project/tree/Helen/Resources/Graduation%20Data)
+  - CDS_CODE
+  - ETHNIC
+  - GRADS (number of students graduated)
+  - UC_GRADS (number of students eligible for college admission)
+- [Finance](https://github.com/cjradomski/Final-Project/tree/Helen/Resources/Finance%20Data)
+  - County_Code
+  - District_Code
+  - School_Code
+    - County_Code, District_Code, and School_code was converted to CDS_CODE to correspond with enrollment and graduation data
+  - Function_Code
+  - Amount
+    - Kept positive and dropped negative amounts
+- Function (appendix)
+  - Function code was connected with name for greater readability in final database
+  
+These steps were repeated for school years 2012-2013, 2013-2014, 2014-2015, and 2015-2016.  Final database was made with a join combination of all tables (Enrollment, Finance, Graduation, Function) for [all years](https://github.com/cjradomski/Final-Project/tree/Helen/Resources/All_Data/All_Data_Notebooks).
 
