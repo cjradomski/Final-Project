@@ -35,7 +35,7 @@ In addition to EDA, further analysis includes other statistical and machine lear
   
 ### Tableau Storyboard - [School Funding](https://public.tableau.com/profile/bharat5308#!/vizhome/FinalProject_15922006036650/SchoolFunding?publish=yes)
 Tableau Story on School Funding comparing to the UC Graduation rate in different CA districts from 2012-2016. Datapoints covered are:
-* **Top 10 Districts** by Funding as well as UC Grads show that funding directly affects the UC Grad Rate.
+* **Top 10 Districts** by Funding as well as UC Grads show that funding directly affects the UC Grad Rate. This slide has interactive filter on Yera and Function to drill down into specifics.
 * **Yearly Distribution** shows how the Funding, Enrollment and UC Grad is distributed each year.
 * **Special Education** shows that higher Funding does not imply higher UC Grad rate under Special Eductaion.
   
@@ -50,7 +50,7 @@ We have used quite a few technologies in this project so far. Below is a list of
 * Within python following modules were imported - Pandas, sklearn - Kmeans,sklearn - StandardScaler, sklearn - PCA, hvplot and plotlyexpress to conduct cluster analysis.
 * For Prediction modelling, python modules were imported in jupyter notebook such as pandas, sklearn - StandardScaler,sklearn - OneHotEncoder, sklearn - train_test_split and tensorflow.
 * We have also used ANOVA, where in we imported pandas, numpy, scipy stats and within stats we imported statsmodels.formula.api and statsmodels.api.
-* Tableau is be used to create Dashboard/Story
+* Tableau is used to create Dashboard/Story
 * LucidChart to create outline flowchart
 
 ### Presentation
