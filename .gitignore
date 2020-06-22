@@ -6,3 +6,10 @@ CDS to District Name Mapping.xlsx
 Final Project.twbx
 Schema.png
 schema1.sql
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
