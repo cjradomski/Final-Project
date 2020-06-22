@@ -35,7 +35,7 @@ In addition to EDA, further analysis includes other statistical and machine lear
   
 ### Tableau Storyboard - [School Funding](https://public.tableau.com/profile/bharat5308#!/vizhome/FinalProject_15922006036650/SchoolFunding?publish=yes)
 Tableau Story on School Funding comparing to the UC Graduation rate in different CA districts from 2012-2016. Datapoints covered are:
-* **Top 10 Districts** by Funding as well as UC Grads show that funding directly affects the UC Grad Rate.
+* **Top 10 Districts** by Funding as well as UC Grads show that funding directly affects the UC Grad Rate. This slide has interactive filter on Yera and Function to drill down into specifics.
 * **Yearly Distribution** shows how the Funding, Enrollment and UC Grad is distributed each year.
 * **Special Education** shows that higher Funding does not imply higher UC Grad rate under Special Eductaion.
   
