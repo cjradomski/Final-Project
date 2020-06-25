@@ -35,9 +35,15 @@ In addition to EDA, further analysis includes other statistical and machine lear
   
 ### Tableau Storyboard - [School Funding](https://public.tableau.com/profile/bharat5308#!/vizhome/FinalProject_15922006036650/SchoolFunding?publish=yes)
 Tableau Story on School Funding comparing to the UC Graduation rate in different CA districts from 2012-2016. Datapoints covered are:
+* **Introduction**
+* **What We're Looking to Answer** questions that we are trying to answer from thsi project and data analysis.
+* **Technologies Used** list of technologies and scripting lalnguages we have used in this project.
 * **Top 10 Districts** by Funding as well as UC Grads show that funding directly affects the UC Grad Rate. This slide has interactive filter on Yera and Function to drill down into specifics.
 * **Yearly Distribution** shows how the Funding, Enrollment and UC Grad is distributed each year.
 * **Special Education** shows that higher Funding does not imply higher UC Grad rate under Special Eductaion.
+* **Machine Learning (Initial Approaches)** few approaches that were tried to analyze the impact of funding on Grad Rate.
+* **Machine Learning (Final Approach)** final approach that was implemented to get the best accuracy score.
+* **Limitations and Recommendations** points out limitations and recommendation to yieldl better analytical results.
   
 ### Technologies Used
 We have used quite a few technologies in this project so far. Below is a list of the same: 
