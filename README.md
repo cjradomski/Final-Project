@@ -43,7 +43,7 @@ Tableau Story on School Funding comparing to the UC Graduation rate in different
 * **Special Education** shows that higher Funding does not imply higher UC Grad rate under Special Eductaion.
 * **Machine Learning (Initial Approaches)** few approaches that were tried to analyze the impact of funding on Grad Rate.
 * **Machine Learning (Final Approach)** final approach that was implemented to get the best accuracy score.
-* **Limitations and Recommendations** points out limitations and recommendation to yieldl better analytical results.
+* **Limitations and Recommendations** points out limitations and recommendation to yield better analytical results.
   
 ### Technologies Used
 We have used quite a few technologies in this project so far. Below is a list of the same: 
